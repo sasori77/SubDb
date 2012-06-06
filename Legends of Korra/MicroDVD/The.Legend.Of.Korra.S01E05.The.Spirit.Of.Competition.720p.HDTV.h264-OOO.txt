@@ -1,0 +1,402 @@
+{24}{56}Ziemia
+{65}{98}Ogieñ
+{106}{139}Powietrze
+{140}{173}Woda
+{205}{298}{Y:i}Tylko Avatar mo¿e opanowaæ|wszystkie cztery ¿ywio³y
+{300}{356}{Y:i}i zaprowadziæ równowagê na œwiecie.
+{419}{494}{Y:b}Legenda Korry
+{494}{529}{Y:i}Mi³oœæ wisi w powietrzu!
+{529}{589}{Y:i}Odk¹d Avatar Korra przyby³a|do Republic City,
+{589}{662}{Y:i}ma na oku tylko|jeden cel - Mako.
+{666}{751}{Y:i}Uczucie wydawa³o siê odwzajemnione,|a¿ do zajœcia nieszczêœliwego wypadku.
+{754}{828}{Y:i}Teraz Mako wpad³ w ramiona
+{828}{869}{Y:i}piêknej Asami.
+{869}{957}{Y:i}Czy to w³aœnie mi³oœæ oka¿e siê|najgroŸniejszym wrogiem Korry?
+{978}{1067}{Y:b}<font color="#3399FF">Sezon 1, Epizod 5|"Duch rywalizacji"</font>
+{1496}{1545}Ha-ha-ha-ha-ha!
+{1562}{1640}Œwietnie, ¿e wreszcie wróci³aœ|do treningów, Korra.
+{1640}{1673}Te¿ siê z tego cieszê,
+{1674}{1741}ale Turlock nie jest raczej szczêœliwy|z opuszczania misji si³ specjalnych.
+{1741}{1821}Hej, do³¹czy³aœ do Ognistych Fretek|wczeœniej ni¿ do jego si³ specjalnych.
+{1822}{1862}Ok, czas na naradê dru¿yny!
+{2086}{2135}Dziœ wieczorem gramy|pierwszy mecz w turnieju.
+{2135}{2204}Wiem, ¿e nasza trójka jest zespo³em|od niedawna, ale uwa¿am,
+{2205}{2264}¿e Ogniste Fretki nigdy nie by³y|w takiej formie jak teraz.
+{2265}{2305}- Jesteœcie gotowi?|- Jesteœmy gotowi!
+{2306}{2384}NieŸle...|Bêdziesz potrzebowa³ tego!
+{2387}{2443}- Czeœæ, Asami.|- Dzieñ dobry, skarbie!
+{2474}{2548}- Te nowe stroje wygl¹daj¹ œwietnie!|- Ty wygl¹dasz œwietnie!
+{2600}{2637}Dru¿yno...
+{2646}{2688}Do zobaczenia na meczu dziœ wieczorem,
+{2690}{2727}Asami i ja mamy randkê.
+{2731}{2801}Ok, do zobaczenia póŸniej,|no wiesz, kiedy wrócisz.
+{2854}{2917}Wiêc... Korra.
+{2925}{2993}Oni id¹, a my zostaliœmy,
+{2993}{3038}sami na sali.
+{3044}{3087}Tylko ty i ja...
+{3090}{3152}Dwoje samotnych ludzi.
+{3159}{3194}Razem...
+{3195}{3243}- Samotnych.|- Uh...
+{3256}{3340}Muszê wracaæ do Œwi¹tyni Powietrza|na trening z Tenzinem. Na razie!
+{3445}{3488}Hej, Pabu!
+{3488}{3550}Chcesz wygl¹daæ osza³amiaj¹co|w nowym stroju, prawda?
+{3649}{3683}Wiêc...
+{3684}{3732}Co byæ powiedzia³ na to,|¿e Korra,
+{3734}{3778}mog³aby byæ kimœ|w rodzaju dziewczyny?
+{3780}{3810}Ona jest œwietna!
+{3815}{3875}Ale to nie ma znaczenia, gdy¿|jestem z Asami!
+{3875}{3930}Mówi³em o dziewczynie|dla mnie!
+{3930}{3972}Zostaw jakieœ dziewczyny|dla reszty z nas!
+{3973}{4017}Wiem co masz|na myœli.
+{4034}{4081}Có¿, nie wiem, Bo.
+{4081}{4135}Randka z Korr¹ nie wydaje|mi siê dobrym pomys³em.
+{4136}{4195}Dwie sekundy temu powiedzia³eœ,|¿e jest œwietna.
+{4196}{4286}Tak, Korra to œwietny zawodnik,|i jest Avatarem, ale...
+{4294}{4336}Nie wiem, czy jest dobrym|"materia³em" na dziewczynê.
+{4337}{4399}- Ona jest bardziej jak nasz kumpel.|- Co ty gadasz!
+{4400}{4461}Korra i ja tworzylibyœmy|doskona³y zwi¹zek!
+{4462}{4536}Ona jesy silna, ja jestem silny,|ona jest zabawna, ja jestem zabawny,
+{4536}{4590}ona jest piêkna, ja jestem wspania³y!
+{4613}{4674}Ok, nie obchodzi mnie co myœlisz,|zamierzam zapytaæ w koñcu Korrê.
+{4675}{4743}Randka z cz³onkiem dru¿yny|to niezbyt m¹dre posuniêcie,
+{4744}{4781}szczególnie podczas turnieju.
+{4781}{4851}Przestañ bujaæ w ob³okach|i skup siê na tym co jest wa¿ne.
+{4852}{4919}- Ok?|- Tak, tak, wiem!
+{4922}{4966}Wiesz o czym mówiê, Pabu.
+{4974}{5013}Mówiê o prawdziwej mi³oœci...
+{5238}{5325}Jak ci idzie z tym|wysokim, rozmarzonym magiem ognia?
+{5325}{5392}Ostatnio spêdzacie|ze sob¹ du¿o czasu!
+{5392}{5484}Ooo, tak, opowiedz nam|o swoim gor¹cym zwi¹zku.
+{5486}{5547}Co? Ha!|S³uchajcie,
+{5547}{5621}nie interesuje mnie Mako,|ani ¿adne zwi¹zki.
+{5623}{5719}Po za tym, on jest teraz|z piêkn¹, eleganck¹, bogat¹ dziewczyn¹...
+{5740}{5821}Ale za³ó¿my, ¿e jestem|nim zainteresowana.
+{5822}{5864}- Co powinnam zrobiæ?|- Ooh!
+{5865}{5915}Przeczyta³am historyczn¹ opowieœæ,
+{5916}{5992}w której bohaterka zakochuje siê|w synu wrogiego genera³a,
+{5992}{6037}który ma|poœlubiæ ksiê¿niczkê.
+{6038}{6090}- Musisz zrobiæ to, co ona.|- Powiedz co!
+{6090}{6181}Bra³a udzia³ w bitwie, dosiadaj¹c smoka,|nastêpnie spali³a ca³y kraj,
+{6181}{6269}a potem rzuci³a siê do wulkanu...|To by³o takie romantyczne...!
+{6270}{6325}- Uh...|- Nie, nie, nie!
+{6326}{6411}Najlepszy sposób, by zdobyæ serce ch³opaka|to sporz¹dziæ mi³osny eliksir z têczy i zachodów s³oñca.
+{6411}{6497}To sprawi, ¿e kochankom wyrosn¹ skrzyd³a|i polec¹ na nich do magicznego zamku w chmurach,
+{6497}{6544}gdzie wezm¹ œlub|i bêd¹ jeœæ chmury ³y¿k¹,
+{6544}{6595}a w ich ksiê¿ycowym ponczu|gwiazdy pos³u¿¹ jako kostki lodu.
+{6596}{6635}I bêd¹ z sob¹ na zawsze!
+{6636}{6713}Wulkan jest dla mnie|bardziej przekonuj¹cy.
+{6713}{6755}[laughs, somewhere in the back]
+{6757}{6814}O, czeœæ, Pema.|Hm...
+{6818}{6889}- Jak d³ugo tu sta³aœ?|- Hm...
+{6889}{6925}Doœæ d³ugo.
+{6928}{6996}Ale wierz mi,|wiem, przez co przechodzisz.
+{6998}{7063}Kiedyœ by³am|w tej samej sytuacji...
+{7064}{7094}z Tenzin.
+{7095}{7155}Tatuœ by³ zakochany w kimœ innym?
+{7156}{7206}- Tak.|- I co zrobi³aœ?
+{7207}{7267}Có¿, przez d³u¿szy czas,|nie zrobi³am nic.
+{7268}{7328}By³am zbyt nieœmia³a|i ba³am siê odrzucenia...
+{7331}{7412}Ale patrzenie, jak moja druga po³ówka|ma spêdziæ resztê ¿ycia z niew³aœciw¹ kobiet¹...
+{7412}{7451}by³o zbyt bolesne.
+{7452}{7545}Prze³ama³am siê i wyzna³am|swoj¹ mi³oœæ Tenzinowi.
+{7545}{7586}I to ca³a historia.
+{7586}{7631}Wooow...!
+{7782}{7837}{Y:i}Proszê pañstwa, po roku oczekiwania,
+{7837}{7933}{Y:i}wreszcie rozpoczynaj¹ siê|mistrzostwa pro-bendingu.
+{7933}{7979}{Y:i}Dzisiaj rozegrana zostanie|pierwsza faza turnieju
+{7979}{8049}{Y:i}w której udzia³ bierze|szesnaœcie dru¿yn.
+{8049}{8079}I powiem wam,
+{8079}{8190}¿e s¹ to najbardziej utalentowane|dru¿yny, jakie kiedykolwiek tu widzia³em.
+{8192}{8280}{Y:i}Przedstawiam pierwszy zespó³,
+{8280}{8379}{Y:i}Ogniste Fretki sponsorowane|przez Future Industries!
+{8443}{8496}{Y:i}i ich przeciwników,
+{8496}{8586}{Y:i}Królikokangury Czerwonych Piasków.
+{8727}{8775}{Y:i}Có¿ za wybuchowe otwarcie!
+{8775}{8853}{Y:i}Obie dru¿yny szybko wracaj¹ na pozycje|i zasypuj¹ siê gradem ciosów.
+{8853}{8909}{Y:i}Jestem zdumiony|tym jak bardzo
+{8909}{8951}{Y:i}Ogniste Fretki zdo³a³y|poprawiæ swoj¹ grê.
+{8952}{9024}{Y:i}Nic dziwnego, ¿e ostatnio nie mogliœmy|nic przeczytaæ o Avatarze w gazetach.
+{9024}{9114}{Y:i}Widocznie Avatar ca³e dnie|spêdza³a trenuj¹c na sali.
+{9114}{9156}{Y:i}Fretki przejmuj¹|pole Królikokangurów,
+{9157}{9200}{Y:i}i nie zamierzaj¹ go opuœciæ.
+{9201}{9237}{Y:i}£adny unik Mako,
+{9237}{9286}{Y:i}Bolin atakuje, Uma unika ciosu...
+{9286}{9342}{Y:i}i wszyscy trzej zawodnicy Królikokangurów|zostaj¹ znokautowani!
+{9343}{9407}{Y:i}Ogniste Fretki|³atwo wygrywaj¹ rundê pierwsz¹.
+{9423}{9465}Runda druga!
+{9467}{9507}{Y:i}Królikokangury pragn¹|rewan¿u
+{9507}{9553}{Y:i}i bezpoœrednio atakuj¹ Bolina.
+{9554}{9594}{Y:i}Z pomoc¹ przychodzi mu Korra,
+{9594}{9659}{Y:i}i jej wodny cios cofa|Uli do Strefy Drugiej!
+{9662}{9749}{Y:i}Fretki po prawdziwie ognistej grze,|wygrywaj¹ rundê drug¹.
+{9750}{9819}Runda trzecia!
+{9834}{9905}{Y:i}Maj¹c przegrane dwie rundy, Królikokangury,|by wygraæ, potrzebuj¹ nokautu,
+{9906}{9950}{Y:i}a z gr¹, jak¹|prezentuj¹ Ogniste Fretki,
+{9951}{9999}{Y:i}nie s¹dzê, by tak siê sta³o.
+{10069}{10159}{Y:i}Fretki graj¹ dziœ|jak dobrze naoliwiona maszyna.
+{10216}{10256}{Y:i}Bolin cofa Ali|do Strefy Drugiej
+{10256}{10325}{Y:i}przez co Fretki|zyskuj¹ przewagê.
+{10326}{10399}{Y:i}Królikokangury walcz¹ w tej chwili|o utrzymanie pozycji.
+{10418}{10479}{Y:i}Wypadaj¹ Ali, Uma i Uli!
+{10479}{10570}{Y:i}Wszystkie trzy rundy wygrywaj¹|Ogniste Fretki sponsorowane przez Future Industries,
+{10570}{10638}{Y:i}przez co wygrywaj¹ mecz|otwarcia turnieju!
+{10639}{10708}- U-hu! - Tak!|- To by³o to o czym mówi³em!
+{10773}{10826}{Y:i}- Dziêkuj¹, bardzo dziêkujê!|- Wow, byliœcie naprawdê zgrani
+{10827}{10880}- ...tam na arenie!|- Tak!
+{10881}{10938}Wiesz, czujê, ¿e dwoje z nas|s¹ zgrani tak¿e
+{10938}{10986}- ...po za aren¹!|- Uh...
+{10987}{11064}- Jasne! - Myœla³em, ¿e powinniœmy|spêdziæ trochê czasu razem.
+{11064}{11112}Spêdzamy ze sob¹|przecie¿ du¿o czasu!
+{11114}{11151}Mia³am na myœli, spêdzanie czasu|nie jako cz³onkowie dru¿yny.
+{11152}{11248}I nie podczas szukania porwanego|cz³onka dru¿yny lub walki z blokerami chi!
+{11249}{11283}Nie wiem...
+{11285}{11327}- Asami i ja...|- Naprawdê ciê lubiê,
+{11327}{11377}i myœlê, ¿e jesteœmy|sobie przeznaczeni!
+{11453}{11508}Korra, naprawdê mi przykro...
+{11520}{11581}Ale nie czujê tego samego|do ciebie.
+{11583}{11636}Zapomnij, ¿e cokolwiek mówi³am.
+{11701}{11742}Gratulacje ch³opaki!
+{11742}{11805}Byliœcie œwietni.
+{12010}{12087}Wiêc... Korra...|Tak sobie myœla³em...
+{12088}{12154}Ty i ja, mo¿e wyskoczymy|na jak¹œ kolacjê...
+{12154}{12231}- Coœ w rodzaju randki...|- Oh...
+{12237}{12306}To mi³o z twojej strony|ale nie.
+{12318}{12394}- Nie czujê siê tego warta.|- ¯artujesz sobie ze mnie?
+{12394}{12470}Jesteœ najm¹drzejsz¹, najzabawniejsz¹|najbardziej utalentowan¹,...
+{12471}{12538}- ...najbardziej niesamowit¹ dziewczyn¹ na œwiecie!|- Hm-hm-hm-hm!
+{12540}{12588}Naprawdê tak o mnie myœlisz?
+{12591}{12653}Myœlê tak od momentu,|gdy ciê zobaczy³em
+{12654}{12727}Zaufaj mi, razem bêdziemy|mieli mnóstwo zabawy.
+{12728}{12795}Wiesz co?|Chêtnie jej trochê zobaczê.
+{12796}{12842}- Ok.|- Tak!
+{12842}{12924}Kto jest teraz najszczêœliwszym,|ch³opakiem na œwiecie? Bolin!
+{13266}{13332}- Jak ci smakuje?|- Hmm, jest pyszne!
+{13332}{13370}i ca³kowicie prawdziwe.
+{13371}{13437}Nie zdawa³am sobie sprawy, jak bardzo|têskni³am za Plemieniem Wody.
+{13437}{13486}To œwietnie,|bo to moje ulubione danie.
+{13487}{13559}Widzisz? Ty uwielbiasz jedzenie Plemienia Wody,|ja uwielbiam jedzenie Plemienia Wody,
+{13560}{13626}to kolejny dowód,|¿e œwietnie do siebie pasujemy.
+{13626}{13661}Maj¹ tutaj œwietne kluski!
+{13686}{13760}Kim jest ten straszny facet,|siê na nas gapi?
+{13771}{13834}To jest Tahno i Wilkotoperze.
+{13835}{13899}Obroñcy tytu³u,|od trzech lat.
+{13900}{13937}Nie patrz mu w oczy!
+{14104}{14171}Uh-oh, id¹ tutaj...
+{14171}{14247}Nie zadzieraj z nimi,|to niemili goœcie.
+{14320}{14407}Co ja tu widzê,|czy to nie Ogniste Fretki...
+{14412}{14482}najbardziej ¿a³osna dru¿yna|tego turnieju?
+{14483}{14578}Powiedz mi, jak kilku amatorów jak wy|dosta³o siê do turnieju?
+{14579}{14645}A szczególnie ty, Avatarze.
+{14666}{14755}Wiesz, jeœli chcia³abyœ siê nauczyæ|prawdziwego pro-bendingu,
+{14756}{14816}Mogê daæ ci|kilka prywatnych lekcji.
+{14824}{14897}Chcesz siê ze mn¹ zmierzyæ,|przyjemniaczku?
+{14905}{14974}Dobrze.|Poka¿ê Ci pierwsze uderzenie.
+{14980}{15020}Korra, nie.
+{15020}{15096}On próbuje ciê sprowokowaæ. Jeœli|go uderzysz, wylecisz z turnieju.
+{15536}{15638}Nigdy nie widzia³em,|¿eby ktoœ tak bardzo przestraszy³ Tahno.
+{15639}{15699}Korra, jesteœ jedyna w swoim rodzaju.
+{16069}{16125}- Ha-ha...|- Ha-ha!
+{16729}{16799}- Jaki rodzaj gry uprawiasz?|- Uh... pro-bending?
+{16799}{16875}- Dostaliœmy siê przecie¿ do æwieræfina³ów.|- Nie, mam na myœli z Bolinem.
+{16876}{16946}On szaleje na twoim punkcie i myœlê,|¿e chcesz go wykorzystaæ, by odegraæ siê na mnie.
+{16947}{17006}Wcale nie chcê,|po prostu dobrze siê bawimy.
+{17009}{17078}- Tak czy owak, co ciê to obchodzi?|- Od zawsze opiekujê siê moim m³odszym bratem.
+{17078}{17151}- Nie chcê widzieæ, jak ³amiesz mu serce.|- Chwileczkê...
+{17152}{17221}Ty nie martwisz siê o niego.|Ty jesteœ zazdrosny!
+{17222}{17308}- Coœ do mnie czujesz!|- Co? "Zazdrosny"?
+{17310}{17351}Nie b¹dŸ œmieszna.
+{17355}{17405}Przyznaj to: lubisz mnie.
+{17407}{17455}Nie! Jestem z Asami!
+{17457}{17520}Tak, ale gdy z ni¹ jesteœ,|myœlisz o mnie, prawda...
+{17521}{17576}- Masz o sobie zbyt wysokie mniemanie.|- Jestem po prostu szczera!
+{17577}{17625}- Jesteœ szalona!|- Jesteœ k³amc¹!
+{17669}{17727}Hej, Ma-ko-oh...!
+{17735}{17782}Osiem dru¿yn odpad³o
+{17782}{17836}i osiem awansowa³o|to æwieræfina³ów,
+{17837}{17884}{Y:i}które odbêd¹ siê w³aœnie dzisiaj.
+{17889}{17971}{Y:i}Debiutanci zmierz¹ siê z by³ymi,|najbardziej utytu³owanymi mistrzami,
+{17971}{18007}{Y:i}dru¿yn¹ Dzikoje¿y.
+{18008}{18051}M³odoœæ przeciwko doœwiadczeniu,
+{18051}{18097}w bitwie pokoleñ,
+{18097}{18160}a raczej miêdzy pokoleniami.
+{18309}{18393}{Y:i}Korra wykonuje unik|i wpada na cz³onka swojej dru¿yny!
+{18421}{18494}Mako, Bolin|i Korra zostaj¹ znokautowani!
+{18497}{18590}{Y:i}Runda pierwsza dla Dzikoje¿y!
+{18597}{18642}Mia³aœ nas broniæ|podczas gdy ja atakowa³em!
+{18643}{18696}Próbowa³am unikn¹æ ataku!
+{18697}{18728}Co siê z wami dzieje?
+{18729}{18786}Dobra, niewa¿ne,|gramy dalej.
+{18810}{18898}{Y:i}Fretki bêd¹ chcia³y zagraæ|bardziej ofensywnie w rundzie drugiej.
+{19087}{19134}{Y:i}Bolin atakuje lawin¹ ciosów
+{19135}{19210}{Y:i}Sam jeden robi za ca³y|batalion magów.
+{19237}{19299}{Y:i}Fretkom trudno by³o|dzisiaj z³apaæ rytm,
+{19299}{19385}{Y:i}ale dziêki Bolinowi,|wygrywaj¹ rundê drug¹.
+{19492}{19529}{Y:i}Nie wiem, co oni jedli,
+{19530}{19610}{Y:i}ale to nie jest ten zespó³,|który wyeliminowa³ Królikokangury.
+{19630}{19684}Runda trzecia koñczy siê remisem!
+{19685}{19767}{Y:i}Dogrywka zadecyduje|o wyniku meczu.
+{19839}{19903}Ogniste Fretki wygrywaj¹ rzut monet¹!
+{19908}{19973}- Jaki ¿ywio³ wybierasz?|- Zajmê siê tym.
+{19973}{20064}Wiem, ¿e normalnie byœ sobie z tym poradzi³,|ale szczerze mówi¹c, dzisiaj twoje myœli s¹ daleko st¹d.
+{20065}{20107}Ja siê tym zajmê.
+{20120}{20169}Wybieramy Ziemiê.
+{20203}{20252}{Y:i}Wygl¹da na to, ¿e w dogrywce
+{20252}{20301}{Y:i}bêdziemy mieli starcie magów ziemi.
+{20531}{20587}{Y:i}Bolin przechodzi do walki wrêcz...
+{20587}{20628}{Y:i}ale Chang siê uwalnia.
+{20643}{20721}{Y:i}Bolin atakuje z powietrza,|wypychaj¹c Changa na krawêdŸ areny.
+{20723}{20812}{Y:i}Kolejny atak Bolina,|i Chang l¹duje w wodzie!
+{20815}{20883}{Y:i}Ogniste Fretki sponsorowane przez Future Industries
+{20884}{20951}{Y:i}wygrywaj¹ æwieræfina³!
+{20966}{21006}{Y:i}By³o blisko, ludzie!
+{21008}{21061}{Y:i}Dzisiaj m³odoœæ tryumfuje nad doœwiadczeniem.
+{21194}{21226}Musimy pogadaæ.
+{21227}{21293}Czasami potrafisz byæ|tak irytuj¹ca. Ja-
+{21294}{21327}Zaczekaj.
+{21327}{21377}Wyjaœni³eœ mi,|co do mnie czujesz.
+{21377}{21421}Wcale nie.
+{21425}{21463}Próbujê powiedzieæ, ¿e...
+{21464}{21508}mimo, ¿e doprowadzasz mnie do szaleñstwa...
+{21519}{21562}myœlê te¿,|¿e jesteœ naprawdê niesamowita.
+{21590}{21656}- Wiêc... lubisz mnie?|- Tak! Ale...
+{21681}{21755}Lubiê te¿ Asami.|Sam nie wiem, wszystko siê skomplikowa³o.
+{21759}{21807}Ale czujê siê strasznie zmieszany.
+{22299}{22339}Bolin, to nie tak jak myœlisz.
+{22415}{22488}- Wspaniale! Spójrz co narobi³aœ!|- Winisz mnie?
+{22488}{22553}- Poca³owa³aœ mnie!|- A ty siê odwzajemni³eœ!
+{22659}{22709}Œwietnie rozegrane, Korra...
+{22779}{22846}Dzieñ dobry, Narook.|Jest tu mój brat?
+{22864}{22896}Dziêki.
+{22928}{22989}No weŸ... wstawaj.
+{22997}{23030}Zabieram ciê do domu, bracie.
+{23066}{23112}Nie nazywaj mnie tak...
+{23114}{23157}Nie jesteœ moim bratem!
+{23160}{23211}Jesteœ bratem-zdrajc¹!
+{23239}{23312}Jedyna osob¹, której mogê teraz zaufaæ...
+{23312}{23357}to Pabu...
+{23357}{23419}Pabu mnie kocha...
+{23443}{23519}Jesteœ wczorajszy, a mamy do rozegrania|najwa¿niejszy mecz w naszym ¿yciu.
+{23520}{23559}- ChodŸ.|- Nie!
+{23561}{23615}Nie zamierzam nigdzie z tob¹ iœæ!
+{23616}{23653}Ty zdrajco!
+{23655}{23694}Wygl¹da na to, ¿e bêdê musia³|zrobiæ to w mniej mi³y sposób.
+{23695}{23781}O-o-oh, dlaczego...?
+{23802}{23863}Mówi³em ci, ¿e umawianie siê|z cz³onkiem dru¿yny to z³y pomys³..
+{23864}{23917}Ty jesteœ z³ym pomys³em!
+{23929}{23971}Postaw mnie...!
+{23982}{24060}Postaw... mnie...
+{24550}{24615}{Y:i}Nie ma dwóch bardziej|podobnych do siebie zespo³ów
+{24615}{24659}{Y:i}jeœli chodzi o wiek, rozmiary i si³ê
+{24660}{24722}{Y:i}jak Ogniste Fretki|i Oso³owy.
+{24722}{24766}{Y:i}Uwierzcie mi, wiem co widzê!
+{24766}{24843}{Y:i}Proszê pañstwa, to powinien byæ|trzymaj¹cy w napiêciu pó³fina³!
+{24938}{25019}{Y:i}Oso³owy rozpoczynaj¹|wykonuj¹c bezb³êdne combo!
+{25035}{25104}{Y:i}Wszystkie Fretki przesuwaj¹ siê|do Strefy Drugiej!
+{25104}{25174}{Y:i}A Mako wylatuje|do Strefy Trzeciej!
+{25175}{25249}{Y:i}Ogniste Fretki z trudem staraj¹ siê|utrzymaæ pozycje od rozpoczêcia spotkania.
+{25250}{25322}{Y:i}Ca³a trójka gra dziœ bez|jakiejkolwiek synchronizacji!
+{25332}{25383}{Y:i}Uh! To by³o u¿¹dlenie!
+{25505}{25555}{Y:i}I Bolin traci swoje kluski.
+{25557}{25595}Dos³ownie! Co przypomnia³o mi,
+{25596}{25653}¿e dzisiejszy mecz|sponsoruje:
+{25653}{25700}"Flameo Makarony Instant".
+{25700}{25755}Najbardziej kluskowe kluski|w Zjednoczonej Republice!
+{25885}{25967}{Y:i}Oso³owy wlatuj¹ g³êbiej|na pole Fretek.
+{26062}{26126}{Y:i}I Mako wpada do wody!
+{26126}{26174}{Y:i}Czy Ogniste fretki siê utrzymaj¹?
+{26196}{26254}{Y:i}Osy maj¹ Fretki|wystawione na krawêdzi,
+{26284}{26353}{Y:i}ale Fretki ratuje gong.
+{26354}{26420}{Y:i}Lepiej, by zaczêli graæ zespo³owo|w rundzie drugiej,
+{26421}{26487}{Y:i}bo inaczej mog¹ po¿egnaæ siê|z fina³em.
+{26698}{26743}Hej! Uwa¿aj!
+{26743}{26802}{Y:i}Osy zyskuj¹ przewagê|po niewymuszonym b³êdzie Mako
+{26803}{26851}{Y:i}i Bolin wpada do basenu.
+{26923}{26977}Ooh, niedozwolony atak|Avatara!
+{27005}{27079}{Y:i}Niesportowe zachowanie!|Cofnij siê o jedn¹ strefê!
+{27079}{27134}Ja ci dam "niesportowe zachowanie"!
+{27160}{27236}{Y:i}Avatar otrzymuje|¿ó³ty wachlarz!
+{27242}{27300}{Y:i}Fretki walcz¹ teraz|ze swoim najgorszym wrogiem.
+{27300}{27346}{Y:i}A¿ smutno na to patrzeæ.
+{27351}{27412}{Y:i}Oso³owy wygra³y dwie rundy,
+{27413}{27472}{Y:i}jedyna nadzieja Fretek,|to znokautowanie rywali.
+{27472}{27508}Có¿, zawsze mo¿na|spróbowaæ w przysz³ym roku.
+{27508}{27579}Grajmy, ci¹gle mamy szansê!|Nawet jeœli nie jest ona zbyt du¿a.
+{27579}{27666}Je¿eli bêdziemy graæ w ten sposób,|nie mamy szans dostaæ siê do fina³u.
+{27667}{27733}Je¿eli nie skoncentrujemy siê|i nie zagramy jak dru¿yna,
+{27734}{27809}- ...nigdy sobie tego nie wybaczymy.|- Miejmy to ju¿ za sob¹.
+{27810}{27847}Im szybciej, tym lepiej.
+{28119}{28202}{Y:i}Bolin wylatuje do Strefy Drugiej,|a za nim pod¹¿a jego brat.
+{28302}{28354}{Y:i}Bolin obrywa dyskiem|w ramiê.
+{28355}{28395}{Y:i}Wygl¹da to na celne trafienie.
+{28396}{28429}Owww!
+{28440}{28474}Bolin!
+{28478}{28541}{Y:i}Mako wpada do wody|i wypada z meczu.
+{28542}{28603}{Y:i}Bolin próbuje graæ|z jednym zdrowym ramieniem!
+{28603}{28663}{Y:i}Muszê to przyznaæ,|dzieciak jest twardy.
+{28664}{28706}{Y:i}Ale jak d³ugo tak wytrzyma?
+{28706}{28751}{Y:i}NajwyraŸniej, niezbyt d³ugo.
+{28761}{28806}{Y:i}Resztki marzeñ Fretek|o finale
+{28806}{28854}{Y:i}s¹ teraz w rêkach Avatara.
+{28858}{28916}{Y:i}Ale przy przewadze przeciwnika|trzy do jednego, nie dajê jej szans.
+{29031}{29062}Wszystko dobrze?
+{29062}{29109}- Jak twoje ramiê?|- Aah...
+{29109}{29152}Mocno oberwa³em.
+{29153}{29187}Ale myœlê, ¿e bêdzie z nim wszystko dobrze.
+{29283}{29341}A z nami... bêdzie wszystko dobrze?
+{29345}{29403}Oczywiœcie, ¿e tak.|Jesteœmy braæmi.
+{29410}{29448}Musimy sobie z tym poradziæ.
+{29470}{29529}- Przykro mi...|- Mi te¿.
+{29545}{29593}- Dziewczyny...|- Powa¿nie.
+{29606}{29664}{Y:i}Korra dokonuje niesamowitych rzeczy.
+{29664}{29737}{Y:i}Unika ka¿dego ataku Os.
+{29791}{29837}{Y:i}Avatar w koñcu odzyskuje|grunt pod nogami
+{29838}{29914}{Y:i}ale pozosta³o tylko dziesiêæ sekund,|a to zbyt ma³o, by zmieniæ wynik spotkania.
+{29998}{30033}{Y:i}Mia¿d¿¹cy cios!
+{30034}{30087}{Y:i}Co za nokaut!
+{30132}{30178}- Tak!|- Uda³o siê!
+{30179}{30218}Taaak!
+{30219}{30316}{Y:i}To wydawa³o siê niemo¿liwe,|ale Fretki dosta³y siê do fina³u!
+{30325}{30356}Ha-haaa!
+{30357}{30417}- Ramiê, ramiê!|- Przepraszam!
+{30443}{30531}To... to by³a|najlepsza rzecz, jak¹ kiedykolwiek widzia³em.
+{30532}{30577}Dziêki za to, ¿e siê nie podda³aœ.
+{30578}{30632}Nigdy byœmy nie zaszli|tak daleko bez ciebie.
+{30633}{30691}Zawdziêczamy ci to. Œwietna robota.
+{30691}{30733}Nie ma za co.
+{30734}{30769}Wiêc...
+{30769}{30827}Wiem, ¿e to teraz trudna sprawa...
+{30828}{30898}- Ale mam nadziejê, ¿e dalej bêdziemy przyjació³mi.|- Zdecydowanie.
+{30965}{31000}Ooh...
+{31009}{31073}To wy tak pachniecie?
+{31104}{31158}Czekajcie, wiem co to za zapach...
+{31159}{31207}Tak, to jest zapach pora¿ki.
+{31208}{31255}Mam nadziejê, ¿e zobaczymy siê w finale.
+{31256}{31329}- Wtedy zobaczymy, kto bêdzie przegranym.|- Tak...
+{31330}{31386}Trzêsê siê ze strachu.
+{31386}{31463}{Y:i}A teraz, obroñcy tytu³u,
+{31463}{31541}{Y:i}Wilkotoperze Wodospadu!
+{31541}{31584}Œwietna robota!
+{31616}{31650}Có¿ za powrót, Korra!
+{31651}{31727}- Nigdy nie widzia³em hat tricka takiego jak ten.|- O, dziêki.
+{31729}{31782}Ale gdyby nie ty i twój ojciec,
+{31783}{31828}nie mielibyœmy szansy graæ.
+{31829}{31860}Dziêkujê.
+{31861}{31918}Uh, jeœli wszyscy skoñczyli|mówiæ sobie dziêkujê...
+{31919}{31989}- Potrzebujê pomocy medycznej!|- O, pozwól pomóc!
+{32017}{32094}Ow! Niewystarczaj¹co mi|ju¿ da³aœ w koœæ?
+{32094}{32145}Spokojnie, potrafiê leczyæ.
+{32146}{32199}Uczy³am siê od Katary,|mistrzyni tej umiejêtnoœci.
+{32200}{32272}Nie, nie, nie, nie...
+{32272}{32318}Oh-o-o...|Jak mi³o...
+{32319}{32399}Bolin... Przepraszam, ¿e zrani³am|twoje uczucia.
+{32404}{32464}Nie powinnam pozwoliæ, by|to siê potoczy³o w ten sposób.
+{32473}{32524}Ah... bêdzie dobrze.
+{32530}{32620}- Ale mieliœmy razem sporo zabawy, prawda?|- Szczerze, to by³ œwietnie spêdzony czas!
+{32628}{32678}Jesteœ jedyny w swoim rodzaju, Bolin.
+{32687}{32760}Proszê, nie krêpuj siê...|Lubiê pochwa³y.
+{32760}{32799}{Y:i}Zwyciêzcy!
+{32800}{32854}{Y:i}Wilkotoperze!
+{32855}{32912}Co?|Jak to, ju¿?
+{32914}{32975}{Y:i}Po brutalnym nokaucie w pierwszej rundzie,
+{32975}{33048}{Y:i}obroñcy tytu³u|zabezpieczyli swoje miejsce w finale.
+{33048}{33138}{Y:i}Mam nadziejê, ¿e Fretki znaj¹ dobrego lekarza,|bo wygl¹da na to, ¿e bêd¹ go potrzebowali!

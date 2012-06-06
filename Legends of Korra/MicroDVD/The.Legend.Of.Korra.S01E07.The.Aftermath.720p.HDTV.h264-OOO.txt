@@ -1,0 +1,256 @@
+{0}{31}Ziemia
+{63}{88}Ogieñ
+{107}{131}Powietrze
+{147}{171}Woda
+{197}{284}{Y:i}Tylko Avatar mo¿e opanowaæ|wszystkie cztery ¿ywio³y
+{290}{347}{Y:i}i zaprowadziæ równowagê na œwiecie.
+{413}{477}Legenda Korry
+{508}{574}Mimo, ¿e Stuletnia Wojna|zakoñczy³a siê dawno temu,
+{574}{630}czasy s¹ niespokojne.
+{633}{716}Wywrotowcy, nazywaj¹cy siebie "Equalistami"
+{723}{778}nie s¹ zainteresowani równowag¹.
+{794}{872}Wypowiedzieli oni wojnê wszystkim magom.
+{874}{949}Zadaniem Naczelnik Beifong|by³o chroniæ Republic City,
+{949}{1032}ale okaza³a siê bezsilna w konfrontacji|z Amonem, gdy ten zaatakowa³ stadion.
+{1039}{1078}Zawiod³a nasz wszystkich.
+{1084}{1151}Je¿eli mamy przetrwaæ te ciê¿kie czasy,
+{1151}{1258}nasze si³y policyjne potrzebuj¹ nowego przywództwa.
+{1294}{1370}Ksiêga Powietrza|Rozdzia³ Siódmy : Nastêpstwa
+{1591}{1654}Ci¹gle nie mogê uwierzyæ,|¿e zamknêli to miejsce.
+{1657}{1726}Tak. Mamy st¹d dobre wspomnienia, prawda?
+{1735}{1812}Ch³opaki! Dobre wieœci. Nie musicie|ju¿ mieszkaæ na ulicy.
+{1819}{1873}Rozmawia³am z Tenzinem|i wszystko ju¿ za³atwione.
+{1873}{1929}Mo¿ecie zamieszkaæ w Œwi¹tyni|Powietrza ze mn¹!
+{1929}{1995}Jesteœ wspania³a, ale...
+{1995}{2081}Asami pozwoli³a nam zamieszkaæ|w ogromnej rezydencji swojego ojca.
+{2103}{2202}Od teraz bêdziemy ¿yli w luksusie.
+{2204}{2296}Hej Korra, mia³am nadziejê,|¿e ciê z³apiê.
+{2296}{2332}W³aœnie wychodzi³am.
+{2333}{2434}Wiêc ch³opaki, myœlê, ¿e zobaczymy siê nied³ugo.
+{2434}{2500}Mo¿e jutro? Chcia³abym|pokazaæ ci mój dom.
+{2500}{2581}Nie wiem, Mam do za³atwienia...|swoje Avatarowe sprawy.
+{2581}{2726}Daj spokój Korra. Wszyscy zas³ugujemy na trochê|odpoczynku i relaksu po tym ca³ym szaleñstwie.
+{2726}{2773}Moglibyœmy pop³ywaæ w basenie Asami.
+{2774}{2797}By³oby fajnie!
+{2841}{2873}Dobrze, Pabu.
+{2884}{2941}Œwietnie. Do zobaczenia jutro.
+{3455}{3500}Wygl¹da na to, ¿e nasz wywiad mia³ racjê.
+{3500}{3604}Tu jest doœæ dowodów, by pogrzebaæ|Cabbage Corporation na zawsze.
+{3857}{3930}Jak mo¿ecie! Jestem niewinny!
+{3930}{3978}Tak, tak. Wszyscy tak mówi¹!
+{3978}{4060}Czy to prawda, ¿e Cabbage Corporation|wspó³pracowa³a z Equalistami?
+{4063}{4156}Na to wskazuj¹ dowody, ale œledztwo jest w toku.
+{4156}{4296}Na razie zamra¿amy aktywa pana Gan-Lan'a|i zamykamy dzia³alnoœæ Cabbage Corporation.
+{4296}{4390}Nie. Nie moj¹ Cabbage Corporation!
+{4557}{4603}Hej, Korra.
+{4643}{4678}Tahno?
+{4766}{4832}S³uchaj, wiem, ¿e nie jesteœmy|najlepszymi przyjació³mi,
+{4832}{4888}ale przykro mi, ¿e Amon zabra³ ci twoja magiê.
+{4888}{4951}By³em u najlepszych uzdrowicieli w mieœcie.
+{4951}{5038}Cokolwiek Amon mi zrobi³, to nieodwracalne.
+{5107}{5165}Do³ó¿ mu ode mnie.
+{5187}{5307}Panie Sato, je¿eli przypomni pan sobie coœ jeszcze|o tym, co widzia³ pan w czasie ataku Amona,
+{5307}{5343}koniecznie proszê daæ nam znaæ.
+{5343}{5389}Jestem szczêœliwy, mog¹c pomóc jak tylko potrafiê.
+{5392}{5463}Chcê, by Equaliœci zap³acili za swoje czyny.
+{5516}{5566}To wszystko na teraz.
+{5671}{5758}Do zobaczenia Avatarze...
+{6102}{6161}Bomba magii ziemi!
+{6193}{6269}Avatar Korra... przyby³a.
+{6269}{6364}Hej Korra! Cieszê siê, ¿e przysz³aœ!|Witaj w raju!
+{6383}{6435}Widzê ch³opaki, ¿e siê rozgoœciliœcie.
+{6435}{6536}Ca³kiem nieŸle, oprócz tego, ¿e ktoœ zapomnia³|zapytaæ ojca, czy mo¿emy tutaj zostaæ.
+{6536}{6672}Tak, ale za³atwiê to z nim. £atwiej|jest go prosiæ o wybaczenie ni¿ o pozwolenie.
+{6689}{6763}To najlepsze miejsce na œwiecie!|Patrz na to, patrz na to!.
+{6763}{6805}Przynieœ mi mój rêcznik, sir.
+{6808}{6873}Tak, panie... Bolin.
+{6873}{6963}Pan Bolin! Kocham tego goœcia.
+{6964}{6990}Teraz wytrzyj mnie do sucha.
+{6990}{7021}Jak sobie pan ¿yczy.
+{7081}{7120}Nie zapomnij o panu Pabu.
+{7120}{7167}Nie wybaczy³bym sobie tego, sir.
+{7338}{7402}Wiêc, co zaplanowa³aœ|dla nas na dzisiaj?
+{7402}{7474}Niech zgadnê, zakupy, metamorfozê wygl¹du...
+{7501}{7552}Oh, oh. Ja chcê metamorfozê wygl¹du!
+{7572}{7638}Mia³am na myœli coœ bardziej ekscytuj¹cego.
+{7842}{7874}Niez³e, co?
+{7874}{7926}Du¿o lepsze ni¿ metamorfoza.
+{7926}{8002}To s¹ testowe Satomobile Future Industries.
+{8017}{8044}Kto bêdzie prowadzi³?
+{8044}{8107}Potrafiê prowadziæ jedynie|polarnego niedŸwiedziopsa.
+{8107}{8155}Pozwolisz siê zabraæ na przeja¿d¿kê?
+{8155}{8178}Zróbmy to!
+{9666}{9745}To by³o œwietne! Nie s¹dzi³am,|¿e damy radê.
+{9745}{9810}Có¿, je¿d¿ê tutaj od czasu do czasu.
+{9810}{9918}Muszê przyznaæ, ¿e Ÿle ciê oceni³am.|Uwa¿a³am ciê za kogoœ w rodzaju... ksiê¿niczki.
+{9918}{9957}Bez obrazy!
+{9962}{10058}W porz¹dku, ludzie zazwyczaj myœl¹,|¿e jestem bezbronn¹ córeczk¹ tatusia,
+{10058}{10103}ale potrafiê sobie radziæ.
+{10103}{10171}Uczy³am siê samoobrony|odk¹d by³am tego wzrostu.
+{10171}{10235}Mój tata chcia³ byæ pewien,|¿e zawsze bêdê potrafi³a siê obroniæ.
+{10235}{10272}M¹dry facet.
+{10287}{10362}Uwaga, uwaga, zejœæ|z drogi, biip biip!
+{10395}{10446}Jest tutaj jakaœ inna ³azienka,|z której mogê skorzystaæ?
+{10446}{10550}Mamy damsk¹ toaletê, pierwsze drzwi|po prawej na górze. Mo¿esz siê tam odœwie¿yæ.
+{10550}{10574}Dziêki.
+{11016}{11127}Nie, nie! Zapewniam, wszystko|idzie zgodnie z planem.
+{11225}{11358}Dobrze... Na szczêœcie œledztwo w sprawie|Cabbage Corporation kupi³o nam trochê czasu.
+{11392}{11488}Zaufaj mi, do koñca tygodnia...|bêdziemy gotowi do ataku!
+{11668}{11709}Wychodzisz? Myœla³am...
+{11727}{11820}Uh, przepraszam! Zapomnia³am, ¿e mia³am pilnowaæ|powietrza, to znaczy dzieci.
+{11820}{11894}T-To znaczy pilnowaæ ma³ych magów powietrza.|Do zobaczenia póŸniej!
+{12013}{12147}Wiêc uwa¿asz, ¿e Sato produkuje te urz¹dzenia|dla Equalistów i wrobi³ w to Cabbage Corporation?
+{12152}{12219}To powa¿ne oskar¿enia,|ale jakie masz na nie dowody?
+{12219}{12310}Có¿, nie mam na to dowodów,|ale wiem, co s³ysza³am.
+{12310}{12344}Sato coœ kombinuje.
+{12344}{12398}Ma do tego mo¿liwoœci...
+{12401}{12434}i ma motyw.
+{12436}{12457}To prawda.
+{12457}{12506}Motyw? Jaki?
+{12508}{12609}Dwanaœcie lat temu, triada Agni Kai|obrabowa³a rezydencjê Sato.
+{12609}{12679}Magowie ognia zabili jego ¿onê|podczas w³amania.
+{12682}{12704}To straszne.
+{12704}{12838}To by³o dla niego tragedi¹. Mo¿liwe, ¿e przez to|ma tak anty-magiczne nastawienie.
+{12841}{12924}Mo¿e powinniœmy przyjrzeæ siê|panu Sato trochê bli¿ej.
+{13155}{13240}O co chodzi? Dlaczego chcesz dowiedzieæ|siê wiêcej o Hiroshim?
+{13242}{13293}S³ysza³am, jak rozmawia³ wczoraj przez telefon.
+{13293}{13419}Asami, nie wiem, jak ci to powiedzieæ,|ale myœlê, ¿e twój ojciec mo¿e wspó³pracowaæ z Equalistami.
+{13422}{13484}Co? Nie wierzê w to.
+{13504}{13587}Szpiegowa³aœ Hiroshiego? Co z tob¹?
+{13646}{13725}Panie Sato, mamy do pana kilka pytañ.
+{13725}{13769}Mój ojciec jest niewinny.
+{13769}{13878}To, ¿e nie jesteœmy magami nie oznacza,|¿e wspieramy tych okropnych Equalistów.
+{13881}{13952}Equaliœci!? O to ci chodzi?
+{13952}{14025}Mogê zapewniæ, ¿e nie mam|nic wspólnego z tymi radyka³ami.
+{14027}{14077}Nie wiesz o czym mówi³, Korro.
+{14077}{14116}S³ysza³am, co mówi³eœ przez telefon.
+{14116}{14225}Powiedzia³eœ, ¿e Cabbage Corporation kupi³a|ci nieco czasu, by przygotowaæ siê do ataku.
+{14225}{14253}Wyjaœnij to.
+{14303}{14359}To wszystko to jedno wielkie nieporozumienie,
+{14359}{14451}rezultat przewra¿liwionej wyobraŸni Avatara.
+{14453}{14530}Mój wróg numer jeden|zosta³ wyeliminowany z gry,
+{14530}{14649}co daje mi okazjê, by zaatakowaæ|rynek nowym modelem Satomobilu.
+{14652}{14729}To tylko biznes. ¯adne tam szemrane sprawy.
+{14775}{14842}By rozwiaæ wszelkie podejrzenia,
+{14842}{14889}moglibyœmy rzuciæ okiem na pana fabrykê i magazyny?
+{14934}{15040}Je¿eli uznacie to za konieczne,|proszê przeszukaæ ca³e Future Industries.
+{15092}{15222}Czy to mo¿liwe, ¿e prezes Cabbage Corporation,|i Future Industries maj¹ powi¹zania z Equalistami,
+{15222}{15333}czy Hiroshi Sato wrobi³ swojego|najwiêkszego rywala, Lau Gan-Lan'a.
+{15333}{15430}A mo¿e Naczelnik Beifong planuje|zamkn¹æ niewygodnego cz³owieka,
+{15430}{15558}mimo, ¿e œledztwo nie da³o|dowodów, by go oskar¿yæ.
+{15706}{15755}Nie mogê uwierzyæ,|¿e niczego nie znaleŸliœmy.
+{15755}{15811}Wygl¹da na to, ¿e Hiroshi jest niewinny.
+{15817}{15900}Skoñczyliœcie przeszukanie, teraz mo¿ecie wyjœæ.
+{16005}{16059}Mam nadziejê, ¿e to ciê przekona³o.
+{16059}{16176}Nie, nie przekona³o mnie. Nie obchodzi mnie,|¿e Sato udaje wspó³pracê. Wiem, ¿e on k³amie.
+{16176}{16220}Dlaczego to robisz?
+{16220}{16270}Jesteœ zazdrosna o mnie i o Asami?
+{16270}{16344}Co? Nie b¹dŸ œmieszny, to nie|ma z tob¹ nic wspólnego.
+{16352}{16422}Jeœli nie dasz sobie z tym spokoju,|to koniec z nasz¹ przyjaŸni¹.
+{16427}{16532}Przykro mi, ale Hiroshi nie jest|cz³owiekiem, za którego go uwa¿asz.
+{17191}{17230}Powinniœcie tego pos³uchaæ.
+{17234}{17368}Je¿eli chcecie poznaæ prawdê, spotkajmy siê|na pó³nocnym koñcu mostu Soul Grow o pó³nocy.
+{17572}{17624}Psst. Tutaj.
+{17693}{17784}S³uchajcie, do³¹czy³em do Equalistów,|poniewa¿ wierzy³em w to co mówi³ Amon,
+{17784}{17848}Myœla³em, ¿e zapewni nam,|nie-magom lepsze ¿ycie.
+{17848}{17910}ale nie pisa³em siê na to, na wojn¹.
+{17913}{17953}Co wiesz o Hiroshim Sato?
+{17955}{18029}Produkuje te rêkawice dla Equalistów.
+{18029}{18057}Wiedzia³am!
+{18057}{18164}Chodz¹ pog³oski, ¿e pracuje nad czymœ wiêkszym,|nad jakimœ nowym rodzajem broni.
+{18164}{18234}Przeszukaliœmy ca³e Future Industries|i niczego nie znaleŸliœmy.
+{18235}{18289}Poniewa¿ jest jeszcze tajna fabryka.
+{18292}{18312}Gdzie?
+{18314}{18378}W podziemiach rezydencji Sato.
+{18643}{18738}Wejœcie do posiad³oœci Sato to ryzykowne|posuniêcie, maj¹c na karku Tarrloka.
+{18745}{18845}Jeœli siê mylê... To mogê po¿egnaæ siê z prac¹,
+{18847}{18921}ale dla mnie najwa¿niejsza|jest ochrona Republic City.
+{18921}{18996}Nie mo¿emy pozwoliæ, by w ³apy Amona wpad³a nowa broñ.
+{19230}{19266}Co tutaj robicie?
+{19272}{19353}Mamy powody s¹dziæ, ¿e pod|posiad³oœci¹ jest ukryta fabryka.
+{19353}{19443}Myœlê, ¿e zauwa¿y³abym, gdyby|pod moim domem by³a ukryta fabryka.
+{19443}{19525}Wymyœlacie te k³amstwa,|by przeœladowaæ mojego ojca.
+{19525}{19554}Gdzie jest twój ojciec?
+{19556}{19620}W warsztacie za domem.
+{19911}{19971}Tato? Jesteœ tu?
+{19998}{20086}Naczelnik, zabezpieczyliœmy teren.|Nikt nie opuœci³ warsztatu, odk¹d siê zjawiliœmy.
+{20088}{20151}Mo¿e po prostu go nie widzieliœmy.
+{20412}{20491}Tutaj jest tunel prowadz¹cy|g³êboko w zbocze góry.
+{20493}{20544}Co? Tutaj nie by³o ¿adnego tunelu.
+{20820}{20907}Myœlisz, ¿e twój ojciec wie o nim?
+{20907}{20985}Nie rozumiem, musi byæ jakieœ wyt³umaczenie.
+{20985}{21101}Mo¿e nie wiesz wszystkiego|o swoim ojcu. Przykro mi.
+{21104}{21189}Funkcjonariusze, sprawdziæ tunel.|B¹dŸcie ostro¿ni.
+{21243}{21340}Wasza trójka zostaje tutaj. Funkcjonariusz|Song, miej na nich oko.
+{22251}{22310}To nie wygl¹da na zwyk³y warsztat.
+{22383}{22459}Zgadujê, ¿e to jest ta nowa broñ.
+{22678}{22743}Hiroshi ca³y czas k³ama³,|ale gdzie jest teraz?
+{22827}{22904}Co to by³o? Musimy zejœæ na dó³|i zobaczyæ, co siê tam dzieje.
+{22904}{22981}Nie zgadzam siê, zaczekacie tutaj,|dopóki Naczelnik nie wróci.
+{23017}{23114}Dobrze, zaczekamy tutaj, ale|mo¿emy st¹d wyjœæ na zewn¹trz?
+{23114}{23152}Jest tu strasznie du¿o kurzu.
+{23154}{23201}Nie! Zaczekacie dok³adnie tutaj.
+{23203}{23266}Dobrze, ale nie miej mi za z³e,...
+{23274}{23379}jeœli zacznê aaa... aaa... aaa...
+{23383}{23410}Co ci jest?
+{23410}{23444}Wygl¹da, ¿e...
+{23602}{23679}Wybacz kolego, wiemy,|¿e wykonujesz tylko swoje obowi¹zki.
+{23679}{23750}Tak, zostañ tutaj, dopóki naczelnik nie wróci.
+{23750}{23816}To brzmi bardzo znajomo, prawda?|Dlaczego? Bo sam tak mówi³eœ!
+{23834}{23908}Asami, powinnaœ tutaj zostaæ.|Sprawdzimy co siê dzieje na dole.
+{23908}{23958}Chcê poznaæ prawdê o moim ojcu.
+{23960}{24053}Rozumiem, dlatego chcê zejœæ na dó³,|by sprawdziæ j¹ dla ciebie.
+{24054}{24088}Proszê.
+{24104}{24131}Dobrze.
+{24237}{24273}Uwa¿aj na siebie.
+{24396}{24503}Obawiam siê, ¿e nie bêdziesz mog³a|u¿ywaæ magii metalu, Naczelnik Beifong.
+{24504}{24535}To czysta platyna.
+{24584}{24702}Moje mechy s¹ z niej wykonane w ca³oœci.
+{24703}{24804}Nawet twoja s³awna matka nie mog³a|u¿ywaæ magii na tak czystym metalu.
+{24806}{24903}Hiroshi, nie by³eœ jako Equalista dobrym k³amc¹.
+{24903}{24937}ZejdŸ tutaj i...
+{24937}{25025}I co, m³ody Avatarze?|Mam siê zmierzyæ z twoj¹ magi¹?
+{25030}{25193}Nie. Myœlê, ¿e bêdê walczy³ st¹d gdzie jestem,|gdzie nasze szanse s¹... równiejsze.
+{25201}{25273}Informator by³ podstawiony!|Zwabi³ nas tutaj!
+{25276}{25323}Winni zarzucanych im czynów.
+{26968}{26999}Korra!
+{27886}{27976}Có¿, nie powiedzia³bym,|¿e testy przebieg³y bez zarzutów.
+{27976}{28033}Za³aduj wszystkich na ciê¿arówki|i dostarcz Amonowi.
+{28300}{28338}O nie!
+{28399}{28476}Korra, mia³a racjê.|Musimy coœ zrobiæ. Szybko.
+{28826}{28888}Nie tak szybko, ch³opcy.
+{28959}{29019}Witam panie Sato. Wow!
+{29019}{29133}Ma pan przera¿aj¹c¹ fabrykê pod|swoj¹ gigantyczn¹ posiad³oœci¹.
+{29134}{29276}Sponsorowanie naszego zespo³u,|sponsorowanie Avatara by³o tylko przykrywk¹?
+{29279}{29351}Tak. A najtrudniejsze by³o
+{29354}{29495}ogl¹daæ, jak moja córka chodzi|z takim ulicznym szczurem jak ty.
+{29596}{29632}Tato, stop!
+{29709}{29733}Dlaczego?
+{29736}{29785}Kochanie...
+{29803}{29874}Chcia³em ciê trzymaæ z dala od tego,|tak d³ugo, jak to mo¿liwe,
+{29874}{29910}ale teraz znasz ca³¹ prawdê.
+{29932}{29987}Proszê, wybacz mi.
+{30003}{30097}Ci ludzie... ci magowie...
+{30097}{30190}zabrali twoj¹ matkê.|Mi³oœæ mojego ¿ycia.
+{30190}{30228}Oni zniszczyli œwiat,
+{30237}{30338}ale razem z Amonem mo¿emy go naprawiæ.
+{30349}{30418}Mo¿emy pomóc ludziom takim jak my.
+{30429}{30468}Do³¹cz do mnie, Asami.
+{31077}{31100}Nie.
+{31118}{31150}Kocham ciê, tato.
+{31428}{31454}Wynoœmy siê st¹d!
+{31895}{31987}Moi magowie metalu s¹ w drodze|do Amona i to wszystko moja wina.
+{31999}{32081}Tarrlok mia³ racjê. Zawiod³am jako Naczelnik.
+{32081}{32155}Pierwsz¹ rzecz¹ jak¹ zrobiê,|to z³o¿ê rezygnacjê.
+{32158}{32206}Nie! Nie mo¿esz siê poddaæ w ten sposób.
+{32207}{32314}Nie poddam siê. Zamierzam|znaleŸæ Amona i moich ludzi.
+{32314}{32363}Ale zamierzam to zrobiæ na swój sposób!
+{32363}{32418}Poza prawem!
+{32488}{32530}Przykro mi, ¿e ci nie uwierzy³em,
+{32530}{32626}ale uwierzyæ w to, ¿e ojciec Asami|jest Equalist¹ nie jest ³atwe.
+{32630}{32648}Nawet teraz.
+{32648}{32744}Wiem, przykro mi,|¿e to wszystko siê wydarzy³o.
+{32744}{32825}Co z twoj¹ ofert¹ zamieszkania w Œwi¹tyni Powietrza?
+{32828}{32914}Wci¹¿ jest aktualna.|Asami te¿ bêdzie tam mile widziana.
+{32916}{33011}- Wielkie dziêki.|- Po tym wszystkim, co przesz³a,
+{33026}{33098}bêdzie ciê potrzebowaæ, Mako.

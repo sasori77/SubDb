@@ -1,0 +1,234 @@
+{9}{22}{Y:i}Ziemia.
+{54}{68}{Y:i}Ogieñ.
+{96}{111}{Y:i}Powietrze.
+{142}{157}{Y:i}Woda.
+{209}{337}{Y:i}Tylko Avatar mo¿e opanowaæ cztery ¿ywio³y|i zaprowadziæ równowagê na œwiecie.
+{1221}{1294}Wspania³y pomys³|trenowaæ tak wczeœnie rano.
+{1301}{1345}Poranki to z³o.
+{1350}{1420}Jesteœmy nowi, wiêc dostajemy|najgorszy czas do treningu na sali.
+{1427}{1462}A ty jesteœ najnowsza z nas wszystkich.
+{1467}{1558}Musimy popracowaæ nad nasz¹ szybkoœci¹,|je¿eli chcemy przetrwaæ w turnieju. PogódŸ siê z tym.
+{1576}{1604}Sam siê z tym pogódŸ!
+{1669}{1737}Tutaj s¹ moje ma³e|haruj¹ce uliczne je¿owce!
+{1800}{1861}To zaszczyt w koñcu Ciê poznaæ, Avatarze.
+{1861}{1895}A ty jesteœ...?
+{1895}{1995}Butakha. Pomagam przy organizacji|turnieju pro-bendingu.
+{2012}{2067}To pieni¹dze za zwyciêstwo w ostatnim meczu.
+{2090}{2134}A a a, nie tak szybko.
+{2141}{2263}Jesteœ mi winien za nowy sprzêt dla Avatara,|salê i wypo¿yczanie sprzêtu za ostatni miesi¹c,
+{2283}{2399}wynajem twojego mieszkania|i twoje po¿yczki na jedzenie.
+{2433}{2484}No co? Ja wci¹¿ rosnê!
+{2488}{2559}A, i jeszcze jedna|ma³a sprawa:
+{2559}{2671}Ogniste Fretki musz¹ wp³aciæ trzydzieœci|tysiêcy yuanów do puli mistrzostw.
+{2671}{2713}Trzydzieœci tysiêcy yuanów?
+{2735}{2760}Przykro mi, dzieciaki.
+{2772}{2816}Musisz do koñca tygodnia|za³atwiæ pieni¹dze,
+{2816}{2862}albo wypadacie z turnieju.
+{2913}{3013}Nie masz przypadkiem tajnego konta|pe³nego gotówki, prawda?
+{3026}{3143}Nie mam niczego. Nigdy nie potrzebowa³am pieniêdzy.|Zawsze to inni o mnie dbali.
+{3147}{3188}Wiêc nie mo¿esz powiedzieæ, ¿e nie masz niczego.
+{3203}{3242}Nie mia³am na myœli...
+{3242}{3371}Nie, w porz¹dku. Odk¹d straciliœmy|naszych rodziców jesteœmy sami.
+{3381}{3436}Przykro mi. Nie wiedzia³am.
+{3436}{3513}Wracaj¹c do tematu, jak zamierzasz|za³atwiæ pieni¹dze?
+{3513}{3555}O, o, mam, mam.
+{3555}{3664}Nauczê Pabu cyrkowych sztuczek.|Ludzie zap³ac¹ za ich ogl¹danie.
+{3667}{3739}Daj spokój, Bolin. Mówiê powa¿nie.
+{3745}{3773}To by³o powa¿nie.
+{3777}{3870}Nie martw siê tym. Coœ wymyœlê.|Zawsze tak robiê.
+{4062}{4097}Proszê pañstwa!
+{4097}{4293}Zobaczcie jak Pabu przechodzi|Œcie¿kê Œmierci, na rêkach!
+{4426}{4486}Œwietny pomys³, stary!
+{4507}{4662}Ta da! Dziêkujê, panie i panowie!|Jesteœ zbyt mi³y! Naprawdê, zbyt mi³y!
+{4662}{4705}Mo¿ecie przyjœæ|i daæ pieni¹dze tutaj..
+{4705}{4847}Ok, dobrze, dobrze.|Jeden yuan mniej, pozosta³o 29 999.
+{4917}{4974}Hej, Bolin. Czy to ty?
+{4986}{5044}Hej, Shady Shin.
+{5099}{5184}S³ysza³em, ¿e jesteœ teraz|wspania³ym graczem pro-bendingu. Gratulacje.
+{5194}{5230}Dziêki.
+{5240}{5314}Pos³uchaj. Mam dla ciebie propozycjê.
+{5314}{5413}Zolt B³yskawica chce zatrudniæ|dodatkow¹ osobê.
+{5430}{5542}No nie wiem, Shin. Mako radzi³|trzymaæ siê z dala Potrójnej GroŸby.
+{5556}{5701}Twój brat nie jest twoim szefem. To tylko|ma³a praca jako ochroniarz. Nic specjalnego.
+{5835}{5859}Wchodzisz?
+{6210}{6305}Bo, Wróci³em. Mam|twoje ulubione jedzenie!
+{6354}{6447}Znalaz³em pracê w elektrowni!|W koñcu dostanê jakieœ przywoite pieni¹dze!
+{6497}{6559}Bolin? Jesteœ tu?
+{6761}{6821}Za³o¿ê siê, ¿e nasi zakochani maj¹ randkê.
+{6981}{7021}Dobrze ci idzie.
+{7108}{7244}Ooo, jakie ciacho. Korra, czy to ten|mag ognia, na punkcie którego szalejesz?
+{7251}{7348}On za tob¹ szaleje w z³y sposób, czy|szaleje tak jak ty za nim?
+{7406}{7457}Hej, Mako.
+{7465}{7487}Widzia³eœ Bolina?
+{7487}{7619}Te¿ mi³o ciê widzieæ. I nie. Nie widzia³em|go odk¹d trenowaliœmy. Myœlisz, ¿e coœ siê sta³o?
+{7619}{7752}Nie wiem. Bolin ma dar do pakowania|siê w k³opoty. Do zobaczenia póŸniej.
+{7757}{7844}Czekaj. Mogê pomóc go szukaæ.
+{7844}{7869}Nie. Nie trzeba.
+{7878}{7958}Hej, spoko goœciu, pozwól pomóc.|Mo¿emy zabraæ Nagê.
+{7965}{7983}Kto to Naga?
+{7983}{8043}Mój najlepszy przyjaciel. I œwietny tropiciel.
+{8104}{8239}Twój przyjaciel jest polarnym niedŸwiedziopsem.|To ma sens.
+{8239}{8283}Uznam to za komplement.
+{8501}{8551}To jest jego ulubione miejsce.
+{8673}{8717}Hej widzieliœcie mo¿e mojego brata|gdzieœ tutaj dzisiaj?
+{8720}{8867}Byæ mo¿e. Moja pamiêæ jest dosyæ... mglista.|Mo¿e pomo¿esz mi j¹ rozjaœniæ.
+{8867}{8944}Jesteœ niez³y, Skoochy. Profesjonalista.
+{8957}{8989}Tak, widzia³em go.
+{8989}{9003}Kiedy?
+{9003}{9020}Ko³o po³udnia.
+{9025}{9043}Co robi³?
+{9048}{9149}Organizowa³ coœ w stylu|ma³pioszczurzego cyrku. I wtedy...
+{9197}{9241}I wtedy co? Co siê sta³o?
+{9261}{9384}Pojawi³ siê Shady Shin i zaproponowa³ mu powa¿ne pieni¹dze.|Bo wsiad³ do jego samochodu.
+{9384}{9462}Potrójna GroŸba? Czerwone Monsuny?|Agni Kai?
+{9473}{9532}Wszystkie triady przygotowuj¹|siê na coœ du¿ego.
+{9537}{9574}To wszystko co ode mnie wydobêdziesz.
+{9612}{9649}O czym rozmawiali?
+{9649}{9699}Wygl¹da na to, ¿e rozgorza³a walka o wp³ywy.
+{9706}{9770}A Bolin znalaz³ siê|dok³adnie w jej œrodku.
+{9865}{9887}Gdzie siê udali?
+{9887}{9936}Do kwatery g³ównej Potrójnej GroŸby..
+{9936}{9990}Na szczêœcie Bolinowi|nic siê jeszcze nie sta³o.
+{9995}{10082}Triada Potrójnej GroŸby? Wybijê mu|z g³owy te jego pomys³y jak go znajdê.
+{10082}{10123}Dlaczego Bolin siê w to wmiesza³?...
+{10149}{10174}Hej, Naga!
+{10331}{10349}To Pabu!
+{10354}{10430}Nie Naga! Pabu to przyjaciel, nie przek¹ska.
+{10564}{10582}Poœpieszmy siê.
+{10679}{10760}Coœ tu nie gra. Zazwyczaj|pilnuj¹ tego miejsca.
+{10768}{10794}Musimy byæ ostro¿ni.
+{11091}{11133}Bolin? Jesteœ tu?
+{11396}{11413}Bolin!
+{11613}{11639}Naga, chodŸ.
+{14144}{14246}Nie mogê u¿ywaæ magii! Nie mogê u¿ywaæ magii!
+{14251}{14371}Spokojnie. Ci goœciê potrafi¹|blokowaæ chi. To ludzie Amona.
+{14375}{14456}Amon? Ten anty-magiczny goœæ w masce?
+{14460}{14518}Tak, jest liderem Equalistów.
+{14522}{14561}Czego on chce od Potrójnej GroŸby?
+{14567}{14720}Cokolwiek to jest, nie podoba mi siê. Nie mogê|uwierzyæ, ¿e Bolin siê w to wpakowa³!
+{14749}{14857}Mako, uratujemy twojego brata.|Obiecujê.
+{15207}{15277}Szukaliœmy ca³¹ noc. Ani œladu Bolina.
+{15277}{15351}Musimy dalej go szukaæ. Ale gdzie?
+{15383}{15404}Mam pomys³!
+{15667}{15758}Kiedy przyjecha³am do miasta, natknê³am|siê na protest Equalistów.
+{15765}{15804}Myœlisz, ¿e oni wiedz¹ gdzie jest Bolin?
+{15804}{15840}To nasz jedyny trop.
+{16059}{16168}Wiêc, czemu Bolin do³¹czy³|do Potrójnej GroŸby?
+{16175}{16255}Co¿... kiedyœ dla|nich pracowaliœmy.
+{16255}{16321}Co!? Byliœcie przestêpcami?
+{16321}{16381}Nie! Nie wiesz|o czym mówisz.
+{16391}{16479}Byliœmy dla nich tylko numerami.|Byliœmy sierotami ¿yj¹cymi na ulicy.
+{16479}{16554}Wiem co robiæ by przetrwaæ|i chroniæ mojego m³odszego brata.
+{16574}{16658}Przykro mi. Musi ci byæ naprawdê ciê¿ko.
+{16694}{16770}Mogê zapytaæ, co siê sta³o z waszymi rodzicami?
+{16834}{16972}Zostali napadniêci przez magów ognia. Zostali|zabici na moich oczach. Mia³em osiem lat.
+{17007}{17028}Mako...
+{17040}{17145}Bolin to jedyna rodzina jak¹ posiadam.|Je¿eli coœ mu siê stanie...
+{17298}{17417}Równowaga! Równowaga!|Chcemy Równowagi!
+{17488}{17538}Nie magowie Republic City...
+{17538}{17551}To on.
+{17551}{17678}Amon wzywa was! Odbierzcie swoje miasto!|Nadszed³ czas na...
+{17734}{17762}To znowu ty!
+{17773}{17832}Nie uciszysz mnie, Avatarze!
+{17875}{17964}Zamknij jadaczkê i s³uchaj. Mój przyjaciel zosta³ porwany|przez goœci potrafi¹cych blokowaæ chi.
+{17965}{17987}Gdzie go zabrali?
+{17992}{18046}Nie wiem o czym mówisz.
+{18058}{18091}Oh, myœlê ¿e wiesz.
+{18352}{18475}"Œwiadkowie Objawienia, dziœ wieczorem, godzina|dziewi¹ta". Co to "Objawienie"?
+{18479}{18542}Nic co by obchodzi³o takich dwóch jak wy.
+{18574}{18654}To lepiej uwierz, ¿e nas to obchodzi.|Gadaj.
+{18654}{18762}Nikt nie wie, czym jest Objawienie! I nie wiem|te¿ co siê sta³o z waszym przyjacielem.
+{18769}{18855}Ale jeœli jest magiem, idê o zak³ad,|¿e dostanie to na co zas³uguje.
+{18859}{18885}Gdzie to siê stanie?
+{18923}{18977}Hej, co siê tam dzieje?
+{18980}{19043}Atakuje nas Avatar. Pomocy!
+{19058}{19079}Spadamy.
+{19251}{19305}Dlaczego Equaliœci nie napisali|gdzie to siê odbêdzie?
+{19311}{19406}Prawdopodobnie, poniewa¿ nie chc¹, aby ktoœ|obcy wtr¹ca³ siê do ich wielkiego "Objawienia".
+{19406}{19533}Cokolwiek to jest. Myœlê, ¿e informacje o tym|s¹ gdzieœ tu ukryte. Spójrz na drug¹ stronê.
+{19545}{19577}Tutaj s¹ cztery ró¿ne obrazy.
+{19615}{19653}To jest uk³adanka?
+{19659}{19709}Tak, mapa.
+{19897}{19913}Bingo.
+{19923}{19958}To musi byæ tam.
+{20215}{20238}To jest to miejsce.
+{20421}{20442}Co ty robisz?
+{20442}{20509}W ten sposób bêdziemy mniej zwracaæ na siebie uwagê.
+{20527}{20611}To prywatne przyjêcie. Nikt|nie wejdzie bez zaproszenia.
+{20615}{20666}Zaproszenie?
+{20712}{20754}Masz na myœli to?
+{20804}{20879}Objawienie jest blisko,|moi bracia i siostry.
+{21043}{21156}Wiedzia³am, ¿e wiele osób nienawidzi magów, ale|nigdy nie widzia³em tylu w jednym miejscu.
+{21175}{21208}Szukaj Bolina.
+{21331}{21533}Witaj, nasz bohaterze,|nasz zbawco... Amonie!
+{21865}{21950}Moja misja przywrócenia równowagi rozpoczê³a siê wiele lat temu.
+{21964}{22062}Kiedy by³em ch³opcem, moja rodzina|i ja ¿yliœmy na ma³ej farmie.
+{22076}{22155}Nie byliœmy bogaci|i ¿aden z nas nie by³ magiem.
+{22170}{22288}Byliœmy przez to bardzo ³atwym celem dla|magów ognia, którzy szanta¿owali mojego ojca.
+{22300}{22396}Pewnego dnia mój ojciec siê im przeciwstawi³,
+{22396}{22519}gdy to zrobi³, magowie ognia|zabrali moj¹ rodzinê.
+{22530}{22703}Potem zabrali moj¹ twarz. Od tego czasu|jestem zmuszony ukrywaæ j¹ za mask¹.
+{22753}{22862}Jak wiecie, Avatar|obecnie przyby³a do Republic City.
+{22924}{23051}Jeœli tu jest, bêdzie wam wmawia³a,|¿e magia przyniesie œwiatu równowagê.
+{23066}{23110}Ale siê myli.
+{23116}{23206}Jedyne, co przynosi magia|temu œwiatu, to cierpienie.
+{23221}{23390}Magia by³ przyczyn¹ ka¿dej wojny w ka¿dej epoce.|Ale to siê zmieni.
+{23408}{23509}Wiem, ¿e zastanawiacie siê,|"Czym jest Objawienie?"
+{23527}{23585}Niebawem otrzymacie odpowiedŸ.
+{23632}{23781}Od zarania dziejów, duchy|by³y stra¿nikami œwiata,
+{23781}{23828}i one przemówi³y do mnie.
+{23848}{23926}Powiedzia³y, ¿e Avatar zawiód³ ludzkoœæ.
+{23942}{24109}Dlatego wybra³y mnie jako tego|który zaprowadzi równowagê.
+{24120}{24267}Obdarzy³y mnie moc¹, która pozwoli|uczyniæ Równowagê rzeczywistoœci¹.
+{24282}{24421}Moc, która pozwoli pozbyæ siê magów.|Na zawsze.
+{24464}{24525}To niemo¿liwe. To jest chore.
+{24530}{24566}Ten goœæ jest szalony.
+{24569}{24714}Czas na demonstracjê.|Powitajmy Zolta B³yskawicê.
+{24714}{24778}Przywódcê triady Potrójnej GroŸby.
+{24778}{24867}I jednego z najwiêkszych|przestêpców Republic City.
+{24905}{24948}Walcie siê!
+{25087}{25109}To jest Bolin.
+{25110}{25205}Czekajcie, nie mo¿emy z nimi wszystkimi walczyæ.|Musimy to rozwi¹zaæ m¹drze.
+{25205}{25270}Musimy opracowaæ plan dzia³ania.
+{25277}{25396}Zolt zgromadzi³ fortunê|wy³udzaj¹c pieni¹dze od nie magów.
+{25411}{25501}Ale jego rz¹dy terroru|zbli¿aj¹ ku koñcowi.
+{25514}{25577}Teraz, by sprawiedliwoœci sta³o siê zadoœæ,
+{25577}{25675}Dam Zoltowi szansê|by walczy³ o zachowanie swojej magii.
+{25697}{25746}Po¿a³ujesz tego, kolego!
+{26572}{26629}Co... Coœ ty mi zrobi³?
+{26636}{26725}Twoja magia odesz³a. Na zawsze.
+{26806}{26993}Era magii siê zakoñczy³a.|Rozpoczê³a siê era Równowagi.
+{27138}{27160}Jakieœ pomys³y?
+{27165}{27254}Widzisz t¹ maszynê?|Jest zasilana przez wodê i parê.
+{27260}{27334}Jeœli zorganizujecie przykrywkê, z³apiê|Bolina zanim ktoœ nas zauwa¿y.
+{27334}{27367}Wtedy zmywamy siê st¹d.
+{27371}{27388}Dobrze.
+{27394}{27435}Powodzenia Mako.
+{27440}{27453}Tobie te¿.
+{27764}{27788}To nie wystarczy.
+{27840}{27856}Hej ty.
+{28129}{28166}Jakiœ problem, bracie?
+{28179}{28213}Co ty robisz tu z ty³u?
+{28220}{28295}E... szukam ³azienki?
+{28554}{28580}No dalej.
+{28782}{28826}Dziêkujê. To powinno wystarczyæ.
+{29094}{29231}Witam. Panie Amon, myœlê,|¿e to wielkie nieporozumienie.
+{29747}{29776}Bolin, jesteœ ca³y?
+{29776}{29825}Tak! Mako! Kocham ciê!
+{31097}{31219}Wy magowie musicie zrozumieæ, ¿e nie ma|dla was miejsca na tym œwiecie.
+{31368}{31411}Nie liczy³abym, ¿e go tak szybko opuœcimy.
+{31457}{31472}Naga!
+{31734}{31789}Staæ... WsadŸcie... mnie... do...|ty³u... proszê!
+{31790}{31827}Avatar. To ona!
+{31889}{32015}Puœæcie j¹. Bêdzie doskona³ym pos³añcem|by powiedzieæ miastu o mojej potêdze.
+{32212}{32303}Dziêki bogu. Ju¿ zamierza³em|was szukaæ. Wszystko dobrze?
+{32374}{32463}Korra, co siê sta³o? Znalaz³aœ|swojego przyjaciela?
+{32463}{32584}Tak, by³am na wiecu Equalistów.|Widzia³am Amona.
+{32589}{32601}Co?
+{32607}{32680}Chce odebraæ magom ich magiê.|Dla dobra wszystkich.
+{32686}{32813}To jest... to niemo¿liwe. Tylko|Avatar mo¿e posi¹œæ tak¹ umiejêtnoœæ.
+{32813}{32854}Widzia³am, jak to zrobi³.
+{32880}{32898}Wierzê ci.
+{32926}{32993}Nie wiem, jak Amon|zdoby³ t¹ umiejêtnoœæ,
+{33012}{33151}ale to znaczy, ¿e rewolucja jest bardziej prawdopodobna|ni¿ myœla³em. ¯aden mag nie jest bezpieczny.
+{33259}{33368}Subtitler: LEO33|Thanks Avatar Wikia for the transcript.

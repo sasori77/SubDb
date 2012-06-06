@@ -1,0 +1,375 @@
+{10}{52}Ziemia
+{63}{98}Ogieñ
+{104}{136}Powietrze
+{138}{171}Woda
+{197}{294}Tylko Avatar mo¿e opanowaæ|wszystkie cztery ¿ywio³y
+{295}{348}i zaprowadziæ równowagê na œwiecie.
+{420}{495}{Y:b}Legenda Korry
+{496}{533}{Y:i}Magowie, miejcie siê na bacznoœci!
+{534}{609}{Y:i}Po spotkaniu twarz¹ w twarz z Amonem,|przywódc¹ Equalistów,
+{609}{685}{Y:i}Avatar Korra odkrywa|przera¿aj¹c¹ prawdê:
+{686}{735}{Y:i}Zamaskowany szaleniec|posiada zdolnoœæ
+{735}{778}{Y:i}zabierania magom ich zdolnoœci.
+{780}{799}{Y:i}Na zawsze!
+{806}{885}{Y:i}Magowie Republic City|licz¹ na m³odego Avatara.
+{888}{971}{Y:i}Czy Korra jest gotowa by poradziæ sobie,|z tym przera¿aj¹cym przeciwnikiem?
+{987}{1109}{Y:b}<font color="#3399FF">Sezon 1, Epizod 4|"G³os w Ciemnoœci"</font>
+{1880}{1949}Gdy zabiorê Ci twoj¹ magiê,
+{1949}{2009}bêdziesz niczym...
+{2202}{2235}W...
+{2242}{2278}W porz¹dku, Naga.
+{2295}{2339}Mia³am tylko z³y sen.
+{2419}{2480}Ten szaleniec|krêci siê po naszym wspania³ym mieœcie,
+{2482}{2529}gro¿¹c jego mieszkañcom.
+{2529}{2570}Musimy stworzyæ si³y specjalne
+{2571}{2635}których jedyn¹ misj¹|bêdzie znaleŸæ Amona
+{2635}{2678}i przyprowadziæ go przed|oblicze sprawiedliwoœci.
+{2680}{2711}Nie zgadzam siê!
+{2712}{2801}Tak agresywne posuniêcia doprowadz¹ w przysz³oœci|jedynie do g³êbszego podzia³u miêdzy magami a nie magami.
+{2803}{2885}Turlock, mog³abym przystaæ|na twoj¹ propozycjê,
+{2887}{2956}ale kto dowodzi³by|tymi si³ami specjalnymi...
+{2959}{3001}By³by to dla mnie zaszczyt
+{3001}{3071}i przywilej|przyj¹æ ten obowi¹zek.
+{3073}{3162}To kolejna z twoich sztuczek|by zwiêkszyæ swoj¹ w³adzê, prawda?
+{3163}{3207}Wszystko czego chcê to pomóc!
+{3212}{3241}Pomyœl...
+{3246}{3277}Czterdzieœci dwa lata temu,
+{3278}{3351}Republic City by³o w zagro¿one|przez innego niebezpiecznego cz³owieka.
+{3353}{3382}Yukona.
+{3388}{3456}Twój ojciec nie ba³ siê|mu przeciwstawiæ.
+{3457}{3516}To dwie kompletnie ró¿ne sprawy,
+{3516}{3591}i jak œmiesz porównywaæ siê|do Avatara Aanga?
+{3606}{3661}Amon nie zamierza zrezygnowaæ|ze swojego planu
+{3663}{3706}wraz z Triadami.
+{3709}{3769}On przyjdzie po nas,|po wszystkich magów.
+{3769}{3830}Po naszych przyjació³,|nasze rodziny...
+{3831}{3905}Zag³osujmy za utworzeniem si³ specjalnych,|i zatrzymajmy Amona...
+{3909}{3947}Nim bêdzie zbyt póŸno.
+{3952}{3983}Wszyscy s¹ za?
+{4444}{4510}{Y:i}Dobry wieczór, Equaliœci.
+{4513}{4582}{Y:i}Mówi Amon, wasz przywódca.
+{4583}{4640}{Y:i}Jak zapewne s³yszeliœcie,|Rada Miasta zdecydowa³a siê
+{4641}{4705}{Y:i}uczyniæ mnie|wrogiem publicznym numer jeden...
+{4709}{4740}{Y:i}To kolejny dowód
+{4740}{4786}{Y:i}na to, ¿e magowie, przeœladowcy|w tym mieœcie
+{4786}{4870}{Y:i}nie cofn¹ siê|by zd³awiæ nasz¹ rewolucjê...
+{4885}{4932}{Y:i}Ale nie mog¹ nas powstrzymaæ.
+{4935}{5004}{Y:i}Z dnia na dzieñ|jest nas wiêcej.
+{5015}{5091}{Y:i}Nie musicie ju¿ d³u¿ej ¿yæ w strachu...
+{5097}{5138}{Y:i}Nasta³ czas
+{5138}{5209}{Y:i}by to magowie|go doœwiadczyli.
+{5609}{5670}O nie, przykro mi!|Nie widzia³am ciê!
+{5671}{5717}Jak mog³aœ mnie nie widzieæ?
+{5720}{5773}Mia³em na myœli, ¿e eh eh...
+{5857}{5903}By³em... Ja, Ja...
+{5903}{5953}Wow! Hm-hm.|By³em... Hm-hmm.
+{5955}{6000}Wszystko dobrze?|Zrani³am ciê?
+{6000}{6043}Jestem straszn¹ idiotk¹!
+{6047}{6088}Nie martw siê, ze mn¹ wszystko ok!
+{6089}{6158}Obrywam mocniej ka¿dego dnia,|na treningu od mojego brata.
+{6175}{6220}Czekaj, poznajê ciê.
+{6223}{6262}Jesteœ Mako, prawda?
+{6264}{6310}Grasz dla Ognistych Fretek!
+{6312}{6355}Tak, to ja.
+{6362}{6415}Jestem tak za¿enowana...
+{6429}{6508}Nazywam siê Asami.|Pozwól mi to ci jakoœ wynagrodziæ.
+{6519}{6549}Eh...
+{6552}{6587}Co byœ powiedzia³ na kolacjê?
+{6589}{6651}Jutro wieczorem, o ósmej,|w Quong's Cuisine?
+{6657}{6705}E... "Quong's"?
+{6709}{6784}Nie mam odpowiednich ciuchów,|dla miejsca takiego jak to.
+{6787}{6823}Zajmê siê tym.
+{6826}{6869}Wszystko co musisz to tylko przyjœæ.
+{6877}{6928}Wiêc... to randka?
+{6928}{6988}Ahh... Tak s¹dzê!
+{7000}{7045}Do zobaczenia jutro wieczorem!
+{7365}{7415}Jesteœmy wdziêczni|za to pyszne jedzenie,
+{7417}{7476}za nasz¹ pomyœlnoœæ,|za mi³osierdzie i…
+{7476}{7534}Nie przeszkadzam...|prawda?
+{7581}{7630}To mój dom, Turlock!
+{7630}{7661}Jemy teraz kolacjê.
+{7663}{7744}To dobrze, bo umieram z g³odu.
+{7760}{7843}Magowie powietrza nie wyrzucaj¹|g³odnych goœci, prawda?
+{7859}{7893}Tak myœlê...
+{8003}{8081}Musisz byæ t¹|s³awn¹ Avatar Korr¹.
+{8089}{8144}To prawdziwy zaszczyt.
+{8149}{8189}Jestem Turlock, radny.
+{8190}{8240}Jestem reprezentantem|Pó³nocnego Plemienia Wody.
+{8241}{8270}Mi³o mi ciê poznaæ.
+{8334}{8376}Dlaczego masz trzy koñskie ogony?
+{8377}{8434}i dlaczego pachniesz jak dziewczyna?|Jesteœ dziwny.
+{8435}{8472}Có¿, nie jestem…
+{8482}{8513}staromodny.
+{8536}{8622}Czyta³em w prasie|o twoich przygodach.
+{8627}{8668}Infiltracja wiecu Amona...
+{8668}{8725}To siê nazywa|prawdziwa inicjatywa.
+{8726}{8770}O, dziêki.
+{8777}{8861}Myœlê, ¿e jesteœ pierwsz¹ wa¿n¹ osob¹|która cieszy siê z mojej obecnoœci w mieœcie.
+{8862}{8947}Odk¹d przyby³aœ, Republic City|jest o wiele lepsze.
+{8948}{9001}Doœæ tych pochlebstw, Turlock.
+{9009}{9044}Czego chcesz od Korry?
+{9047}{9106}Cierpliwoœci, Tenzin.|Zmierzam do tego.
+{9137}{9213}Jak mo¿e s³ysza³aœ,|formujê si³y specjalne
+{9215}{9271}które uderz¹ w samo|serce rewolucji
+{9272}{9313}i chcê, byœ do mnie do³¹czy³a.
+{9313}{9350}- Naprawdê?|- Co?
+{9352}{9428}Potrzebujê kogoœ, kto pomo¿e mi|bezpoœrednio uderzyæ w Amona.
+{9429}{9488}Kogoœ, kto nie boi siê stan¹æ|twarz¹ w twarz z niebezpieczeñstwem.
+{9489}{9560}Kogoœ takiego jak ty.
+{9566}{9606}Do³¹czyæ do si³ specjalnych?
+{9633}{9664}Nie mogê…
+{9830}{9913}Muszê przyznaæ, ¿e|jestem doœæ zaskoczony.
+{9916}{10004}Myœla³em, ¿e z chêci¹ pomo¿esz mi|prowadziæ dzia³ania przeciwko Amon.
+{10004}{10034}Ja te¿...
+{10036}{10077}Przyby³am do Republic City.
+{10078}{10135}by zakoñczyæ mój trening|Avatara z Tenzinem.
+{10138}{10191}Teraz muszê,|skupiæ siê na tym.
+{10192}{10262}Ale to jest doskona³a|okazja do tego!
+{10263}{10309}Nabêdziesz "praktycznego" doœwiadczenia,
+{10309}{10381}pe³ni¹c swoje obowi¹zki|Avatara, jakie masz do miasta.
+{10382}{10422}Korra ci odpowiedzia³a,
+{10423}{10464}czas, byœ sobie poszed³.
+{10477}{10530}Dobrze, ale...
+{10531}{10589}Ja nie poddajê siê|tak ³atwo!
+{10595}{10634}Wkrótce o mnie us³yszysz.
+{10640}{10709}To by³a przyjemnoœæ,|Avatar Korro.
+{10740}{10780}¯egnaj, Koñskie Ogony!
+{11006}{11082}Witam w Quong's Cuisine,|panie Mako.
+{11083}{11121}Uh… "pan"?
+{11445}{11497}Szalik zostaje.
+{11530}{11596}Jak sobie pan ¿yczy.|Têdy, proszê.
+{11697}{11759}Jestem wielk¹ fank¹ pro-bendingu.
+{11761}{11809}By³am na wszystkich meczach|tego sezonu.
+{11809}{11853}Wszystkich? Wow!
+{11862}{11926}Szczerze mówi¹c, jest kilka, których|nie chcia³bym, abyœ widzia³a.
+{11926}{11995}Nie b¹dŸ œmieszny.|Jesteœ niesamowity.
+{11996}{12042}Nie mogê siê doczekaæ, by zobaczyæ|ciebie graj¹cego na turnieju.
+{12043}{12104}Tak, có¿.|Uh... mo¿e w przysz³ym roku.
+{12106}{12160}Co masz na myœli.|Przecie¿ gracie w turnieju.
+{12161}{12223}Nie wygl¹da na to, byœmy|mogli w nim dalej uczestniczyæ.
+{12249}{12306}Powiedz, w czym problem?
+{12332}{12408}Nie mamy pieniêdzy, które musimy|wp³aciæ do puli zawodów.
+{12418}{12493}Wygl¹da na to,|¿e jesteœmy za burt¹.
+{12495}{12528}To nie fair!
+{12550}{12622}Przepraszam, pani Sato,|danie g³ówne.
+{12662}{12693}"Pani Sato"?
+{12695}{12768}Jesteœ spokrewniona|z Hitoshi Sato,
+{12769}{12804}twórc¹ Satomobilu?
+{12804}{12860}- Tak, to mój tato.|- ¯artujesz sobie!
+{12864}{12927}Mówiê powa¿nie.|Chcia³byœ siê z nim spotkaæ?
+{12943}{13031}Spotkaæ najwiêkszego przemys³owca|w ca³ym Republic City?
+{13039}{13083}Tak, bardzo chêtnie go poznam!
+{13160}{13208}Witam dru¿yno!
+{13211}{13244}Czeœæ, Bolin.
+{13251}{13290}Opuœci³aœ trening w tym tygodniu.
+{13290}{13331}Tak, przepraszam za to.
+{13341}{13410}W porz¹dku. I tak jesteœmy|ju¿ po za turniejem.
+{13410}{13485}Chyba, ¿e do jutra spadn¹|nam pieni¹dze z nieba.
+{13497}{13560}Tak czy inaczej, przyszed³em|tu by daæ ci to.
+{13560}{13589}Ta-da!
+{13589}{13648}Wow, dziêki.|Z jakiej to okazji?
+{13651}{13720}Uh… Oh. Nie pamiêtam.|A tak. Teraz sobie przypomnia³em.
+{13720}{13767}Ocali³aœ mnie przed Amonem...
+{13767}{13824}Oh, to? To nic wielkiego.
+{13826}{13859}"Nic wielkiego?"|¯artujesz sobie?
+{13859}{13939}Nie wiedzia³em co robiæ, gdy ten goœæ|podszed³ do mnie w tej strasznej masce...
+{13939}{14006}"Zabiorê ci twoj¹ magiê.|Na zawsze!"
+{14007}{14089}To by³o naprawdê straszne.|Do dziœ nie œpiê dobrze!
+{14100}{14169}- M-hmm.|- Przesy³ka dla Avatar Korry.
+{14213}{14303}Turlock przysy³a ci ten podarunek|i prosi o ponowne rozwa¿enie jego oferty.
+{14303}{14364}Powiedz mu, ¿e nie zmieni³am zdania.
+{14365}{14396}M-hmm...
+{14418}{14456}Kto to jest ten Turlock?
+{14456}{14533}Czy on ciê nagabuje? Co?|Bo mogê sobie z nim porozmawiaæ.
+{14533}{14592}Ha! Nie...|To nie to co myœlisz.
+{14597}{14676}To goœæ, który pracuje|z Tenzinem w Radzie.
+{14678}{14742}Aha.|Dobrze to s³yszeæ.
+{14742}{14773}Ca³e szczêœcie.
+{14925}{14974}Co myœlisz o mojej|ma³ej dzia³alnoœci tutaj?
+{14977}{15045}Jest... imponuj¹ca, Panie Sato.
+{15046}{15087}Proszê, mów mi Hiroshi.
+{15088}{15137}Widzê, ¿e nie jest bogaczem.
+{15138}{15170}Wh... uh...
+{15170}{15231}M³ody cz³owieku,|nie ma siê czego wstydziæ.
+{15232}{15295}Moje pocz¹tki tak¿e by³y skromne.
+{15296}{15343}Gdy by³em w twoim wieku,
+{15343}{15394}by³em pucybutem,
+{15394}{15454}i wszystko co mia³em|to pomys³.
+{15458}{15505}Satomobil.
+{15539}{15587}Mia³em szczêœcie|spotkaæ kogoœ
+{15587}{15648}kto wierzy³ we mnie|i w mój pomys³.
+{15656}{15746}Otrzyma³em pieni¹dze, które pozwoli³y|mi urzeczywistniæ moje marzenia.
+{15748}{15827}W ten sposób zbudowa³em|imperium Future Industries
+{15828}{15896}z jednej bezinteresownej po¿yczki.
+{15909}{15977}Tato, przestañ siê przechwalaæ.|Powiedz Mako o "dobrych wiadomoœciach".
+{15977}{16008}Ha-ha-ha...
+{16008}{16045}O jakich "dobrych wiadomoœciach"?
+{16045}{16095}Có¿, moja córka namiêtnie|opowiada³a mi
+{16095}{16173}wszystko o twojej ciê¿kiej pracy|i sukcesie w pro-bendingu.
+{16177}{16228}I o twoim zespole, który obecnie...
+{16237}{16290}stan¹³ przed finansow¹ przeszkod¹.
+{16290}{16340}Nie móg³bym znieœæ,|¿e tracisz szansê
+{16341}{16378}wygrania Mistrzostw,
+{16380}{16434}poniewa¿ brakuje ci|trochê yuanów.
+{16436}{16532}Dlatego chcê zostaæ sponsorem|Ognistych Fretek w tym turnieju!
+{16532}{16564}Powa¿nie?
+{16569}{16653}Mój tata mówi powa¿nie, pokryje|wszelkie koszty zwi¹zane z zawodami.
+{16655}{16706}To… To s¹ dobre wiadomoœci!
+{16707}{16751}Jest tylko jeden haczyk.
+{16756}{16833}Musicie nosiæ logo Future Industries|na swoich strojach.
+{16834}{16894}Mogê je sobie nawet wytatuowaæ,|jeœli pan chce, Sir!
+{16895}{16932}A-ha-ha-ha-ha!
+{16935}{16974}Dziêkujê raz jeszcze!
+{16984}{17065}Obiecujê, ¿e Ogniste Fretki|wykorzystaj¹ tê szansê.
+{17138}{17213}Z drogi tato,|prowadzimy wóz!
+{17366}{17445}Widzê, ¿e prezenty Turlocka staj¹ siê|coraz bardziej ekstrawaganckie.
+{17455}{17528}Tak, ten goœæ|nie rozumie s³owa "nie".
+{17530}{17614}Korra, co ty...|Wszystko w porz¹dku?
+{17625}{17666}Tak, wszystko dobrze...
+{17694}{17727}Dlaczego nie zrobisz sobie przerwy?
+{17754}{17801}Cieszê siê, ¿e odmówi³aœ Turlockowi,
+{17801}{17872}ale chcia³bym siê upewniæ, ¿e podjê³aœ|tê decyzjê ze s³usznych powodów.
+{17873}{17956}Jestem po prostu obecnie bardzo skupiona|na treningu magii powietrza, to wszystko.
+{17971}{18037}Racja to,...|co powiedzia³aœ.
+{18055}{18115}Wiesz, to nic z³ego siê baæ.
+{18122}{18192}Ca³e miasto jest wystraszone|przez to, co siê dzieje.
+{18205}{18291}Wa¿ne, by rozmawiaæ|o tym, czego siê boimy,
+{18294}{18366}bo inaczej mo¿e nas to|wytr¹ciæ z równowagi.
+{18503}{18564}Zawsze jestem do twojej dyspozycji|jeœli bêdziesz chcia³a porozmawiaæ.
+{18678}{18741}Avatarze Korra,|mam coœ dla ciebie.
+{18745}{18804}Nie wa¿ne jak wiele prezentów|Turlock wyœle,
+{18804}{18848}I tak nie do³¹cze do jego si³ specjalnych!
+{18872}{18939}To nie prezent, to zaproszenie.
+{18939}{18969}Na co?
+{18971}{19042}Turlock organizuje galê|na twoj¹ czeœæ.
+{19045}{19114}Wszyscy wa¿ni ludzie Republic City|tam bêd¹.
+{19114}{19183}Radny pokornie prosi|o twoj¹ obecnoœæ.
+{19503}{19552}Nie mogê uwierzyæ, ¿e on to wszystko robi dla mnie.
+{19553}{19639}Nie wiem, co Turlock planuje,|ale b¹dŸ czujna.
+{19640}{19715}On nie urz¹dza takich przyjêæ|tak dla zabawy.
+{19716}{19784}Cieszê siê, ¿e przysz³aœ,|Avatarze Korro.
+{19784}{19818}Przepraszam was...
+{19819}{19877}Miasto czeka na swojego bohatera.
+{19946}{20009}Milo, nie! To nie toaleta!|Oh, nie…
+{20022}{20066}Korra, to dla mnie przyjemnoœæ
+{20067}{20143}przedstawiæ ciê najwiêkszemu|przemys³owcowi Republic City,
+{20144}{20182}Hiroshi Sato.
+{20184}{20215}Mi³o mi ciê poznaæ.
+{20233}{20306}Spodziewamy siê po tobie|wspania³ych czynów.
+{20306}{20337}Tak...
+{20337}{20367}Wspania³ych.
+{20369}{20400}Hej, Korra!
+{20423}{20496}To jest moja córka,|Asami.
+{20497}{20526}Cudownie jest ciê poznaæ.
+{20526}{20577}Mako wiele mi|o tobie opowiada³.
+{20578}{20640}Naprawdê?|Bo o tobie nawet nie wspomnia³.
+{20641}{20711}- Jak siê spotkaliœcie?|- Asami mia³a wypadek, potr¹ci³a go motorowerem.
+{20712}{20761}Co? Wszystko z nim dobrze?
+{20762}{20823}Wszystko dobrze.|A nawet lepiej!
+{20826}{20891}Pan Sato zgodzi³ siê sponsorowaæ nasz¹ dru¿ynê.
+{20892}{20935}Wracam do gry!
+{20935}{20970}Czy to nie wspaniale?
+{20972}{21019}Tak. Œwietnie.
+{21056}{21157}Naczelnik Beifong, wierzê,|¿e pozna³aœ ju¿ Avatar Korrê?
+{21158}{21216}Tylko dlatego, ¿e chcia³a|zbyt du¿o zrobiæ na w³asn¹ rêkê.
+{21216}{21258}Nie myœl sobie, ¿e jesteœ wyj¹tkowa.
+{21258}{21325}Nie zrobi³aœ nic,|by na to zas³u¿yæ.
+{21697}{21766}B¹dŸ tak mia³a i odpowiedz im|na kilka pytañ.
+{21767}{21796}Ale ja…
+{21824}{21864}Avatar Korra, by³aœ œwiadkiem,
+{21864}{21922}jak Amon w³asnorêcznie zabiera³|magom ich zdolnoœci.
+{21922}{22015}Jak wielkie zagro¿enie stanowi on|dla niewinnych obywateli Republic City?
+{22043}{22128}Myœlê, ¿e jest on obecnie powa¿nym problemem.
+{22155}{22215}Dlaczego odmówi³aœ do³¹czenia|do si³ specjalnych Turlocka?
+{22216}{22282}Jako Avatar,|nie powinnaœ zaj¹æ siê Amonem?
+{22283}{22321}Có¿, ja…
+{22322}{22358}Dlaczego wycofujesz siê|przed walk¹ z nim?
+{22358}{22452}Co? Nie, nigdy w ¿yciu|nie wycofywa³am siê z ¿adnej walki.
+{22452}{22520}Obieca³aœ s³u¿yæ temu miastu.|Dlaczego nie chcesz teraz dotrzymaæ tej obietnicy?
+{22520}{22589}Uwa¿asz, ¿e pro-bending jest wa¿niejszy|ni¿ walka z rewolucj¹?
+{22589}{22635}Jak myœlisz, jak Avatar Aang|by sobie poradzi³ w tej sytuacji?
+{22635}{22667}Boisz siê Amona?
+{22667}{22719}Nie bojê siê niczego.
+{22722}{22767}Jeœli miasto bêdzie mnie potrzebowaæ...
+{22779}{22855}wtedy do³¹czê do si³ specjalnych Turlocka|i pomogê walczyæ z Amonem.
+{22856}{22909}To jest materia³ na pierwsze strony.
+{23253}{23293}Dowodz¹cy si³ specjalnych,
+{23303}{23395}dziœ wieczorem przypuœcimy atak na|podziemny obóz treningowy blokerów chi,
+{23396}{23449}po³o¿ony w dzielnicy Dragon Flats,
+{23450}{23486}Wed³ug moich Ÿróde³,
+{23487}{23546}W podziemiach pod ksiêgarni¹
+{23547}{23631}Equaliœci ucz¹ w sekrecie|blokowania chi.
+{25008}{25044}Zajmê siê tymi dwoma.
+{25342}{25389}Niez³e wyczucie czasu, dziêki Turlock.
+{25392}{25439}Razem z Avatarem tworzymy œwietny zespó³.
+{25489}{25528}Tak, to prawda.
+{25741}{25778}Korra znowu nie pojawi siê na treningu?
+{25780}{25815}Na to wygl¹da.
+{25882}{25973}Avatar Korra odwa¿nie odpowiedzia³a|na wezwanie do dzia³ania.
+{25973}{26017}Z nasz¹ dwójk¹|dowodz¹c¹ si³ami specjalnymi,
+{26018}{26109}Republic City nie musi siê baæ|Amona i Equalistów.
+{26109}{26143}Pytanie do Avatara.
+{26144}{26212}Amon pozostaje na wolnoœci.|Dlaczego nie mo¿ecie odnaleŸæ jego kryjówki?
+{26212}{26241}Chcecie wiedzieæ dlaczego?
+{26241}{26324}Bo Amon ukrywa siê w cieniu,|jak tchórz.
+{26331}{26401}Amonie, wyzywam ciê na pojedynek!
+{26402}{26473}Bez si³ specjalnych, bez blokerów chi...
+{26475}{26540}Tylko nas dwóch|dziœ o pó³nocy,
+{26540}{26602}na wyspie|Avatara Aanga.
+{26603}{26666}Zakoñczmy poœcig|i rozstrzygnijmy tê sprawê.
+{26669}{26719}Jeœli jesteœ na tyle odwa¿ny, by siê pokazaæ.
+{26903}{26951}Wiem, ¿e to zabrzmi dziwnie,
+{26953}{27006}ale cieszê siê,|¿e potr¹ci³am ciê motorowerem.
+{27037}{27078}Ooh… ja te¿!
+{27097}{27129}Zapomnia³am zapytaæ...
+{27134}{27213}Dlaczego nie nosisz mojego jedwabnego szala,|który kupi³am Ci w zesz³ym tygodniu?
+{27220}{27293}- Nie lubisz go?|- Nie, jest naprawdê ³adny, ale…
+{27296}{27344}To jest szal mojego ojca...
+{27359}{27409}To wszystko, co mi po nim pozosta³o.
+{27430}{27464}Czujê jakby...
+{27482}{27520}Jakby mnie chroni³.
+{27524}{27556}Przykro mi.
+{27572}{27629}Straci³am matkê|gdy by³am jeszcze bardzo ma³a.
+{27821}{27865}Z tob¹ czujê siê bezpiecznie.
+{28061}{28093}Korra, to jest szaleñstwo.
+{28095}{28156}Nie próbuj mnie zatrzymaæ|i mnie pouczaæ.
+{28163}{28203}Stanê z Amonem twarz¹ w twarz.
+{28205}{28242}To wszystko to twoja robota!
+{28243}{28330}Stara³em siê jej to wyperswadowaæ,|ale ona ubzdura³a sobie ten pojedynek.
+{28427}{28477}Bêdziemy uwa¿nie obserwowaæ wyspê.
+{28477}{28506}Jeœli coœ pójdzie Ÿle,
+{28506}{28583}Mam flotê policyjnych sterowców|gotowych do desantu.
+{29708}{29749}Chyba siê nie pojawisz, Amonie.
+{29767}{29803}Kto siê teraz boi?
+{30752}{30825}Przyj¹³em twoje zaproszenie,|m³ody Avatarze.
+{31042}{31108}Nasz ostateczny pojedynek,|choæ nieunikniony,
+{31109}{31146}jest przedwczesny.
+{31156}{31215}Chocia¿ by³by to dla mnie|teraz najprostsz¹ rzecz¹
+{31215}{31270}odebraæ ci twoje zdolnoœci|teraz...
+{31279}{31309}Nie zrobiê tego.
+{31314}{31367}Sta³abyœ siê mêczennikiem.
+{31377}{31450}Magów wszystkich nacji|zjednoczy³by...
+{31451}{31495}twój upadek,
+{31499}{31536}ale zapewniam ciê,
+{31539}{31585}mam plan...
+{31588}{31659}i oszczêdzê ciê a¿ do samego koñca.
+{31662}{31723}Wtedy, dostaniesz swój pojedynek...
+{31724}{31808}I wtedy ciê zniszczê.
+{32174}{32213}- Aang?|- Korra!
+{32232}{32306}Korra, wszystko dobrze?|Co siê sta³o? By³ tu Amon?
+{32315}{32345}Tak...
+{32363}{32404}Wpad³am w zasadzkê.
+{32405}{32469}Czy on…|Czy on zabra³ twoje zdolnoœci?
+{32521}{32552}Nie...
+{32572}{32630}- Wszystko dobrze.|- Oh, dziêki bogu!
+{32718}{32762}By³am tak przera¿ona!
+{32769}{32821}Czu³am siê bezradna.
+{32824}{32854}Ju¿ dobrze.
+{32859}{32891}Koszmar siê skoñczy³.
+{32892}{32921}Ty...
+{32940}{32972}Mia³eœ racjê.
+{32976}{33027}Ba³am siê przez ca³y ten czas.
+{33043}{33104}Nigdy wczeœniej siê tak nie czu³am,|i...
+{33121}{33171}I nie wiedzia³am co robiæ!
+{33222}{33273}Przyznanie siê do tego,|czego siê boimy jest pierwszym...
+{33273}{33356}i najtrudniejszym krokiem|w poradzeniu sobie z tym.

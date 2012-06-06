@@ -1,0 +1,353 @@
+{16}{57}Ziemia
+{64}{106}Ogieñ
+{106}{153}Powietrze
+{153}{200}Woda
+{200}{296}{Y:i}Tylko Avatar mo¿e opanowaæ|wszystkie cztery ¿ywio³y
+{303}{374}{Y:i}i zaprowadziæ równowagê na œwiecie.
+{492}{529}{Y:i}Po konfrontacji|z Amonem,
+{529}{561}{Y:i}Korra opuœci³a
+{561}{598}{Y:i}si³y specjalne Tarrloka.
+{598}{652}{Y:i}Avatar Korra, bêd¹c liderk¹
+{652}{686}{Y:i}Ognistych Fretek, ciê¿ko pracuje
+{686}{742}{Y:i}nad przygotowaniem siê|do fina³u mistrzostw Pro-Bendingu.
+{742}{817}{Y:i}Na ich drodze stoi ju¿ tylko|dru¿yna Wilkotoperzy.
+{817}{846}{Y:i}Dowodzeni przez kapitana Tahno,
+{846}{899}{Y:i}brutalne Wilkotoperze|zamierzaj¹ obroniæ tytu³ mistrzów.
+{899}{966}{Y:i}Czy Ogniste Fretki|wygraj¹ to starcie?
+{966}{1062}{Y:b}<font color="#3399FF">Sezon 1, Epizod 6|"Zwyciêzc¹ jest..."</font>
+{1341}{1378}{Y:i}S³uchacie "Muzycznej Godziny".
+{1378}{1408}Tak! whoo!
+{1408}{1468}{Y:i}Program sponsoruje|Cabbage Corporation,
+{1468}{1564}{Y:i}technologiczny lider|w Republic City ostatnich 50 lat.
+{1581}{1622}Mam dobre przeczucia.
+{1622}{1654}Nawet, je¿eli nie jesteœmy faworytami,
+{1654}{1710}mo¿emy pokonaæ|te nadête Wilkotoperze.
+{1710}{1754}To bêdzie nasz najtrudniejszy|mecz w historii,
+{1754}{1790}ale siê z tob¹ zgadzam.
+{1790}{1841}Przedstawiam nowych mistrzów,
+{1841}{1937}fantastyczne Ogniste Fretki!
+{1946}{2025}{Y:i}Dzieñ dobry, mieszkañcy|Republic City.
+{2025}{2061}{Y:i}Mówi Amon.
+{2061}{2091}{Y:i}Mam nadziejê, ¿e wszyscy|nacieszyliœcie siê
+{2091}{2153}{Y:i}ostatnim meczem Pro-Bendingu,
+{2153}{2221}{Y:i}poniewa¿ wiêcej meczy|ju¿ siê nie odbêdzie.
+{2221}{2308}{Y:i}Nadszed³ czas, by zakoñczyæ|czczenie zawodników i ich magii,
+{2308}{2361}{Y:i}jakby byli jakimiœ bohaterami.
+{2361}{2457}{Y:i}Wzywam Radê Miasta do|zamkniêcia areny zawodów
+{2457}{2537}{Y:i}i anulowania fina³ów,|bo inaczej czekaj¹ was
+{2537}{2593}{Y:i}powa¿ne konsekwencje.
+{2626}{2667}Ten goœæ dzia³a mi na nerwy!
+{2667}{2703}Myœlisz, ¿e Rada|zawiesi mistrzostwa?
+{2703}{2774}Nie zamierzam spokojnie na to patrzeæ.|Musimy dostaæ siê do Ratusza.
+{2950}{3016}Korra, nie powinno ciê tu byæ,|to zamkniête posiedzenie.
+{3016}{3062}Jako Avatar,|i gracz Pro-Bendingu,
+{3062}{3137}mam prawo byæ wys³uchana.|Nie mo¿ecie anulowaæ fina³ów.
+{3137}{3196}Wiem, ¿e zdobycie mistrzostwa|wiele dla ciebie znaczy,
+{3196}{3278}ale wobec tego zagro¿enia,|musimy zamkn¹æ stadion.
+{3278}{3317}Co z reszt¹ was?
+{3317}{3381}Tarrlok, chyba nie cofniesz siê|przed Amonem, prawda?
+{3381}{3468}W³aœciwie to zgadam siê z Tenzinem.
+{3468}{3538}Rada jednomyœlnie podjê³a|decyzjê o zamkniêciu stadionu.
+{3538}{3574}Nie!|Nie mo¿esz!
+{3574}{3608}N-Nie rozumiem.
+{3608}{3686}Myœla³am, ¿e wszyscy zamierzaj¹|przeciwstawiæ siê Amonowi.
+{3686}{3727}Dopóki nie uda nam siê|przyprowadziæ tego szaleñca
+{3727}{3810}przed oblicze sprawiedliwoœci,|nie zamierzam nara¿aæ ¿ycia niewinnych ludzi,
+{3810}{3906}po to, by ty i twoi przyjaciele|mogli rozegraæ jakiœ mecz.
+{3916}{3980}Pro-Bending mo¿e byæ|dla ciebie zwyk³¹ gr¹,
+{3980}{4021}ale pomyœl, co znaczy dla miasta.
+{4021}{4062}Stadion jest miejscem,|gdzie magowie i nie-magowie
+{4062}{4158}mog¹ siê zgromadziæ razem...|w pokoju!
+{4175}{4214}By ogl¹daæ magów...
+{4214}{4310}Którzy walcz¹ ze sob¹ dla sportu! W pokoju!|Oni s¹ inspiracj¹ dla wszystkich!
+{4324}{4382}Doceniam wasz naiwny idealizm,
+{4382}{4449}ale nie zdajecie sobie sprawy|z powagi sytuacji.
+{4449}{4531}Sytuacja jest taka, ¿e jeœli|zamkniecie stadion, Amon wygra!
+{4531}{4598}Zgadzam siê z Korr¹, dok³adnie!
+{4598}{4670}Przykro mi, ale podjêliœmy ju¿ decyzjê.
+{4670}{4753}Posiedzenie jest zakoñczone.
+{4839}{4885}Nie wierzê, ¿e to mówiê,
+{4885}{4932}ale zgadzam siê z Avatarem.
+{4932}{4994}- Zgadzasz siê?|- W³aœnie, zgadasz siê?
+{4994}{5038}Spodziewa³am siê takiego|chowania g³owy w piasek
+{5038}{5110}po Tenzinie, ale nie|po reszcie z was.
+{5110}{5176}Pora pokazaæ,|¿e nie jesteœmy tchórzami.
+{5176}{5234}Czas, by magowie tego miasta
+{5234}{5284}pokazali si³ê i jednoœæ
+{5284}{5324}przeciwko Equalistom.
+{5324}{5400}Musimy zapobiec konfliktowi|miêdzy magami i nie-magami,
+{5400}{5454}zanim zmieni siê w prawdziw¹ wojnê.
+{5454}{5522}Rada nie zmieni swojego zdania, Lin.
+{5522}{5570}Chwileczkê, Tenzin.
+{5570}{5665}Pos³uchajmy, co nasz szanowany|szef si³ policyjnych ma do powiedzenia.
+{5666}{5761}Je¿eli nie zamkniecie stadionu,|ja i moi magowie metalu
+{5761}{5847}zapewnimy dodatkow¹ ochronê|na czas meczu.
+{5847}{5903}Nikt lepiej nie poradzi sobie|w walce z blokerami chi.
+{5903}{5970}Nasze zbroje s¹ odporna na ich ataki.
+{5970}{6053}Mówisz, ¿e jesteœ w stanie|zagwarantowaæ
+{6053}{6120}bezpieczeñstwo stadionu|w czasie meczu?
+{6120}{6159}Tak, gwarantujê je.
+{6159}{6255}Trudno spieraæ siê|z opini¹ naczelnik Beifong.
+{6257}{6318}Je¿eli jest ona pewna, ¿e jej ludzie
+{6318}{6396}s¹ w stanie ochroniæ stadion,|to popieram j¹.
+{6396}{6474}Zmieniam swoje zdanie.|Kto jest ze mn¹?
+{6542}{6622}Stadion pozostanie otwarty.|Powodzenia w finale.
+{6622}{6647}Œwietnie!|Tak!
+{6647}{6673}Dziêkujê!
+{6673}{6769}I powodzenia,|Naczelnik Beifong.
+{6779}{6863}Mogê ciê prosiæ, Lin.
+{6863}{6894}Tarrlok chce zabawiæ siê twoim kosztem.
+{6894}{6933}A ja nie chcê, by sta³a ci siê krzywda.
+{6933}{6993}Wiem, co robiê,|i wiem, jakie ryzyko siê z tym wi¹¿e.
+{6993}{7055}W takim razie, mam zamiar|pomagaæ ci podczas meczu.
+{7055}{7110}Nie ma potrzeby mnie niañczyæ.
+{7110}{7187}Chcê byæ pewien, ¿e Korra bêdzie bezpieczna.
+{7187}{7222}Chcemy tego samego.
+{7222}{7276}To nie tak, ¿e zawsze chcê|byæ przeciwko tobie.
+{7276}{7311}Przepraszam, Naczelnik Beifong.
+{7311}{7350}Dziêkujê za twoj¹ pomoc.
+{7350}{7444}To naprawdê... wiele dla mnie znaczy.
+{7444}{7477}Co z ni¹ jest?
+{7477}{7532}Nawet, jeœli jest po mojej stronie,|jest przeciwko mnie.
+{7532}{7580}Znam Lin, odk¹d byliœmy dzieæmi.
+{7580}{7669}Zawsze by³a... trudna.
+{7669}{7702}Co twój ojciec jej zrobi³,
+{7702}{7748}¿e tak nienawidzi Avatarów?
+{7748}{7809}Mój ojciec i Lin byli w|doskona³ych stosunkach.
+{7809}{7905}Obawiam siê, ¿e jest taka...|przeze mnie.
+{7907}{7984}Czekaj chwilê.|To ma sens!
+{7984}{8042}Ty i Beifong,|Beifong i ty.
+{8042}{8072}Byliœcie par¹!
+{8072}{8139}Co?... Sk¹d...|Sk¹d wziê³aœ ten pomys³?
+{8139}{8185}Tak! Twoja ¿ona.
+{8185}{8253}Cholera! Muszê z ni¹|zamieniæ s³ówko.
+{8253}{8349}Wiêc... Pema "ukrad³a" ciê Beifong?
+{8349}{8401}Jestem zdziwiona, ¿e|nasz szanowany szef si³ policyjnych
+{8401}{8437}nie wsadzi³a ciê do paki.
+{8437}{8507}Oh, próbowa³a.|W ka¿dym b¹dŸ razie, Pema mnie nie "ukrad³a".
+{8507}{8588}Lin i ja oddaliliœmy siê od siebie.
+{8588}{8666}Mieliœmy w ¿yciu ró¿ne cele...
+{8666}{8710}Dlaczego ja ci to wszystko mówiê?
+{8710}{8805}Wszystko to sta³o siê dawno temu|i jest ju¿ przesz³oœci¹.
+{8811}{8847}Hm, widocznie nie dla Beifong.
+{8847}{8922}Co ty... Oczywiœcie, ¿e jest.
+{8922}{8976}Tak czy inaczej, to nie twoja sprawa.
+{8976}{9032}Do zobaczenia w domu,|³amaczu kobiecych serc!
+{9266}{9357}Mam wieœci. Rada postanowi³a|ci siê przeciwstawiæ.
+{9357}{9437}Stadion pozostanie otwarty.
+{9437}{9517}Doskonale. Wszystko idzie|zgodnie z planem.
+{9975}{10071}Czysto, pani Naczelnik.
+{10089}{10129}Jak idzie sprawdzanie bezpieczeñstwa?
+{10129}{10158}Dobrze.
+{10158}{10183}Twoi ludzie sprawdz¹ trybuny?
+{10183}{10210}Tak.
+{10210}{10235}Masz doœæ ludzi, by zabezpieczyæ
+{10235}{10268}wszystkie wejœcia?
+{10268}{10327}Mam doœæ ludzi, by|zabezpieczyæ niebo, zatokê
+{10327}{10357}oraz ka¿dy zakamarek tego miejsca.
+{10357}{10425}Teraz daj mi spokój i pozwól mi|wykonywaæ swoje obowi¹zki.
+{10425}{10490}Lin, by³oby wspaniale, gdybyœmy
+{10490}{10542}mogli pomagaæ z sobie nawzajem,
+{10542}{10613}przynajmniej w ten jeden wieczór.
+{10613}{10709}- Tak jak za starych czasów?|- Tak jak za starych czasów.
+{10715}{10804}Ok, postaram siê byæ mniej|szorstka, ni¿ zazwyczaj.
+{10804}{10874}By³bym za to wdziêczy.
+{10939}{10997}{Y:i}Ju¿ tylko minuty dziel¹ nas|od rozpoczêcia
+{10997}{11033}{Y:i}fina³u mistrzostw.
+{11033}{11112}{Y:i}Czy wyj¹tkowa brutalnoœæ pomo¿e|Wilkotoperzom obroniæ tytu³ mistrzów?
+{11112}{11157}Czy mo¿e czarny koñ mistrzostw,|Ogniste Fretki,
+{11157}{11253}sprawi¹ dzisiaj|wszystkim niespodziankê?
+{11253}{11316}Wiem, ¿e jest tam mnóstwo ludzi,|ale nie denerwuj siê tym.
+{11316}{11344}Wszystko bêdzie dobrze.
+{11344}{11372}Wierzê w ciebie.
+{11578}{11649}Oto zawodnicy,
+{11649}{11745}Ogniste Fretki, sponsorowane|przez Future Industries.
+{12318}{12353}Dajesz, Pabu!
+{12515}{12611}Tak! Poradzi³eœ sobie.|On jest taki utalentowany!
+{12616}{12663}I ich przeciwnicy,
+{12663}{12745}trzykrotni obroñcy tytu³u,
+{12745}{12813}Wilkotoperze Wodospadu!
+{13189}{13285}To nic w porównaniu z nami, kolego!|Ka¿dy potrafi wyæ.
+{13301}{13371}Niewa¿ne.
+{13434}{13530}Zamierzam zetrzeæ tê jego g³upi¹|fryzurê z tej jego g³upiej g³owy.
+{13549}{13613}{Y:i}Mistrzowie i pretendenci|zmierzaj¹ do œrodkowej linii.
+{13613}{13677}{Y:i}Zaczynamy!
+{13744}{13773}{Y:i}Tahno próbuje zaatakowaæ Avatara
+{13773}{13845}{Y:i}paskudnym wodnym uderzeniem.
+{13845}{13913}{Y:i}Ming unika ciosu Mako i kontratakuje.
+{14064}{14137}{Y:i}Shaozu wykonuje misterny unik,|ale dysk Bolina blokuje jego atak,
+{14137}{14179}{Y:i}tak jakby chcia³ on powiedzieæ:|"Nie, dziêkujê!"
+{14203}{14292}{Y:i}Niez³e uderzenie!
+{14292}{14380}{Y:i}Magowie wody obu dru¿yn tocz¹|zaciêty pojedynek.
+{14380}{14423}{Y:i}Tahno znajduje nieco miejsca
+{14423}{14482}{Y:i}i atakuje Bolina niedozwolonym ciosem.
+{14507}{14541}{Y:i}NajwyraŸniej jednak dozwolonym.
+{14541}{14617}Co to mia³o byæ?|Przecie¿ to by³ faul!
+{14617}{14674}{Y:i}Wilkotoperze zyskuj¹ przewagê,|mimo tego, ¿e Tahno przekroczy³
+{14674}{14709}{Y:i}dozwolony czas|u¿ywania magii wody.
+{14709}{14795}{Y:i}Dyskusyjna decyzja sêdziów.
+{14795}{14857}{Y:i}Ming atakuje Mako kolejnym|nieczystym zagraniem!
+{14857}{14897}Co to mia³o byæ, panie sêdzio!
+{14897}{14948}W tym meczu dziej¹ siê|jakieœ dziwne rzeczy.
+{14948}{15006}S¹dzi³am, ¿e nie masz pojêcia|o zasadach Pro-Bendingu.
+{15006}{15045}Aahhhhm, Co nieco czyta³em o tym.
+{15045}{15121}Wilkotoperze ewidentnie|u¿y³y dysku po za dozwolon¹ stref¹.
+{15121}{15163}{Y:i}Bracia z dru¿yny Ognistych Fretek|zostali cofniêci do Strefy Trzeciej,
+{15163}{15259}{Y:i}a Wilkotoperze poczu³y krew.
+{15346}{15407}Wygl¹da na to, ¿e Tahno u¿y³|niedozwolonego lodowego zagrania.
+{15407}{15451}Jednak kolejny raz|uchodzi mu to p³azem.
+{15451}{15497}Nie wiem jaki mecz|ogl¹daj¹ sêdziowie,
+{15497}{15593}{Y:i}ale najwyraŸniej|nie ten sam, co ja.
+{15593}{15617}Ooh! Unh!|Ooh!
+{15653}{15732}{Y:i}Kolejny atak posy³a Avatara|do Strefy Trzeciej.
+{15757}{15785}{Y:i}Nokaut!
+{15785}{15815}{Y:i}Wilkotoperze wygrywaj¹ mistrzostwa
+{15815}{15911}{Y:i}czwarty raz z rzê...
+{15911}{15963}Zaczekajcie, ludzie! Fretki|ci¹gle pozostaj¹ w grze.
+{15963}{16025}{Y:i}Ale na jak d³ugo?!
+{16025}{16053}Unh!
+{16100}{16173}Unh!
+{16173}{16242}Oof!
+{16242}{16283}{Y:i}Co za niesamowity ruch!
+{16283}{16330}{Y:i}Fretki potrafi¹ nie tylko|u¿ywaæ magii ¿ywio³ów,
+{16330}{16376}{Y:i}ale tak¿e swoich umys³ów!
+{16376}{16440}{Y:i}Pretendenci przetrwali. Zobaczymy|ich ponownie w rundzie drugiej.
+{16508}{16544}Co jest nie tak z tymi sêdziami?
+{16544}{16603}Zostali podp³aceni,|to jedyne wyjaœnienie.
+{16603}{16639}Ktoœ chce, byœmy przegrali.
+{16639}{16704}Jeœli Wilkotoperze chc¹ graæ nieczysto,|my te¿ powinniœmy.
+{16704}{16770}Nie, nie mo¿emy.|Sêdziowie s¹ przeciwko nam.
+{16770}{16804}Jeœli chcemy to wygraæ,
+{16804}{16839}musimy graæ fair.
+{16839}{16930}Ugh, to niesprawiedliwe,|ale ok.
+{16930}{17026}Runda druga!
+{17039}{17078}{Y:i}Runda rozpoczê³a siê|brutalnymi atakami
+{17078}{17128}{Y:i}obydwu stron!
+{17128}{17181}{Y:i}Tahno kolejny raz u¿ywa lodu|w niedozwolony sposób,
+{17181}{17251}{Y:i}aby uzyskaæ przewagê.
+{17293}{17389}{Y:i}Wow, dla mnie to wygl¹da³o na|niedozwolony cios w g³owê!
+{17426}{17510}{Y:i}Wynik rundy drugiej zostanie|rozstrzygniêty w tie-breaku.
+{17616}{17692}Ogniste Fretki wygrywaj¹ rzut monet¹.
+{17692}{17740}Jaki ¿ywio³ wybieracie?
+{17740}{17775}Wodê.
+{17775}{17834}No dawaj, przyjemniaczku!
+{17834}{17905}Myœla³em, ¿e nigdy mnie nie poprosisz.
+{18146}{18229}Ma³a dziewczynko, poka¿|mi swój najlepszy atak.
+{18305}{18352}Unh!
+{18428}{18500}Unh!
+{18533}{18577}Hmm. G³upek.
+{18678}{18753}Rundê drug¹ wygrywaj¹ Ogniste Fretki.
+{18822}{18853}Dobra robota!
+{18853}{18936}To by³o coœ, by³aœ niesamowita!
+{18936}{19002}Mo¿emy wygraæ ten mecz.
+{19002}{19036}Aarrghh!
+{19036}{19117}Pora wys³aæ ich do Wodnego Grobowca.
+{19117}{19161}Nie mogê uwierzyæ, ¿e twój|³agodnie usposobiony ojciec,
+{19161}{19213}reinkarnowa³ jako ta dziewczyna.
+{19213}{19246}Ona jest twarda jak stal.
+{19246}{19303}Przypomina mi kogoœ, kogo zna³em|gdy by³em w jej wieku.
+{19303}{19334}Oboje mo¿ecie siê dogadaæ,
+{19334}{19389}je¿eli tylko dasz jej szansê.
+{19389}{19425}Humph!
+{19425}{19485}{Y:i}Rozpoczyna siê kolejna runda.
+{19538}{19568}{Y:i}Wilkotoperze rozpoczynaj¹
+{19568}{19605}{Y:i}swój wœciek³y atak.
+{19605}{19646}{Y:i}Pretendenci wk³adaj¹|w swoj¹ grê wiele serca,
+{19646}{19680}{Y:i}ale mistrzowie zaczynaj¹
+{19680}{19719}{Y:i}odnajdywaæ swój rytm.
+{19719}{19761}{Y:i}Czy Ogniste Fretki|poradz¹ sobie z nimi,
+{19761}{19814}{Y:i}pomimo tego, ¿e sêdziowie
+{19814}{19861}{Y:i}zdaj¹ siê wspieraæ aktualnych mistrzów?
+{19861}{19949}{Y:i}To wszystko dzieje siê w|tej decyduj¹cej rundzie!
+{19949}{19997}{Y:i}Mako robi co mo¿e,
+{19997}{20027}{Y:i}ale wygl¹da na to, ¿e Tahno|i Ming coœ szykuj¹!
+{20027}{20123}{Y:i}Czy¿by kolejna pu³apka?
+{20201}{20290}{Y:i}Tego jeszcze nie by³o! Wodny cios|zosta³ wzmocniony kawa³kami kamieni!
+{20290}{20325}Nokaut!
+{20325}{20378}Dajcie spokój, to by³ niedozwolony atak!
+{20378}{20417}Otwórzcie oczy, sêdziowie!
+{20417}{20457}Proszê pañstwa,|to kontrowersyjna decyzja,
+{20457}{20535}ale Wilkotoperze tym nieczystym|nokautem wygrywaj¹ mecz!
+{20535}{20589}{Y:i}Po raz czwarty z rzêdu,
+{20589}{20654}{Y:i}zostaj¹ Mistrzami.
+{20654}{20697}To by³o niez³e.
+{20697}{20792}Ktoœ jeszcze chce|zadrzeæ z Mistrzami?
+{21448}{21473}Uwa¿aj!
+{21473}{21541}Aarrghh!
+{21595}{21639}Aarrghh!
+{21667}{21694}Aarrghh!
+{21982}{22045}Co siê...?
+{22262}{22308}Proszê pañstwa,|na trybunach pojawiaj¹ siê jakieœ
+{22308}{22336}dziwne wy³adowania elektryczne.
+{22336}{22405}Ochraniaj¹cy mecz magowie metalu|padaj¹ jak muchy.
+{22405}{22461}Na stadionie pojawili siê jacyœ|zamaskowani ludzie
+{22461}{22557}z dziwnymi urz¹dzeniami na rêkach.
+{22563}{22625}Jeden z nich dosta³ siê do mojej kabiny.
+{22625}{22686}Myœlê, ¿e ma zamiar og³uszyæ
+{22686}{22753}mnie jakimœ urz¹dzeniem.
+{22753}{22808}W tym momencie narobi³em w gacie.
+{23408}{23478}- Co siê tutaj dzieje, panie sêdzio?|- Nie wiem.
+{23533}{23616}Ok, chcecie zadrzeæ z Wilkotoperzami?
+{23616}{23695}Nie ma problemu!
+{23816}{23886}Hunh! Aaaah!
+{23886}{23958}Rrrah!|Unh!
+{24050}{24091}Czekaj, proszê, nie rób tego!
+{24091}{24118}Oddam ci nasz¹ wygran¹!
+{24118}{24155}Oddam ci wszystko,
+{24155}{24225}ale proszê nie zabieraj mojej magii!
+{25042}{25086}Mam nadziejê, ¿e mnie teraz s³uchacie,
+{25086}{25133}magowie Republic City.
+{25133}{25229}Po raz kolejny Wilkotoperze|wygra³y wasze mistrzostwa.
+{25249}{25312}Mam nadziejê, ¿e œwiêtujecie zwyciêstwo
+{25312}{25369}tych trzech chuliganów.
+{25369}{25433}Oszukiwali oni w ka¿dym meczu,
+{25433}{25507}tak samo jak inni magowie nadu¿ywaj¹
+{25507}{25603}{Y:i}swoich zdolnoœci przeciwko zwyk³ym obywatelom.
+{25609}{25705}{Y:i}Ten cz³owiek uwa¿any by³ przez|was za najlepszego maga na œwiecie,
+{25716}{25784}{Y:i}ale wystarczy³ tylko moment
+{25784}{25852}i jego magia sta³a siê przesz³oœci¹.
+{25852}{25948}Niech to bêdzie ostrze¿enie|dla wszystkich magów.
+{25953}{26049}Je¿eli którykolwiek z was|wejdzie mi w drogê, spotka go podobny los.
+{26096}{26169}Moi zwolennicy,
+{26169}{26231}przez lata Equaliœci byli zmuszeni
+{26231}{26284}ukrywaæ siê w cieniu.
+{26284}{26380}Ale teraz mamy doœæ si³y,
+{26384}{26471}by stworzyæ nowe Republic City.
+{26471}{26513}{Y:i}Jestem szczêœliwy,|mog¹c poinformowaæ was,
+{26513}{26561}{Y:i}¿e czas zmian nareszcie nadszed³.
+{26561}{26594}Jak siê st¹d wydostaniemy?
+{26594}{26670}{Y:i}Wkrótce czas tyranii magów...
+{26670}{26705}Pabu!|S³uchaj mnie, kolego!
+{26705}{26796}{Y:i}...zostanie zast¹piony przez|rz¹dy uczciwych Equalistów...
+{26796}{26838}Przestañ siê wyg³upiaæ!
+{26838}{26930}Nie wyg³upiam siê.|Próbujê nas uwolniæ!
+{26930}{26979}{Y:i}Wy i wasze dzieci nie bêdziecie d³u¿ej|¿yæ w strachu. Czas odzyskaæ nasze miasto.
+{26979}{27022}Widzisz? Pabu potrafi|nie tylko cyrkowe sztuczki.
+{27022}{27078}Przez stulecia magowie posiadali
+{27078}{27170}nadnaturaln¹ przewagê|nad zwyk³ymi ludŸmi,
+{27170}{27242}{Y:i}ale dziêki nowoczesnej technice,
+{27242}{27320}{Y:i}szanse siê wyrówna³y.
+{27320}{27416}{Y:i}Obecnie ka¿dy mo¿e poczuæ na w³asnej|skórze potêgê r¹k blokerów chi.
+{27438}{27502}Moi zwolennicy, nie spocznê,
+{27502}{27584}dopóki ca³e to miasto
+{27584}{27680}i ca³y œwiat
+{27687}{27733}nie zazna Równowagi.
+{27733}{27829}Rewolucja siê rozpoczê³a!
+{28398}{28455}Tenzin!
+{28640}{28695}Ok, Pabu,|To tylko ma³y wybuch!
+{28730}{28767}GryŸ dalej,|prawie ci siê uda³o!
+{28820}{28916}Tak!|Dobra robota, stary!
+{28930}{28978}- Idê za Amonem!|- B¹dŸ ostro¿na!
+{29981}{30034}Yaaah!
+{30344}{30376}Hunh!
+{30376}{30418}Rrrah!
+{30590}{30668}Aah! Unh!
+{30769}{30806}Unh!
+{30834}{30883}Hua! Off!
+{32438}{32482}Unh!
+{32710}{32793}- Wszystko dobrze?|- Tak, dziêki tobie.
+{32793}{32846}Nie wspominaj mi o tym wiêcej, dziecko.
+{32846}{32942}Wygl¹da na to, ¿e przegraliœmy tê bitwê.
+{32945}{33019}- Cieszê siê, ¿e nic ci nie jest!|- Ja te¿!
+{33070}{33166}Nie mogê uwierzyæ,|¿e Amon tak nas za³atwi³.
+{33177}{33271}W Republic City rozpoczê³a siê wojna.
