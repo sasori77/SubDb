@@ -405,7 +405,7 @@ Nie skoñczy³em jeszcze.
 93
 00:06:42,031 --> 00:06:45,021
 Widzisz, Aang nie tylko 
-korzysta³ z rad swoich nauczycieli.
+korzysta³ z rad swoich nauczycieli,
 
 94
 00:06:45,021 --> 00:06:48,047
@@ -441,30 +441,30 @@ ale ciê¿ko jest mi sobie je przypomnieæ.
 
 101
 00:07:09,973 --> 00:07:13,427
-Did you see any of the previous
-Avatars in these visions?
+Czy widzia³aœ w swoich 
+wizjach poprzednich Avatarów?
 
 102
 00:07:13,427 --> 00:07:17,252
-I saw Aang. It seemed like he was in trouble.
+Widzia³am Aanga. Wygl¹da³, jakby mia³ k³opoty.
 
 103
 00:07:17,868 --> 00:07:19,754
-What do you think it means?
+Jak myœlisz co to znaczy?
 
 104
 00:07:21,026 --> 00:07:25,872
-I don't know. But I urge you
-to meditate on these visions.
+Nie wiem. Ale zachêcam ciê do 
+medytacji na t¹ wizj¹.
 
 105
 00:07:25,872 --> 00:07:29,728
-I believe Aang's spirit must be
-trying to tell you something.
+Wierzê, ¿e duch Aanga 
+stara ci siê powiedzieæ.
 
 106
 00:07:42,175 --> 00:07:44,461
-Korra.Are you out here?
+Korra. Jesteœ tutaj?
 
 107
 00:07:46,777 --> 00:07:51,593
@@ -472,344 +472,340 @@ Korra!
 
 108
 00:07:53,039 --> 00:07:54,637
-Here you are.
+Tu jesteœ.
 
 109
 00:07:56,445 --> 00:07:57,499
-Are you okay?
+Wszystko dobrze?
 
 110
 00:07:57,499 --> 00:07:58,601
-I'm fine.
+Tak.
 
 111
 00:07:58,601 --> 00:08:02,153
-Come on, what's wrong?
-You can tell us.
+Co siê sta³o?
+Mo¿esz nam powiedzieæ.
 
 112
 00:08:04,191 --> 00:08:08,317
-How am I supposed to save this city, when I can't even learn airbending?
+Jak mam ocaliæ to miasto, 
+skoro nie mogê nauczyæ siê magii powietrza.
 
 113
 00:08:08,317 --> 00:08:13,113
-I'm the worse Avatar ever. I just feel...alone.
+Jestem najgorszym Avatarem wszechczasów.
+Czujê siê taka... ostamotniona.
 
 114
 00:08:13,213 --> 00:08:15,948
-That's non-sense, you're amazing.
+To nonsens, jesteœ wspania³a.
 
 115
 00:08:15,948 --> 00:08:22,362
-Yeah and remember, Aang hadn't mastered all the elements while
-battling the Fire Nation. He was just a little kid.
+I pamiêtaj, ¿e Aang te¿ nie by³ mistrzem wszystkich ¿ywio³ów,
+gdy walczy³ przciwko Narodowi Ognia. By³ dzieciakiem.
 
 116
 00:08:22,438 --> 00:08:25,301
-And he wasn't alone, he had
-his friends to help him.
+I nie zrobi³ tego sam,
+mia³ przyjació³, którzy mu pomagali.
 
 117
 00:08:25,301 --> 00:08:27,556
-Look the arena might
-be shut down,
+Mo¿e zamknêli nasz stadion,
 
 118
 00:08:27,556 --> 00:08:30,937
-but we're still a team, the New Team Avatar!
+ale wci¹¿ jesteœmy dru¿yn¹, Now¹ Dru¿yn¹ Avatara.
 
 119
 00:08:31,037 --> 00:08:35,275
-We got your back Korra and we
-can save the city, together.
+Pomo¿emy ci i ocalimy to miasto razem.
 
 120
 00:08:35,978 --> 00:08:38,040
-Yeah, let's do it.
+Zróbmy to!
 
 121
 00:08:39,664 --> 00:08:41,486
-Yeah, let's do it!
+Zróbmy to!
 
 122
 00:08:42,254 --> 00:08:43,740
-What are we doing?
+Co robimy?
 
 123
 00:08:49,092 --> 00:08:51,218
-Get ready, Republic City.
+Nadchodzimy, Republic City.
 
 124
 00:08:51,218 --> 00:08:55,010
-You are about to be patrolled by Team Avatar.
+Bêdziesz patrolowane przez Dru¿ynê Avatara.
 
 125
 00:08:56,162 --> 00:08:59,280
-Asami you always know how to accessorize your outfits.
+Asami, zawsze dobrze dobiera³aœ dodatki.
 
 126
 00:08:59,480 --> 00:09:04,576
-I figure one way to fight Equalists is to use an Equalist weapon.
+Uwa¿am, ¿e jedyny sposób 
+na walkê z Equalistami, to u¿ycie ich broni.
 
 127
 00:09:04,576 --> 00:09:07,472
-All right, let's ride.
+Dobrze, ruszajmy!
 
 128
 00:09:07,762 --> 00:09:09,104
-Naga away!
+Dawaj Naga!
 
 129
 00:09:12,356 --> 00:09:14,834
-Alright, scratch that, any other ideas?
+Dobra, jakieœ inne pomys³y?
 
 130
 00:09:16,162 --> 00:09:18,560
-Hmm. I think I have the answer.
+Hmm. Myœlê, ¿e coœ wymyœlia³am.
 
 131
 00:09:31,096 --> 00:09:32,870
-You think this will do?
+Myœlisz, ¿e siê nada?
 
 132
 00:09:36,850 --> 00:09:39,696
-I like the New Team Avatar's style.
+Podoba mi siê styl Nowej Dru¿yny Avatara.
 
 133
 00:09:52,488 --> 00:09:57,437
-Unit 2-16 cancel that 10-58 in army
-tower.Come back to the station, over.
+Jednostka 2-16 porzuæ wezwanie 10-58.
+Wracaj do bazy, odbiór.
 
 134
 00:09:57,437 --> 00:10:02,083
-My dad had police scanners installed in
-all his cars, I guess now I know why.
+Mój ojciec zainstalowa³ policyjne radio
+w ka¿dym z wozów. Domyœlam sie dlaczego.
 
 135
 00:10:02,083 --> 00:10:05,649
-All available units, level four
-alert, jailbreak at headquarters.
+Do wszystkich jednostek, alarm poziom czwarty,
+w³amanie do kwatery g³ównej i zabrali wiêŸniów.
 
 136
 00:10:05,649 --> 00:10:10,703
-Officers down electric unit. Chi-blockers and Equalist
-convoy are still at large armed and dangerous
+Funkcjonariuszy za³atwili za pomoc¹ paralizatorów.
+Blokerzy chi i Equaliœci s¹ dobrze uzbrojeni i niebezpieczni.
 
 137
 00:10:10,703 --> 00:10:15,549
-last seen heading east. I repeat
-level four alert Equalist jailbreak.
+Kieruj¹ siê na wschód. Powatrzam, alarm 
+poziom czwarty, w³amanie Equalistów.
 
 138
 00:10:15,993 --> 00:10:17,543
-Chi-blockers!
+Blokerzy chi!
 
 139
 00:10:17,979 --> 00:10:19,081
-Let's get them!
+Dorwijmy ich!
 
 140
 00:10:39,056 --> 00:10:41,634
-Korra, Bolin, give me a ramp now!
+Korra, Bolin, zróbcie mi rampê!
 
 141
 00:11:08,010 --> 00:11:10,084
-Hold me up, we got to make this turn.
+Trzymajcie siê, wchodzimy w zakrêt.
 
 142
 00:11:15,644 --> 00:11:17,543
-They don't know we made the turn.
+Nie wiedz¹, ¿e skrêciliœmy.
 
 143
 00:11:17,723 --> 00:11:18,924
-Get ready.
+B¹dŸcie gotowi.
 
 144
 00:12:08,340 --> 00:12:10,495
-Avatar Korra, what do
-you think you're doing?
+Avatar Korra, co ty w³aœciwie robisz?
 
 145
 00:12:10,595 --> 00:12:16,568
-Oh hey Tarlokk, nice for you to show up finally.
-Here, we captured these escaped convicts for you.
+O czeœæ Tarlokk, mi³o, ¿e siê wreszcie pojawi³eœ.
+Z³apaliœmy zbieg³ych wiêŸniów dla ciebie.
 
 146
 00:12:16,871 --> 00:12:21,526
-What you did was tear up the city and impede the real
-authorities in their pursuit of these criminals.
+Jedyne co zrobi³aœ, to utrudni³aœ policji
+poœcig za tymi przestêpacami.
 
 147
 00:12:22,445 --> 00:12:27,932
-That's funny, I didn't see your little
-task force or the cops the whole time.
+To zabawne. Nie widzia³am tutaj tych twoich 
+œmiesznych si³ specjalnych ani funkcjonariuszy nawet przez chwilê.
 
 148
 00:12:27,932 --> 00:12:31,382
-If it wasn't for Team Avatar,
-they would have gotten away.
+Gdyby nie dru¿yna Avatara,
+oni by uciekli.
 
 149
 00:12:31,482 --> 00:12:35,500
-This is your last warning,
-stay out of my way!
+To moje ostatnie ostrze¿enie,
+nie wchodŸ mi wiêcej w drogê!
 
 150
 00:12:40,586 --> 00:12:43,967
-Republic city stand as
-a beacon of freedom,
+Republic City jest ostoj¹ wolnoœci,
 
 151
 00:12:43,967 --> 00:12:47,910
-but the Equalists are using
-that freedom to tear it down.
+ale Equaliœci próbuj¹ to zmieniæ.
 
 152
 00:12:48,010 --> 00:12:52,725
-The law I have proposed would make it illegal
-for anyone to be a member of the Equalists
+Prawo, którê proponujê, uczyni³oby nielegalnym
+bycie cz³oniek Equalistów,
 
 153
 00:12:52,725 --> 00:12:54,756
-or even be associated with them.
+lub pomaganie im.
 
 154
 00:12:55,472 --> 00:13:00,972
-It also puts into effect a curfew insuring all
-non-benders are in their own homes by night fall.
+Wprowadza tak¿e godzinê policyjn¹ 
+dla wszystkich nie-magów na ca³¹ noc.
 
 155
 00:13:01,072 --> 00:13:05,891
-This is going too far Tarlokk, you can't punish
-all non-benders for the actions of a few.
+To zbyt daleko id¹ce œrodki, Tarlokk, nie mo¿esz 
+karaæ wszystkich nie-magów za czyny kilku osób.
 
 156
 00:13:05,991 --> 00:13:13,389
-That kind of cowardness will cause our city to fall
-into Amon's hands. We must pass this law.
+Ten rodzaj tchórzostwa pchn¹³by nasze miasto 
+w ³apy Amona. Musimy przestrzegaæ prawa.
 
 157
 00:13:13,493 --> 00:13:14,425
-All in favor.
+Wszyscy za?
 
 158
 00:13:34,050 --> 00:13:38,077
-All available unit please respond to
-the 50-600 block at Dragon plattsburo.
+Do wszystkich jednostek, w sektorze
+50-600 Dragon Plattsburo.
 
 159
 00:13:38,141 --> 00:13:43,375
-Equalists have taken the street, consider them
-armed and dangerous. Proceed with caution.
+Equaliœci zajêli ulicê, prawdopodobnie s¹ uzbrojeni.
+Dzia³ajcie ostro¿nie.
 
 160
 00:13:43,814 --> 00:13:44,714
-I'll go front.
+Jadê z przodu.
 
 161
 00:13:44,825 --> 00:13:47,805
-After you.
-What a gentlemen, thanks.
+Proszê przodem.
+Co za d¿entelmen, dziêki.
 
 162
 00:14:02,903 --> 00:14:04,650
-Why is the power out?
+Co siê tutaj dzieje?
 
 163
 00:14:19,266 --> 00:14:22,351
-Wait a second, these people
-aren't armed or dangerous.
+Czekajcie, ci ludzie nie s¹ 
+ani uzbrojeni, ani niebezpieczni.
 
 164
 00:14:22,351 --> 00:14:24,401
-It sure doesn't look that way.
+Nie wygl¹da na to.
 
 165
 00:14:24,797 --> 00:14:28,608
-All non-benders return to
-your homes immediately.
+Wszyscy nie-magowie maj¹ natychmiast 
+wróciæ do swoich domów.
 
 166
 00:14:28,708 --> 00:14:31,552
-Yeah, as soon as your
-turn our power back on.
+Zrobimy to, jak cofniecie wasze si³y.
 
 167
 00:14:32,443 --> 00:14:35,139
-Disperse or you will all be arrested.
+Rozejœæ siê albo zostaniecie aresztowani.
 
 168
 00:14:35,239 --> 00:14:40,694
-You benders can't treat us this way.
-Mommy, look! It's the Avatar.
+Wy magowie nie mo¿ecie traktowaæ nas w ten sposób.
+Mamo patrz, to Avatar.
 
 169
 00:14:41,741 --> 00:14:44,957
-Please help us. You're our Avatar too.
+Pomó¿ nam. Jesteœ naszym Avatarem.
 
 170
 00:14:50,014 --> 00:14:54,225
-Everyone please stay calm,
-I'm gonna put a stop to this.
+Wszystkich proszê o spokój,
+postaram siê to zatrzymaæ.
 
 171
-00:15:01,986 --> 00:15:06,942
-Tarlokk you need to turn the power
-back on and leave these people alone.
+00:15:01,986 --> 00:15:06,938
+Tarlokk, musisz cofn¹æ swoje si³y 
+i puœciæ tych ludzi wolno.
 
 172
 00:15:06,938 --> 00:15:10,285
-Avatar Korra you and your
-playmate have no business here.
+Avatarze Korro, ty i twoi przyjaciele
+nie macie czego tutaj szukaæ.
 
 173
 00:15:10,385 --> 00:15:15,259
-We're not going anywhere. You don't have the right
-to treat these innocent people like criminals.
+Nigdzie siê nie wybieramy. Nie masz prawa traktowaæ
+niewinnych ludzi jak przestêpców.
 
 174
 00:15:15,359 --> 00:15:18,579
-This is an Equalist rally, there
-isn't anything innocent about it.
+To jest wiec Equalistów,
+wiêc nie s¹ oni niewinni.
 
 175
 00:15:18,819 --> 00:15:22,570
-They are not Equalist, they are just
-normal people who wants their rights back.
+To nie Equaliœci, to zwykli ludzie
+chc¹cy zwrócenia im swoich praw.
 
 176
 00:15:22,670 --> 00:15:26,337
-They are the enemy. Rounds
-up all these Equalists.
+To s¹ wrogowie. Otoczyæ tych Equalistów.
 
 177
 00:15:50,582 --> 00:15:51,364
-Stop!
+Staæ!
 
 178
 00:16:04,520 --> 00:16:05,967
-Hey! Let me go.
+Hej! Puœæ mnie.
 
 179
 00:16:05,963 --> 00:16:07,300
-You're under arrest.
+Jesteœ aresztowana.
 
 180
 00:16:07,400 --> 00:16:09,382
-What! You can't do that.
+Co! Nie mo¿esz tego zrobiæ.
 
 181
 00:16:09,482 --> 00:16:15,058
-Yeah, I can. She's a non-bender out past curfew
-and her father is a known Equalist conspirator.
+Oczywiœcie, ¿e mogê. Jest nie-magiem, a teraz trwa godzina policyjna.
+Po za tym jej ojciec jest znanym wspó³pracownikiem Equalistów.
 
 182
 00:16:15,158 --> 00:16:16,376
-Let her go.
+Puœæ j¹.
 
 183
 00:16:16,453 --> 00:16:18,608
-Arrest him and his brother.
+Aresztowaæ j¹ i tych dwóch.
 
 184
 00:16:21,022 --> 00:16:22,097
@@ -817,322 +813,310 @@ Tarlokk!
 
 185
 00:16:26,165 --> 00:16:32,396
-Unless you want to join your friends in prison, I suggest
-you put those down and go back to the Air Temple.
+Jeœli nie chcesz do nich do³¹czyæ, proponujê
+ci och³on¹æ i wróciæ do Œwi¹tyni Powietrza.
 
 186
 00:16:32,496 --> 00:16:35,464
-Korra, listen to him, it's not worth it.
+Korra, pos³uchaj go, to nie jest tego warte.
 
 187
 00:16:40,296 --> 00:16:41,867
-We'll be alright.
+Nic siê nam nie stanie.
 
 188
 00:16:41,879 --> 00:16:45,264
-Don't worry I'll call Tenzin.
-He can get you out.
+Nie martwcie siê, powiem Tenzinowi.
+Wyci¹gnie was.
 
 189
 00:16:52,520 --> 00:16:58,239
-So sad to see your little Team Avatar
-broken up. You had a good run.
+To smutne zobaczyæ waszn¹ ma³¹ "Dru¿ynê Avatara"
+nie w komplecie. Mieliœcie dobry pocz¹tek.
 
 190
 00:16:58,339 --> 00:17:00,251
-This isn't over Tarlokk.
+To nie koniec, Tarlokk.
 
 191
 00:17:00,351 --> 00:17:04,086
-Oh, I believe it is. Take them away.
+Wierzê, ¿e tak. Zabraæ ich.
 
 192
 00:17:27,980 --> 00:17:30,559
-Hey.
-I came as fast as I could.
+- Hej.
+- Przyszed³em tak szybko, jak mog³em.
 
 193
 00:17:30,631 --> 00:17:31,597
-Are your friends alright?
+Wszystko dobrze z twoimi przyjació³mi?
 
 194
 00:17:31,597 --> 00:17:34,388
-I don't know, these knuckleheads
-won't tell me anything.
+Nie wiem, te zakute ³by nie chc¹ mi nic powiedzieæ.
 
 195
 00:17:34,492 --> 00:17:36,499
-I'll take care of this.
+Zajmê siê tym.
 
 196
 00:17:39,461 --> 00:17:41,487
-Saikhan, a word please?
+Saikhan, mogê na s³ówko?
 
 197
 00:17:42,138 --> 00:17:45,880
-Councilman Tenzin, I'm pretty swarmed at the moment.
-Can this wait?
+Radny Tenzin, jestem naprawdê zajêty.
+Czy to mo¿e zaczekaæ?
 
 198
 00:17:46,021 --> 00:17:50,485
-No it cannot. Three of Avatar Korra's
-friends were wrongly arrested tonight.
+Nie, nie mo¿e. Trójka przyjació³ Avatar Korry
+zosta³a b³êdnie aresztowna zesz³ej nocy.
 
 199
 00:17:50,485 --> 00:17:52,326
-I'd like you to release
-them immediately.
+¯¹dam ich natychmiastowego wypuszczenia.
 
 200
 00:17:52,385 --> 00:17:56,090
-They're not going anywhere. They were
-interfering with police business.
+Nigdzie nie pójd¹. Zak³ócali dzia³ania policji.
 
 201
 00:17:56,090 --> 00:18:01,742
-Your so-called police business was rounding up
-innocent people and claiming they were Equalists.
+Wasze samozwañcze dzia³ania policji polega³y 
+na chwytaniu niewinnych ludzi i robieniu z nich Equalistów.
 
 202
 00:18:01,742 --> 00:18:02,949
-They should be released too.
+Oni te¿ powinni zostaæ wypuszczeni.
 
 203
 00:18:03,142 --> 00:18:06,601
-All Equalist suspects are
-being detained indefinitely.
+Wszyscy podejrzani o wspó³pracê 
+z Equalistami bêd¹ przetrzymywani bezterminowo.
 
 204
 00:18:06,601 --> 00:18:10,640
-They'll be free, if and when the task force
-deems they are no longer a threat.
+Bêd¹ wolni, gdy si³y specjalne uznaj¹,
+¿e nie stanowi¹ zagro¿enia.
 
 205
 00:18:10,740 --> 00:18:13,523
-Those people are entitled to
-due process under the law.
+Ci ludzie maj¹ prawo do uczciwego procesu.
 
 206
 00:18:13,623 --> 00:18:16,079
-You'll have to take that with
-councilman Tarlokk.
+Bêdziesz musia³ o tym porozmawiaæ z radnym Tarlokkiem.
 
 207
 00:18:16,179 --> 00:18:19,774
-Oh, I plan to. At the council
-meeting, first thing in the morning.
+Mam taki zamiar podczas spotkania rady jutro rano.
 
 208
 00:18:20,932 --> 00:18:23,776
-You're officially the worse
-chief of police ever!
+Jesteœ najgorszym Naczelnikiem policji.
 
 209
 00:18:23,776 --> 00:18:28,242
-Calm down, Korra. I'll get this sorted
-out, we just need to be patient.
+Spokojnie, Korra. Musimy byæ cierpliwi.
 
 210
 00:18:30,454 --> 00:18:32,327
-But you really are the worst...
+Ale naprawdê jesteœ...
 
 211
 00:18:33,106 --> 00:18:34,185
-ever.
+najgorszy.
 
 212
 00:18:51,789 --> 00:18:54,399
-Wake up Naga, let's go.
+Wstawaj Naga, idziemy.
 
 213
 00:19:04,149 --> 00:19:07,785
-Wait for me here, girl.
-Don't worry, I'll be alright.
+Czekaj na mnie tutaj.
+Nie martw siê. Bedzie dobrze.
 
 214
 00:19:19,895 --> 00:19:21,841
-You and I need to talk.
+Musimy pogadaæ.
 
 215
 00:19:30,052 --> 00:19:32,837
-Are any of the other
-council members here?
+Czy jest tutaj jakiœ inny cz³onek rady?
 
 216
 00:19:32,837 --> 00:19:35,038
-I believe everyone has
-gone home for the night.
+Mam nadziejê, ¿e wszyscy wrócili na noc do domów.
 
 217
 00:19:35,254 --> 00:19:37,266
-Then you should do the same.
+Powinieneœ zrobiæ to samo.
 
 218
 00:19:38,761 --> 00:19:40,294
-Are you sure, sir?
+Jest pan pewien, sir?
 
 219
 00:19:40,520 --> 00:19:41,562
-Leave us.
+Zostaw nas.
 
 220
 00:19:47,509 --> 00:19:49,939
-You obviously have something on your mind.
+NajwyraŸniej coœ chcesz mi powiedzieæ.
 
 221
 00:19:50,039 --> 00:19:51,222
-Spit it out.
+No dawaj.
 
 222
 00:19:51,322 --> 00:19:55,686
-Don't you see? You're doing exactly
-what Amon says is wrong with benders.
+Nie widzisz tego?
+Robisz dok³adnie to, o czym mówi Amon.
 
 223
 00:19:55,786 --> 00:19:58,607
-You are using your power to
-oppress and intimidate people.
+U¿ywasz swoich mocy do przeœladowania 
+i zastraszania ludzi.
 
 224
 00:19:58,707 --> 00:20:00,030
-And you don't?
+A ty nie?
 
 225
 00:20:00,130 --> 00:20:02,389
-Of...of course not!
+O...oczywiœcie, ¿e nie!
 
 226
 00:20:02,489 --> 00:20:04,522
-Isn't that what you came here to do?
+Czy to nie z tego powodu tutaj przysz³aœ?
 
 227
 00:20:04,522 --> 00:20:07,324
-Intimidate me into releasing your friends?
+Zastraszyæ mnie, ¿eby wypuœci³ twoich przyjació³?
 
 228
 00:20:08,924 --> 00:20:11,920
-See that's what I admire about you Korra.
+To jest to, co w tobie podziwiem, Korra.
 
 229
 00:20:11,920 --> 00:20:16,555
-Your willingness to go to extremes
-in order to get what you want.
+Jesteœ gotowa zrobiæ wszystko, 
+by osi¹gn¹æ to, czego chcesz.
 
 230
 00:20:16,555 --> 00:20:18,358
-It is a quality we both share.
+To cecha, która nas ³¹czy.
 
 231
 00:20:18,458 --> 00:20:20,659
-You and I are nothing alike.
+Nie mamy ze sob¹ nic wspólnego.
 
 232
 00:20:20,759 --> 00:20:23,595
-Look, I'll make you a deal.
+Mam dla ciebie propozycjê.
 
 233
 00:20:23,595 --> 00:20:28,173
-You fall in line and do what I say
-and I'll release your friend.
+Do³¹cz do mnie i rób co mówiê,
+a uwolniê twoich przyjació³.
 
 234
 00:20:28,294 --> 00:20:31,083
-That's why you arrested them? To get to me?
+To po to ich aresztowa³eœ? ¯eby dostaæ mnie?
 
 235
 00:20:31,183 --> 00:20:32,994
-I need your answer.
+Czekam na twoj¹ odpowiedŸ.
 
 236
 00:20:34,529 --> 00:20:38,646
-No. You might be able to manipulate
-chief Saikhan into following you,
+Nie. Mo¿esz manipulowaæ Naczelnikiem Saikhanem,
 
 237
 00:20:38,647 --> 00:20:40,117
-but it won't work on me.
+ale na mnie to nie dzia³a.
 
 238
 00:20:41,865 --> 00:20:44,770
-You will regret that decision.
+Po¿a³ujesz tej decyzji.
 
 239
 00:20:44,870 --> 00:20:47,946
-You need to be stopped.
-You're just as bad as Amon.
+Muszê ciê powstrzymaæ.
+Jesteœ tak samo z³y jak Amon.
 
 240
 00:20:49,890 --> 00:20:51,616
-I've tried to work with you Korra,
+Próbowa³em z tob¹ wspó³pracowaæ, Korra,
 
 241
 00:20:51,616 --> 00:20:54,062
-but you have made it impossible.
+ale to by³o niemo¿liwe.
 
 242
 00:21:42,946 --> 00:21:45,598
-Still think I'm a half-baked Avatar?
+Ci¹gle masz mnie za niekompletnego Avatara?
 
 243
 00:21:59,823 --> 00:22:01,162
-What are you gonna do now?
+Co zamierzasz teraz zrobiæ?
 
 244
 00:22:01,162 --> 00:22:03,309
-You're all out of water pal.
+Nie masz tutaj swojego wodospadu.
 
 245
 00:22:19,084 --> 00:22:20,976
-You're in my way, Avatar.
+Stoisz mi na drodze, Avatarze.
 
 246
 00:22:21,222 --> 00:22:23,213
-And you need to be removed.
+I zostaniesz usuniêta.
 
 247
 00:22:25,561 --> 00:22:27,667
-You're...you're a...
+Jesteœ...jesteœ...
 
 248
 00:22:28,348 --> 00:22:29,378
-bloodbender?
+magiem krwi?
 
 249
 00:22:29,478 --> 00:22:31,000
-Very observant.
+Dobre spostrze¿enie.
 
 250
 00:22:32,562 --> 00:22:35,162
-It's not a full moon.
+Teraz nie ma pe³ni ksiê¿yce.
 
 251
 00:22:35,162 --> 00:22:38,092
-How...how are you doing this?
+Jak...W jaki sposób to robisz?
 
 252
 00:22:38,136 --> 00:22:41,029
-There are a lot of things
-you don't know about me.
+Nie wiesz o mnie wielu rzeczy.
 
 253
 00:23:01,914 --> 00:23:03,210
-Where are you taking me?
+Gdzie mnie zabierasz?
 
 254
 00:23:03,310 --> 00:23:05,721
-Somewhere where no one will find you.
+Gdzieœ, gdzie nikt ciê nie bêdzie szuka³.
 
 255
 00:23:05,721 --> 00:23:09,007
-Say goodbye to Republic City, Avatar Korra.
+Powiedz do widzenia Republic City, Avatar Korro.
 
 256
 00:23:09,188 --> 00:23:11,036
-You'll never see it again.
+Nie zobaczysz go wiêcej.
 
 257
 00:23:16,456 --> 00:23:19,828
-You can't do this! Let me out!
+Nie mo¿esz tego zrobiæ! Puœæ mnie!
 
 258
 00:23:32,642 --> 00:23:40,453
