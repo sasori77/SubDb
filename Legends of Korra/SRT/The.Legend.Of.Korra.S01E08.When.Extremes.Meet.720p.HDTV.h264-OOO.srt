@@ -88,7 +88,7 @@ To ognista fretka,
 21
 00:01:43,298 --> 00:01:47,616
 pospolity nadrzewny ssak zamieszkuj¹cy 
-lasy bambusowe na po³udnie od Królestwa Ziemii.
+lasy bambusowe na po³udnie od Królestwa Ziemi.
 
 22
 00:01:47,716 --> 00:01:49,922
@@ -130,7 +130,7 @@ Jesteœ ³adna. Mogê dotkn¹æ twoich w³osów?
 
 31
 00:02:23,012 --> 00:02:25,316
-Wygl¹da na to, ¿e mam konkurencjê
+Wygl¹da na to, ¿e mam konkurencjê.
 
 32
 00:02:26,434 --> 00:02:28,098
@@ -143,7 +143,7 @@ w tych jaskiniach na dole.
 
 34
 00:02:30,604 --> 00:02:32,252
-A to jest œwi¹tynia, któr¹ wybudowa³ pradziadek Aang.
+A to jest œwi¹tynia, któr¹ wybudowa³ dziadek Aang.
 
 35
 00:02:32,252 --> 00:02:34,564
@@ -221,7 +221,7 @@ Wiêc... to twój pokój.
 52
 00:03:45,611 --> 00:03:48,847
 Wiem, ¿e wygl¹da nieco wiejsko w porównaniu 
-do tego, w którym mieszka³aœ na codzieñ.
+do tego, w którym mieszka³aœ na co dzieñ.
 
 53
 00:03:48,947 --> 00:03:52,557
@@ -265,7 +265,7 @@ Myœlê, ¿e powinniœmy to zobaczyæ.
 
 62
 00:04:19,849 --> 00:04:23,718
-To by³ zaszyt pracowaæ dla 
+To by³ zaszczyt pracowaæ dla 
 naczelnik Beifong tyle lat.
 
 63
@@ -284,7 +284,7 @@ którego œwiat jeszcze nie widzia³.
 
 66
 00:04:34,431 --> 00:04:40,399
-Ale jest cz³owiek, który potrafi³ skutecznie 
+Ale jest cz³owiek, który potrafi³ skutecznie
 walczyæ z Amonem, to radny Tarlokk.
 
 67
@@ -320,7 +320,7 @@ Oh Tenzin, zawsze masz jakieœ teorie spiskowe.
 
 74
 00:05:14,437 --> 00:05:20,147
-Mo¿e Saikhan poprostu dostrzeg³ moje dzia³ania 
+Mo¿e Saikhan po prostu dostrzeg³ moje dzia³ania 
 i chce tego, co dla miasta najlepsze?
 
 75
@@ -348,7 +348,7 @@ Tenzin nie myli³ siê w stosunku do ciebie.
 
 80
 00:05:45,549 --> 00:05:49,563
-Manipulowa³eœ mn¹, mainipulowa³eœ Beifong
+Manipulowa³eœ mn¹, manipulowa³eœ Beifong
 a teraz manipulujesz nowym naczelnikiem.
 
 81
@@ -358,11 +358,11 @@ ale ja nie potrzebujê ciebie. Jestem Avatarem.
 
 82
 00:05:55,129 --> 00:06:02,423
-Nie do koñca, jesteœ raczej nieca³kowiecie wyszkolonym Avatarem.
+Nie do koñca, jesteœ raczej niekompletnym Avatarem.
 
 83
 00:06:02,496 --> 00:06:06,834
-Jak tam twoje treningi magii powietrza.
+Jak tam twoje treningi magii powietrza?
 
 84
 00:06:06,834 --> 00:06:10,048
@@ -375,7 +375,7 @@ Tak myœla³em.
 86
 00:06:13,342 --> 00:06:18,428
 Jeœli nie chcesz byæ czêœci¹ moich si³ specjalnych,
-najlepiej zrobisz nie wchodz¹c mi w drogê.
+najlepiej zrobisz, nie wchodz¹c mi w drogê.
 
 87
 00:06:23,686 --> 00:06:25,764
@@ -415,11 +415,11 @@ swoich by³ych wcieleñ.
 95
 00:06:48,047 --> 00:06:50,661
 Mia³aœ kiedyœ kontakt ze swoimi 
-wczeœniejszymi wcieleniami?
+by³ymi wcieleniami?
 
 96
 00:06:50,661 --> 00:06:55,123
-Nie, oczywiœcie, ¿e nie. Nie dowiadzia³eœ
+Nie, oczywiœcie, ¿e nie. Nie dowiedzia³eœ
 siê tego od Bia³ego Lotosu?
 
 97
@@ -459,8 +459,8 @@ medytacji na t¹ wizj¹.
 
 105
 00:07:25,872 --> 00:07:29,728
-Wierzê, ¿e duch Aanga 
-stara ci siê powiedzieæ.
+Wierzê, ¿e duch Aanga
+stara ci siê coœ powiedzieæ.
 
 106
 00:07:42,175 --> 00:07:44,461
@@ -490,12 +490,12 @@ Mo¿esz nam powiedzieæ.
 112
 00:08:04,191 --> 00:08:08,317
 Jak mam ocaliæ to miasto, 
-skoro nie mogê nauczyæ siê magii powietrza.
+skoro nie mogê nauczyæ siê magii powietrza?
 
 113
 00:08:08,317 --> 00:08:13,113
 Jestem najgorszym Avatarem wszechczasów.
-Czujê siê taka... ostamotniona.
+Czujê siê taka... osamotniona.
 
 114
 00:08:13,213 --> 00:08:15,948
@@ -504,7 +504,7 @@ To nonsens, jesteœ wspania³a.
 115
 00:08:15,948 --> 00:08:22,362
 I pamiêtaj, ¿e Aang te¿ nie by³ mistrzem wszystkich ¿ywio³ów,
-gdy walczy³ przciwko Narodowi Ognia. By³ dzieciakiem.
+gdy walczy³ przeciwko Narodowi Ognia. By³ dzieciakiem.
 
 116
 00:08:22,438 --> 00:08:25,301
@@ -566,7 +566,7 @@ Dobra, jakieœ inne pomys³y?
 
 130
 00:09:16,162 --> 00:09:18,560
-Hmm. Myœlê, ¿e coœ wymyœlia³am.
+Hmm. Myœlê, ¿e coœ mam.
 
 131
 00:09:31,096 --> 00:09:32,870
@@ -584,12 +584,12 @@ Wracaj do bazy, odbiór.
 134
 00:09:57,437 --> 00:10:02,083
 Mój ojciec zainstalowa³ policyjne radio
-w ka¿dym z wozów. Domyœlam sie dlaczego.
+w ka¿dym z wozów. Domyœlam siê dlaczego.
 
 135
 00:10:02,083 --> 00:10:05,649
 Do wszystkich jednostek, alarm poziom czwarty,
-w³amanie do kwatery g³ównej i zabrali wiêŸniów.
+w³amanie do kwatery g³ównej.
 
 136
 00:10:05,649 --> 00:10:10,703
@@ -598,7 +598,7 @@ Blokerzy chi i Equaliœci s¹ dobrze uzbrojeni i niebezpieczni.
 
 137
 00:10:10,703 --> 00:10:15,549
-Kieruj¹ siê na wschód. Powatrzam, alarm 
+Kieruj¹ siê na wschód. Powtarzam, alarm 
 poziom czwarty, w³amanie Equalistów.
 
 138
@@ -637,16 +637,16 @@ Z³apaliœmy zbieg³ych wiêŸniów dla ciebie.
 146
 00:12:16,871 --> 00:12:21,526
 Jedyne co zrobi³aœ, to utrudni³aœ policji
-poœcig za tymi przestêpacami.
+poœcig za tymi przestêpcami.
 
 147
 00:12:22,445 --> 00:12:27,932
-To zabawne. Nie widzia³am tutaj tych twoich 
-œmiesznych si³ specjalnych ani funkcjonariuszy nawet przez chwilê.
+To zabawne. Nie widzia³am tutaj tych twoich œmiesznych 
+si³ specjalnych ani funkcjonariuszy policji nawet przez chwilê.
 
 148
 00:12:27,932 --> 00:12:31,382
-Gdyby nie dru¿yna Avatara,
+Gdyby nie Dru¿yna Avatara,
 oni by uciekli.
 
 149
@@ -664,8 +664,8 @@ ale Equaliœci próbuj¹ to zmieniæ.
 
 152
 00:12:48,010 --> 00:12:52,725
-Prawo, którê proponujê, uczyni³oby nielegalnym
-bycie cz³oniek Equalistów,
+Prawo, które proponujê, uczyni³oby nielegalnym
+bycie cz³onkiem Equalistów
 
 153
 00:12:52,725 --> 00:12:54,756
@@ -674,11 +674,11 @@ lub pomaganie im.
 154
 00:12:55,472 --> 00:13:00,972
 Wprowadza tak¿e godzinê policyjn¹ 
-dla wszystkich nie-magów na ca³¹ noc.
+dla wszystkich nie-magów na czas nocy.
 
 155
 00:13:01,072 --> 00:13:05,891
-To zbyt daleko id¹ce œrodki, Tarlokk, nie mo¿esz 
+To zbyt daleko id¹ce œrodki, Tarlokk, nie mo¿esz
 karaæ wszystkich nie-magów za czyny kilku osób.
 
 156
@@ -831,7 +831,7 @@ Wyci¹gnie was.
 
 189
 00:16:52,520 --> 00:16:58,239
-To smutne zobaczyæ waszn¹ ma³¹ "Dru¿ynê Avatara"
+To smutne zobaczyæ wasz¹ ma³¹ "Dru¿ynê Avatara"
 nie w komplecie. Mieliœcie dobry pocz¹tek.
 
 190
@@ -871,7 +871,7 @@ Czy to mo¿e zaczekaæ?
 198
 00:17:46,021 --> 00:17:50,485
 Nie, nie mo¿e. Trójka przyjació³ Avatar Korry
-zosta³a b³êdnie aresztowna zesz³ej nocy.
+zosta³a b³êdnie aresztowana zesz³ej nocy.
 
 199
 00:17:50,485 --> 00:17:52,326
@@ -914,7 +914,7 @@ Mam taki zamiar podczas spotkania rady jutro rano.
 
 208
 00:18:20,932 --> 00:18:23,776
-Jesteœ najgorszym Naczelnikiem policji.
+Jesteœ najgorszym naczelnikiem policji.
 
 209
 00:18:23,776 --> 00:18:28,242
@@ -997,7 +997,7 @@ Zastraszyæ mnie, ¿eby wypuœci³ twoich przyjació³?
 
 228
 00:20:08,924 --> 00:20:11,920
-To jest to, co w tobie podziwiem, Korra.
+To jest to, co w tobie podziwiam, Korra.
 
 229
 00:20:11,920 --> 00:20:16,555
@@ -1031,7 +1031,7 @@ Czekam na twoj¹ odpowiedŸ.
 
 236
 00:20:34,529 --> 00:20:38,646
-Nie. Mo¿esz manipulowaæ Naczelnikiem Saikhanem,
+Nie. Mo¿esz manipulowaæ naczelnikiem Saikhanem,
 
 237
 00:20:38,647 --> 00:20:40,117
@@ -1117,9 +1117,3 @@ Nie zobaczysz go wiêcej.
 257
 00:23:16,456 --> 00:23:19,828
 Nie mo¿esz tego zrobiæ! Puœæ mnie!
-
-258
-00:23:32,642 --> 00:23:40,453
-Transcribed then subtitled then synced
-by Patrick of Addic7ed.com
-
