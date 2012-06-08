@@ -1,0 +1,257 @@
+{258}{299}Ziemia.
+{308}{345}Ogieñ.
+{351}{391}Powietrze.
+{411}{435}Woda.
+{471}{601}{Y:i}Tylko Avatar mo¿e opanowaæ|wszystkie cztery ¿ywio³y
+{601}{676}{Y:i}i zaprowadziæ równowagê na œwiecie.
+{840}{914}Wojna w Republic City.
+{917}{1024}Po odkryciu, ¿e jej ojciec,|Hiroshi Sato, wspó³pracuje z wrogiem,
+{1024}{1083}Asami zwróci³a siê przeciwko niemu.
+{1083}{1159}Po kolejnej pora¿ce|w walce z Equalistami,
+{1159}{1246}Lin Beifong zrezygnowa³a z funkcji|naczelnika si³ policyjnych.
+{1246}{1310}Equaliœci wci¹¿ wzrastaj¹ w si³ê.
+{1311}{1432}Kto pomo¿e Avatarowi powstrzymaæ Amona|i przywróciæ równowagê w mieœcie?
+{1446}{1529}Ksiêga Pierwsza|Rozdzia³ 8: Spotkanie przeciwieñstw
+{1899}{1953}W koñcu jesteœcie.
+{1960}{2027}Witajcie na Wyspie Œwi¹tyni Powietrza.
+{2032}{2127}Waszym nowym domu.|Tak, witajcie w moim domu.
+{2152}{2228}Ale z ciebie ma³y s³odki ch³opiec.
+{2279}{2328}Co to za dziwne stworzenie?
+{2355}{2411}To ognista fretka,
+{2413}{2542}pospolity nadrzewny ssak zamieszkuj¹cy|lasy bambusowe na po³udnie od Królestwa Ziemi.
+{2545}{2611}Prawda, ¿e jest s³odki!
+{2700}{2784}Hip hip, leæ bizonie, leæ!
+{2828}{2915}Dziêkujê za wys³anie nam|pomocników do przeprowadzki.
+{2915}{2958}Tak, byli wspaniali.
+{2967}{3022}Niestrudzeni pracownicy.
+{3043}{3096}Widzê, ¿e zabra³aœ kilka rzeczy.
+{3110}{3180}Uwierz mi, mog³o byæ gorzej.
+{3180}{3270}Nie ma problemu,|jesteœcie tutaj mile widziani.
+{3507}{3586}Jesteœ ³adna. Mogê dotkn¹æ twoich w³osów?
+{3603}{3672}Wygl¹da na to, ¿e mam konkurencjê.
+{3705}{3755}Pora na oprowadzenie was.
+{3764}{3830}Lataj¹ce bizony ¿yj¹|w tych jaskiniach na dole.
+{3830}{3880}A to jest œwi¹tynia, któr¹ wybudowa³ dziadek Aang.
+{3880}{3949}A w tym szarym domu jest jadalnia.
+{3961}{4001}Mam kilka pytañ.
+{4001}{4039}Czy to wszystko na tej wyspie?
+{4039}{4132}Czy to tutaj trenujecie magiê powietrza?|Czy bêdziemy siê musieli ubieraæ jak ci pomocnicy?
+{4132}{4242}Czy ka¿dy z nas dostanie lataj¹cego bizona?|I ostatnie pytanie, ile jest drzew na tej wyspie?
+{4270}{4348}Tak, tak, nie, nie, 10 552.
+{4416}{4481}Wiêc gdzie siê zatrzymamy?
+{4482}{4559}Jesteœ ch³opcem, ch³opcy|zamieszkaj¹ w czêœci mê¿czyzn.
+{4559}{4632}Z chêci¹ poka¿e wam sypialnie mê¿czyzn.
+{4634}{4658}Jestem mê¿czyzn¹.
+{4685}{4754}Meelo, dlaczego nie pójdziesz z ch³opakami?
+{4779}{4872}Do zobaczenia wkrótce, piêkna dziewczyno.
+{4893}{4956}Ikki i ja poka¿emy ci twój pokój, têdy.
+{5146}{5217}Asami, wiesz, ¿e Korra lubi Mako?
+{5332}{5455}Oh, uh, nie zdawa³am|sobie z tego sprawy.
+{5728}{5763}- Hej!|- Spadaj, Ikki.
+{5983}{6078}Wiêc... to twój pokój.
+{6078}{6175}Wiem, ¿e wygl¹da nieco wiejsko w porównaniu|do tego, w którym mieszka³aœ na co dzieñ.
+{6178}{6286}Myœlê, ¿e jest naprawdê uroczy,|a najwa¿niejsze jest to,
+{6289}{6356}¿e nie przypomina mi mojego ojca.
+{6367}{6428}Dziêkujê za goœcinê.
+{6439}{6532}Ikki, przysiêgam, ¿e jeœli|nie zostawisz nas w spokoju...
+{6610}{6676}Tenzin! WejdŸ, proszê.
+{6685}{6770}Dzieñ dobry, moje panie.|Asami, witaj na wyspie.
+{6779}{6836}Dziêkujê za pomoc.
+{6876}{7010}Beifong zosta³a zast¹piona przez Saikhana.|Bêdzie og³oszony nowym szefem si³ policyjnych.
+{7010}{7068}Myœlê, ¿e powinniœmy to zobaczyæ.
+{7104}{7220}To by³ zaszczyt pracowaæ dla|naczelnik Beifong tyle lat.
+{7224}{7294}¯yczê jej szybkiego powrotu do zdrowia.
+{7294}{7428}Z wielk¹ pokor¹ przejmujê jej|miejsce jako nowy szef policji.
+{7432}{7541}Republic City stoi w obliczu zagro¿enia,|którego œwiat jeszcze nie widzia³.
+{7541}{7720}Ale jest cz³owiek, który potrafi³ skutecznie|walczyæ z Amonem, to radny Tarlokk.
+{7780}{7933}Dlatego w ka¿dej sprawie zwi¹zanej z Equalistami,|bêdê zwraca³ siê bezpoœrednio do niego.
+{7954}{8131}Si³y policyjne dostarcz¹ wszystkiego co potrzebne,|by wesprzeæ radnego i jego si³y specjalne.
+{8133}{8196}Dopóki sytuacja siê nie uspokoi.
+{8199}{8285}Co ten krêtacz Tarlokk kombinuje?
+{8477}{8588}Tarlokk, nie wiem w jaki sposób|trzymasz Saikhana w garœci,
+{8588}{8648}ale w¹tpiê, czy to jest zgodne z prawem.
+{8648}{8740}Oh Tenzin, zawsze masz jakieœ teorie spiskowe.
+{8740}{8911}Mo¿e Saikhan po prostu dostrzeg³ moje dzia³ania|i chce tego, co dla miasta najlepsze?
+{8948}{9053}Wow, Avatar Korra, d³ugo siê nie widzieliœmy.
+{9057}{9216}Teraz, gdy ju¿ twoje zawody Pro-bendingu siê zakoñczy³y,|liczê na twój powrót do moich si³ specjalnych.
+{9219}{9365}Zapomnij, nie przyst¹piê ponownie|do twojego pró¿nego projektu.
+{9368}{9535}Niemi³o jest mi to s³yszeæ, ale mam nadziejê,|¿e zmienisz zdanie, tak jak ju¿ to raz zrobi³aœ.
+{9540}{9673}Tenzin nie myli³ siê w stosunku do ciebie.
+{9673}{9793}Manipulowa³eœ mn¹, manipulowa³eœ Beifong|a teraz manipulujesz nowym naczelnikiem.
+{9793}{9960}Mam dla ciebie wiadomoœæ. Ty potrzebujesz mnie,|ale ja nie potrzebujê ciebie. Jestem Avatarem.
+{9960}{10179}Nie do koñca, jesteœ raczej niekompletnym Avatarem.
+{10181}{10311}Jak tam twoje treningi magii powietrza?
+{10311}{10407}Zrobi³aœ jakiœ znacz¹cy postêp?
+{10431}{10506}Tak myœla³em.
+{10506}{10658}Jeœli nie chcesz byæ czêœci¹ moich si³ specjalnych,|najlepiej zrobisz, nie wchodz¹c mi w drogê.
+{10816}{10878}Nie rozumiem, co jest z mn¹ nie tak.
+{10888}{10956}Pozna³am praktycznie wszystkie ruchy,
+{10956}{11100}ale nie mogê wytworzyæ choæby|ma³ego podmuchu powietrza. Jestem pora¿k¹.
+{11100}{11223}Wcale nie. Musisz siê prze³amaæ.
+{11223}{11304}Wspania³a porada. Od razu mi pomog³a.
+{11318}{11362}Nie skoñczy³em jeszcze.
+{11366}{11455}Widzisz, Aang nie tylko|korzysta³ z rad swoich nauczycieli,
+{11455}{11546}ale te¿ z doœwiadczeñ|swoich by³ych wcieleñ.
+{11546}{11624}Mia³aœ kiedyœ kontakt ze swoimi|by³ymi wcieleniami?
+{11624}{11758}Nie, oczywiœcie, ¿e nie. Nie dowiedzia³eœ|siê tego od Bia³ego Lotosu?
+{11760}{11814}Jestem te¿ duchow¹ pora¿k¹.
+{11814}{11906}Mog³aœ mieæ kontakt bez zdawania sobie z tego sprawy.
+{11906}{11984}Byæ mo¿e uzna³aœ, ¿e to by³ sen.
+{12020}{12200}Mo¿e. Mia³am kilka dziwnych halucynacji,|ale ciê¿ko jest mi sobie je przypomnieæ.
+{12203}{12306}Czy widzia³aœ w swoich|wizjach poprzednich Avatarów?
+{12306}{12421}Widzia³am Aanga. Wygl¹da³, jakby mia³ k³opoty.
+{12440}{12496}Jak myœlisz co to znaczy?
+{12534}{12679}Nie wiem. Ale zachêcam ciê do|medytacji na t¹ wizj¹.
+{12679}{12795}Wierzê, ¿e duch Aanga|stara ci siê coœ powiedzieæ.
+{13168}{13237}Korra. Jesteœ tutaj?
+{13306}{13450}Korra!
+{13494}{13542}Tu jesteœ.
+{13596}{13627}Wszystko dobrze?
+{13627}{13660}Tak.
+{13660}{13767}Co siê sta³o?|Mo¿esz nam powiedzieæ.
+{13828}{13952}Jak mam ocaliæ to miasto,|skoro nie mogê nauczyæ siê magii powietrza?
+{13952}{14095}Jestem najgorszym Avatarem wszechczasów.|Czujê siê taka... osamotniona.
+{14098}{14180}To nonsens, jesteœ wspania³a.
+{14180}{14372}I pamiêtaj, ¿e Aang te¿ nie by³ mistrzem wszystkich ¿ywio³ów,|gdy walczy³ przeciwko Narodowi Ognia. By³ dzieciakiem.
+{14375}{14461}I nie zrobi³ tego sam,|mia³ przyjació³, którzy mu pomagali.
+{14461}{14528}Mo¿e zamknêli nasz stadion,
+{14528}{14629}ale wci¹¿ jesteœmy dru¿yn¹, Now¹ Dru¿yn¹ Avatara.
+{14632}{14759}Pomo¿emy ci i ocalimy to miasto razem.
+{14781}{14842}Zróbmy to!
+{14891}{14946}Zróbmy to!
+{14969}{15013}Co robimy?
+{15174}{15237}Nadchodzimy, Republic City.
+{15237}{15351}Bêdziesz patrolowane przez Dru¿ynê Avatara.
+{15385}{15479}Asami, zawsze dobrze dobiera³aœ dodatki.
+{15485}{15638}Uwa¿am, ¿e jedyny sposób|na walkê z Equalistami, to u¿ycie ich broni.
+{15638}{15724}Dobrze, ruszajmy!
+{15733}{15773}Dawaj Naga!
+{15871}{15945}Dobra, jakieœ inne pomys³y?
+{15985}{16057}Hmm. Myœlê, ¿e coœ mam.
+{16432}{16486}Myœlisz, ¿e siê nada?
+{16605}{16690}Podoba mi siê styl Nowej Dru¿yny Avatara.
+{17074}{17222}Jednostka 2-16 porzuæ wezwanie 10-58.|Wracaj do bazy, odbiór.
+{17222}{17361}Mój ojciec zainstalowa³ policyjne radio|w ka¿dym z wozów. Domyœlam siê dlaczego.
+{17361}{17468}Do wszystkich jednostek, alarm poziom czwarty,|w³amanie do kwatery g³ównej.
+{17468}{17619}Funkcjonariuszy za³atwili za pomoc¹ paralizatorów.|Blokerzy chi i Equaliœci s¹ dobrze uzbrojeni i niebezpieczni.
+{17619}{17765}Kieruj¹ siê na wschód. Powtarzam, alarm|poziom czwarty, w³amanie Equalistów.
+{17778}{17824}Blokerzy chi!
+{17838}{17871}Dorwijmy ich!
+{18514}{18591}Korra, Bolin, zróbcie mi rampê!
+{19382}{19444}Trzymajcie siê, wchodzimy w zakrêt.
+{19611}{19668}Nie wiedz¹, ¿e skrêciliœmy.
+{19673}{19709}B¹dŸcie gotowi.
+{21190}{21255}Avatar Korra, co ty w³aœciwie robisz?
+{21258}{21437}O czeœæ Tarlokk, mi³o, ¿e siê wreszcie pojawi³eœ.|Z³apaliœmy zbieg³ych wiêŸniów dla ciebie.
+{21446}{21585}Jedyne co zrobi³aœ, to utrudni³aœ policji|poœcig za tymi przestêpcami.
+{21613}{21777}To zabawne. Nie widzia³am tutaj tych twoich œmiesznych|si³ specjalnych ani funkcjonariuszy policji nawet przez chwilê.
+{21777}{21881}Gdyby nie Dru¿yna Avatara,|oni by uciekli.
+{21884}{22004}To moje ostatnie ostrze¿enie,|nie wchodŸ mi wiêcej w drogê!
+{22156}{22258}Republic City jest ostoj¹ wolnoœci,
+{22258}{22376}ale Equaliœci próbuj¹ to zmieniæ.
+{22379}{22520}Prawo, które proponujê, uczyni³oby nielegalnym|bycie cz³onkiem Equalistów
+{22520}{22581}lub pomaganie im.
+{22603}{22767}Wprowadza tak¿e godzinê policyjn¹|dla wszystkich nie-magów na czas nocy.
+{22770}{22915}To zbyt daleko id¹ce œrodki, Tarlokk, nie mo¿esz|karaæ wszystkich nie-magów za czyny kilku osób.
+{22918}{23140}Ten rodzaj tchórzostwa pchn¹³by nasze miasto|w ³apy Amona. Musimy przestrzegaæ prawa.
+{23143}{23171}Wszyscy za?
+{23759}{23879}Do wszystkich jednostek, w sektorze|50-600 Dragon Plattsburo.
+{23881}{24038}Equaliœci zajêli ulicê, prawdopodobnie s¹ uzbrojeni.|Dzia³ajcie ostro¿nie.
+{24051}{24078}Jadê z przodu.
+{24082}{24171}Proszê przodem.|Co za d¿entelmen, dziêki.
+{24623}{24676}Co siê tutaj dzieje?
+{25114}{25206}Czekajcie, ci ludzie nie s¹|ani uzbrojeni, ani niebezpieczni.
+{25206}{25268}Nie wygl¹da na to.
+{25280}{25394}Wszyscy nie-magowie maj¹ natychmiast|wróciæ do swoich domów.
+{25397}{25482}Zrobimy to, jak cofniecie wasze si³y.
+{25509}{25590}Rozejœæ siê albo zostaniecie aresztowani.
+{25593}{25756}Wy magowie nie mo¿ecie traktowaæ nas w ten sposób.|Mamo patrz, to Avatar.
+{25787}{25884}Pomó¿ nam. Jesteœ naszym Avatarem.
+{26035}{26162}Wszystkich proszê o spokój,|postaram siê to zatrzymaæ.
+{26394}{26543}Tarlokk, musisz cofn¹æ swoje si³y|i puœciæ tych ludzi wolno.
+{26543}{26643}Avatarze Korro, ty i twoi przyjaciele|nie macie czego tutaj szukaæ.
+{26646}{26792}Nigdzie siê nie wybieramy. Nie masz prawa traktowaæ|niewinnych ludzi jak przestêpców.
+{26795}{26891}To jest wiec Equalistów,|wiêc nie s¹ oni niewinni.
+{26899}{27011}To nie Equaliœci, to zwykli ludzie|chc¹cy zwrócenia im swoich praw.
+{27014}{27124}To s¹ wrogowie. Otoczyæ tych Equalistów.
+{27851}{27874}Staæ!
+{28268}{28312}Hej! Puœæ mnie.
+{28312}{28352}Jesteœ aresztowana.
+{28355}{28414}Co! Nie mo¿esz tego zrobiæ.
+{28417}{28584}Mogê. Jest nie-magiem, a teraz trwa godzina policyjna.|Po za tym jej ojciec jest znanym Equalist¹.
+{28587}{28624}Puœæ j¹.
+{28626}{28691}Aresztowaæ j¹ i tych dwóch.
+{28763}{28795}Tarlokk!
+{28917}{29104}Jeœli nie chcesz do nich do³¹czyæ, proponujê|ci och³on¹æ i wróciæ do Œwi¹tyni Powietrza.
+{29107}{29196}Korra, pos³uchaj go, to nie jest tego warte.
+{29341}{29388}Nic siê nam nie stanie.
+{29388}{29489}Nie martwcie siê, powiem Tenzinowi.|Wyci¹gnie was.
+{29707}{29878}To smutne zobaczyæ wasz¹ ma³¹ "Dru¿ynê Avatara"|nie w komplecie. Mieliœcie dobry pocz¹tek.
+{29881}{29939}To nie koniec, Tarlokk.
+{29942}{30053}Wierzê, ¿e tak. Zabraæ ich.
+{30770}{30847}- Hej.|- Przyszed³em tak szybko, jak mog³em.
+{30849}{30878}Wszystko dobrze z twoimi przyjació³mi?
+{30878}{30962}Nie wiem, te zakute ³by nie chc¹ mi nic powiedzieæ.
+{30965}{31025}Zajmê siê tym.
+{31114}{31174}Saikhan, mogê na s³ówko?
+{31194}{31306}Radny Tenzin, jestem naprawdê zajêty.|Czy to mo¿e zaczekaæ?
+{31310}{31444}Nie, nie mo¿e. Trójka przyjació³ Avatar Korry|zosta³a b³êdnie aresztowana zesz³ej nocy.
+{31444}{31499}¯¹dam ich natychmiastowego wypuszczenia.
+{31501}{31612}Nigdzie nie pójd¹. Zak³ócali dzia³ania policji.
+{31612}{31781}Wasze samozwañcze dzia³ania policji polega³y|na ³apaniu niewinnych ludzi.
+{31781}{31818}Oni te¿ powinni zostaæ wypuszczeni.
+{31823}{31927}Wszyscy podejrzani o wspó³pracê|z Equalistami bêd¹ przetrzymywani bezterminowo.
+{31927}{32048}Bêd¹ wolni, gdy si³y specjalne uznaj¹,|¿e nie stanowi¹ zagro¿enia.
+{32051}{32135}Ci ludzie maj¹ prawo do uczciwego procesu.
+{32138}{32211}Bêdziesz musia³ o tym porozmawiaæ z radnym Tarlokkiem.
+{32214}{32322}Mam taki zamiar podczas spotkania rady jutro rano.
+{32357}{32442}Jesteœ najgorszym naczelnikiem policji.
+{32442}{32576}Spokojnie, Korra. Musimy byæ cierpliwi.
+{32642}{32698}Ale naprawdê jesteœ...
+{32721}{32754}najgorszy.
+{33299}{33378}Wstawaj Naga, idziemy.
+{33670}{33779}Czekaj na mnie tutaj.|Nie martw siê. Bedzie dobrze.
+{34142}{34200}Musimy pogadaæ.
+{34446}{34530}Czy jest tutaj jakiœ inny cz³onek rady?
+{34530}{34596}Mam nadziejê, ¿e wszyscy wrócili na noc do domów.
+{34602}{34662}Powinieneœ zrobiæ to samo.
+{34707}{34753}Jest pan pewien, sir?
+{34760}{34791}Zostaw nas.
+{34969}{35042}NajwyraŸniej coœ chcesz mi powiedzieæ.
+{35045}{35081}No dawaj.
+{35084}{35214}Nie widzisz tego?|Robisz dok³adnie to, o czym mówi Amon.
+{35217}{35302}U¿ywasz swoich mocy do przeœladowania|i zastraszania ludzi.
+{35305}{35345}A ty nie?
+{35348}{35415}O...oczywiœcie, ¿e nie!
+{35418}{35479}Czy to nie z tego powodu tutaj przysz³aœ?
+{35479}{35563}Zastraszyæ mnie, ¿eby wypuœci³ twoich przyjació³?
+{35611}{35701}To jest to, co w tobie podziwiam, Korra.
+{35701}{35840}Jesteœ gotowa zrobiæ wszystko,|by osi¹gn¹æ to, czego chcesz.
+{35840}{35894}To cecha, która nas ³¹czy.
+{35897}{35963}Nie mamy ze sob¹ nic wspólnego.
+{35966}{36051}Mam dla ciebie propozycjê.
+{36051}{36188}Do³¹cz do mnie i rób co mówiê,|a uwolniê twoich przyjació³.
+{36192}{36275}To po to ich aresztowa³eœ? ¯eby dostaæ mnie?
+{36278}{36332}Czekam na twoj¹ odpowiedŸ.
+{36378}{36502}Nie. Mo¿esz manipulowaæ naczelnikiem Saikhanem,
+{36502}{36546}ale na mnie to nie dzia³a.
+{36598}{36685}Po¿a³ujesz tej decyzji.
+{36688}{36781}Muszê ciê powstrzymaæ.|Jesteœ tak samo z³y jak Amon.
+{36839}{36891}Próbowa³em z tob¹ wspó³pracowaæ, Korra,
+{36891}{36964}ale to by³o niemo¿liwe.
+{38429}{38508}Ci¹gle masz mnie za niekompletnego Avatara?
+{38935}{38975}Co zamierzasz teraz zrobiæ?
+{38975}{39039}Nie masz tutaj swojego wodospadu.
+{39512}{39569}Stoisz mi na drodze, Avatarze.
+{39576}{39636}I zostaniesz usuniêta.
+{39706}{39769}Jesteœ... jesteœ...
+{39790}{39820}magiem krwi?
+{39823}{39869}Dobre spostrze¿enie.
+{39916}{39994}Teraz nie ma pe³ni ksiê¿yce.
+{39994}{40082}Jak...W jaki sposób to robisz?
+{40083}{40170}Nie wiesz o mnie wielu rzeczy.
+{40796}{40834}Gdzie mnie zabierasz?
+{40837}{40910}Gdzieœ, gdzie nikt ciê nie bêdzie szuka³.
+{40910}{41008}Powiedz do widzenia Republic City, Avatar Korro.
+{41014}{41069}Nie zobaczysz go wiêcej.
+{41231}{41332}Nie mo¿esz tego zrobiæ! Puœæ mnie!
