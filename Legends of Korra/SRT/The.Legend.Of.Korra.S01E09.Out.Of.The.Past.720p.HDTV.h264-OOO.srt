@@ -1,63 +1,63 @@
 1
 00:00:00,800 --> 00:00:02,172
-Earth.
+Ziemia.
 
 2
 00:00:02,472 --> 00:00:03,714
-Fire.
+Ogieñ.
 
 3
 00:00:03,914 --> 00:00:05,262
-Air.
+Powietrze.
 
 4
 00:00:05,912 --> 00:00:06,728
-Water.
+Woda.
 
 5
 00:00:07,914 --> 00:00:12,246
-Only the Avatar can
-master all four elements
+<i>Tylko Avatar mo¿e opanowaæ
+wszystkie cztery ¿ywio³y</i>
 
 6
 00:00:12,247 --> 00:00:14,770
-and bring balance to the world.
+<i>i zaprowadziæ równowagê na œwiecie.</i>
 
 7
 00:00:20,641 --> 00:00:22,530
-The Avatar has been abducted
+Avatar zosta³ porawny.
 
 8
 00:00:22,531 --> 00:00:26,549
-After Tarrlok arrested her friends, Korra
-confronted the councilman in his chambers.
+Po tym jak Tarrlok aresztowa³ przyjació³ Korry,
+dosz³o miêdzy nimi do starcie w gabinecie Tarrloka.
 
 9
 00:00:26,589 --> 00:00:30,346
-But the heated argument quickly turned
-into an all-out bending battle!
+Ale walka na argumenty szybko 
+zamieni³a siê w bitwê dwóch magów.
 
 10
 00:00:30,347 --> 00:00:33,640
-Desperate to save himself, Tarrlok revealed his ability to bloodbend
+By ratowaæ siê przed pora¿k¹, Tarrlok u¿y³ magii krwi
 
 11
 00:00:33,641 --> 00:00:36,391
-and took Korra far from Republic City.
+i wywióz³ Korrê z dala od Republic City.
 
 12
 00:00:36,439 --> 00:00:39,989
-Will the Avatar's friends find
-her before it's too late?
+Czy przyjaciele Korry odnajd¹ j¹, 
+nim bêdzie za póŸno?
 
 13
 00:00:41,255 --> 00:00:44,255
-Book one
-Chapter nine: Out of The Past
+Ksiêga Pierwsza
+Rozdzia³ 9: Wydarzenia z przesz³oœci.
 
 14
 00:01:11,325 --> 00:01:12,715
-What are you doing?
+Co ty robisz?
 
 15
 00:01:13,689 --> 00:01:14,535
@@ -65,124 +65,122 @@ Tarrlok!
 
 16
 00:01:16,331 --> 00:01:18,505
-You can't keep me in here forever!
+Nie mo¿esz mnie tutaj trzymaæ wiecznie!
 
 17
 00:01:46,328 --> 00:01:48,998
-Who is this? It's six in the morning!
+Kto tam? Jest szósta rano!
 
 18
 00:01:48,999 --> 00:01:51,397
-This better be important!
+Lepiej ¿eby to by³o wa¿ne!
 
 19
 00:01:52,045 --> 00:01:54,235
-Councilman Tenzin here.
+Radny Tenzin, s³ucham.
 
 20
 00:01:55,544 --> 00:01:56,337
-What?!
+Co?!
 
 21
 00:02:08,126 --> 00:02:09,147
-What happened?
+Co siê tutaj sta³o?
 
 22
 00:02:09,247 --> 00:02:10,860
-What was Korra doing at City Hall?
+Co Korra robi³a w Ratuszu?
 
 23
 00:02:10,960 --> 00:02:13,345
-As I told Chief Saikhan,
+Jak ju¿ mówi³em Naczelnikowi Saikhanowi,
 
 24
 00:02:13,346 --> 00:02:15,651
-Korra came to my office last night.
+Korra przysz³a do mojego biura zesz³ej nocy.
 
 25
 00:02:15,652 --> 00:02:18,381
-She was upset that I arrested her friends.
+By³a z³a za to, ¿e aresztowa³em jej przyjació³.
 
 26
 00:02:18,382 --> 00:02:20,668
-She asked me to release them and-
+Poprosi³a mnie, ¿ebym ich wypuœci³...
 
 27
 00:02:21,164 --> 00:02:22,950
-that's when the Equalist's attacked.
+i wtedy zaatakowali nas Equaliœci.
 
 28
 00:02:25,080 --> 00:02:26,821
-I tried to protect Korra.
+Próbowa³em chroniæ Korrê.
 
 29
 00:02:26,822 --> 00:02:28,987
-We were outnumbered,
+Ale ich by³o zbyt wielu.
 
 30
 00:02:28,988 --> 00:02:31,400
-then, I was electrocuted.
+Og³uszyli mnie.
 
 31
 00:02:34,682 --> 00:02:37,184
-When I came to, the police had arrived.
+Kiedy siê obudzi³em, by³a ju¿ tu policja.
 
 32
 00:02:37,185 --> 00:02:38,790
-But Korra was gone.
+Ale Korra zniknê³a.
 
 33
 00:02:38,791 --> 00:02:40,304
-I'm so sorry.
+Przykro mi.
 
 34
 00:02:40,404 --> 00:02:43,250
-Chief Saikhan, mobilize
-the entire police force.
+Naczelniku Saikhan, zmobilizuj 
+wszelkie dostêpne si³y policyjne.
 
 35
 00:02:43,250 --> 00:02:45,652
-We have to find the Avatar.
+Musimy odnaleŸæ Avatara.
 
 36
 00:02:47,968 --> 00:02:51,841
-We interrupt your regularly scheduled
-broadcast to bring you this special report.
+Przerywamy audycjê, by nadaæ raport specjalny.
 
 37
 00:02:51,841 --> 00:02:53,835
- Late last night, Equalists
-attacked City Hall,
+Zesz³ej nocy Equaliœci zaatakowali Ratusz,
 
 38
 00:02:53,835 --> 00:02:57,442
-subduing Councilman Tarrlok
-and capturing Avatar Korra.
+og³uszyli Radnego Tarrloka
+i porawli Avatar Korrê.
 
 39
 00:02:57,442 --> 00:02:58,925
-Details are still coming in, b-
+Ci¹gle nap³ywaj¹ do nas nowe informacje, ale...
 
 40
 00:03:29,276 --> 00:03:30,758
-Hope you got enough beauty rest.
+Koniec wypoczynku œlicznotko.
 
 41
 00:03:31,058 --> 00:03:32,736
-Come on, I'm busting you out.
+Wyci¹gam ciê st¹d.
 
 42
 00:03:32,936 --> 00:03:34,410
-Thanks. I owe you.
+Dziêkujê. Jestem twoj¹ d³u¿niczk¹.
 
 43
 00:03:37,997 --> 00:03:39,311
-Are you done yet?
+Skoñczy³eœ ju¿?
 
 44
 00:03:39,311 --> 00:03:41,949
-Cover your ears! I can't
-go with you listening.
+Zatkaj uszy. Nie mogê tego zrobiæ, 
+gdy ktoœ nas³uchuje.
 
 45
 00:03:44,279 --> 00:03:45,085
@@ -190,244 +188,243 @@ Asami!
 
 46
 00:03:46,371 --> 00:03:49,109
-A little privacy, please!
+Odrobinê prywatnoœci, proszê!
 
 47
 00:03:49,271 --> 00:03:50,329
-Are you all right?
+Wszystko dobrze?
 
 48
 00:03:50,429 --> 00:03:52,639
-I'm fine! It's so good to see you.
+Tak. Dobrze ciê widzieæ.
 
 49
 00:03:52,639 --> 00:03:54,465
-Hate to break up your lovers' reunion,
+Nie chcê wam przeszkadzaæ,
 
 50
 00:03:54,565 --> 00:03:56,019
- but Korra's in trouble.
+ale Korra ma k³opoty.
 
 51
 00:03:56,019 --> 00:03:57,187
-Amon captured her.
+Porwa³ j¹ Amon.
 
 52
 00:03:58,401 --> 00:03:59,279
-No.
+Nie.
 
 53
 00:03:59,895 --> 00:04:01,881
-No, she can't be gone!
+Nie, tylko nie to!
 
 54
 00:04:01,981 --> 00:04:04,103
-Come on, we have an Avatar to rescue.
+ChodŸcie, mamy Avatara do uratowania.
 
 55
 00:04:08,285 --> 00:04:09,539
-Your fly was down.
+Mia³eœ rozpiêty rozporek.
 
 56
 00:04:09,941 --> 00:04:11,196
-Thanks for catching that.
+Dziêki za zauwa¿enie.
 
 57
 00:04:18,599 --> 00:04:19,989
-Somebody!
+Ktokolwiek!
 
 58
 00:04:20,750 --> 00:04:22,046
-Help!
+Pomocy!
 
 59
 00:04:22,520 --> 00:04:23,990
-Please!
+Proszê!
 
 60
 00:04:26,866 --> 00:04:28,287
-Please.
+Proszê.
 
 61
 00:04:29,517 --> 00:04:32,743
-I urge you to meditate on these visions.
+Zachêcam ciê do 
+medytacji na t¹ wizj¹.
 
 62
 00:04:32,767 --> 00:04:35,809
-I believe Aang's spirit is
-trying to tell you something.
+Wierzê, ¿e duch Aanga
+stara ci siê coœ powiedzieæ.
 
 63
 00:04:49,211 --> 00:04:50,601
-What are you doing here, Aang?
+Co ty tutaj robisz, Aang?
 
 64
 00:04:50,701 --> 00:04:53,099
-I told you, I have this under control.
+Mówi³am ci, mam wszystko pod kontrol¹.
 
 65
 00:04:53,199 --> 00:04:55,713
-Under normal circumstances,
-I wouldn't get involved,
+W normalnych okolicznoœciach
+nie chcia³bym siê wtr¹caæ,
 
 66
 00:04:55,713 --> 00:04:59,195
-but if what those victims said is true,
-we're not dealing with a normal criminal.
+ale jeœli jego ofiary mówi³y prawdê,
+nie mamy do czynienia ze zwyk³ym przestêpc¹.
 
 67
 00:04:59,295 --> 00:05:02,049
-Fine. Follow me, Twinkletoes.
+Dobra. Za mn¹, DŸwiêcz¹ce Paluszki.
 
 68
 00:05:02,149 --> 00:05:06,351
-Toph, I'm forty years old. Do you think
-you could stop with the nicknames?
+Toph, mam czterdzieœci lat. Czy mog³abyœ 
+przestaæ ju¿ mnie tak nazywaæ?
 
 69
 00:05:06,551 --> 00:05:07,717
-'Fraid not.
+Nie ma mowy.
 
 70
 00:05:12,123 --> 00:05:14,725
-It's over! You're under
-arrest, Yakone!
+To koniec! Jesteœ aresztowany, Yakone!
 
 71
 00:05:14,825 --> 00:05:17,555
-What is Republic City coming to?
+Co siê sta³o z Republic City?
 
 72
 00:05:17,555 --> 00:05:20,955
-Used to be, a man could
-enjoy his lunch in peace.
+Myœla³em, ¿e mo¿na tutaj spokojnie zjeœæ obiad.
 
 73
 00:05:24,965 --> 00:05:26,559
-What's the big idea?
+Czego ode mnie chcecie?
 
 74
 00:05:26,585 --> 00:05:29,113
-We have dozens of witnesses, Yakone.
+Mamy dziesi¹tki œwiadków, Yakone.
 
 75
 00:05:29,113 --> 00:05:30,479
-We know what you are.
+Wiemy, kim jesteœ.
 
 76
 00:05:30,579 --> 00:05:31,729
-Take him away.
+Zabraæ go.
 
 77
 00:05:31,729 --> 00:05:35,671
-I've beaten every trumped-up charge
-you yahoos have brought against me.
+Uda³o mi siê obroniæ w ka¿dej sfingowanej sprawie,
+któr¹ wymyœliliœcie przeciwko mnie.
 
 78
 00:05:35,671 --> 00:05:38,445
- And I'll beat this one, too!
+Tym razem te¿ tak bêdzie!
 
 79
 00:05:40,287 --> 00:05:41,789
-Woah.
+£a³.
 
 80
 00:05:41,865 --> 00:05:43,768
-I finally connected with you, Aang.
+W koñcu nawi¹za³am z tob¹ kontakt, Aang.
 
 81
 00:05:44,423 --> 00:05:47,061
-But- what are you trying to tell me?
+Ale co prubójesz mi przez to powiedzieæ?
 
 82
 00:05:47,205 --> 00:05:49,327
-A way out of this box would be nice.
+Mo¿e powiesz mi, jak wyjœæ z tego pud³a.
 
 83
 00:05:55,805 --> 00:05:57,215
-I have to go.
+Muszê ju¿ iœæ.
 
 84
 00:05:57,553 --> 00:05:59,867
-Call me back the minute you hear anything.
+Oddzwoñ jak tylko bedziesz coœ wiedzieæ.
 
 85
 00:06:00,567 --> 00:06:02,461
-Lin? Wh-wh-what What are y-
+Lin? C-c-co wy ro-
 
 86
 00:06:02,461 --> 00:06:03,713
-You should be in the hospital!
+Powinnaœ byæ w szpitalu!
 
 87
 00:06:03,713 --> 00:06:05,713
-And you three! You should be in prison!
+A wasza trójka! Powinniœcie byæ w wiêzieniu!
 
 88
 00:06:05,813 --> 00:06:08,008
-I figured you could use
-our help finding Korra.
+Pomyœla³am, ¿e pomo¿esz 
+nam pomóc szukaæ Korry.
 
 89
 00:06:08,008 --> 00:06:09,246
-Do you have any leads?
+Masz jakieœ œlady?
 
 90
 00:06:09,346 --> 00:06:12,376
-I've been on the phone all
-morning, but- nothing yet.
+Dzwoni³em ca³y poranek, 
+ale nic siê nie dowiedzia³em.
 
 91
 00:06:12,476 --> 00:06:13,774
-We need Naga!
+Potrzebna nam Naga!
 
 92
 00:06:13,838 --> 00:06:14,912
-She can track Korra.
+Potrafi wytropiæ Korrê.
 
 93
 00:06:15,112 --> 00:06:17,712
-I'm afraid her polar bear
-dog is missing as well.
+Obawiam siê, ¿e jej polarny 
+niedŸwiedziopies te¿ zagin¹³.
 
 94
 00:06:17,812 --> 00:06:19,085
-Then where do we start?
+Gdzie zaczniemy?
 
 95
 00:06:19,085 --> 00:06:21,830
-My guess is the Equalists
-are hiding underground,
+Domyœlam siê, ¿e Equaliœci 
+ukrywaj¹ siê w podziemiach,
 
 96
 00:06:21,830 --> 00:06:24,364
-in the maze of tunnels beneath the city.
+w labiryncie podziemnych tuneli pod miastem.
 
 97
 00:06:24,364 --> 00:06:25,650
-Underground...
+Podziemia...
 
 98
 00:06:25,750 --> 00:06:28,212
-just like my father's secret factory.
+to tak jak sekretna fabryka mojego ojca.
 
 99
 00:06:28,212 --> 00:06:29,174
-Figures.
+To pasuje.
 
 100
 00:06:29,174 --> 00:06:30,908
-Yeah! Yeah, that makes sense!
+Tak! Tak, to ma sens!
 
 101
 00:06:30,908 --> 00:06:34,652
-When those chi-blockers had me in their truck,
-it sounded like we drove into a tunnel!
+Kiedy blokerzy chi wsadzili mnie do ciê¿arówki,
+s³ysza³em, jakbym jecha³ tunelem.
 
 102
 00:06:35,552 --> 00:06:37,908
-I know where to start looking!
-Come on!96
+Wiem, gdzie zaczniemy szukaæ.
+ChdŸcie.
 
 103
 00:06:38,008 --> 00:06:39,978
