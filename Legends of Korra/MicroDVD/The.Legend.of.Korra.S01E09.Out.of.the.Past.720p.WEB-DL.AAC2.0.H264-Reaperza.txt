@@ -148,7 +148,7 @@
 {19445}{19556}Nie mamy Avatara. Equliœci nie|zaatakowali Ratusza.
 {19556}{19591}Tarrlok k³ama³.
 {19594}{19624}Co?
-{19627}{19707}Przeszuka³em ca³e wiêzienie.|Nie ma tu Korry.
+{19627}{19707}Przeszuka³am ca³e wiêzienie.|Nie ma tu Korry.
 {19710}{19805}Dlaczego Tarrlok wymyœli³|historyjkê o ataku?
 {19814}{19878}Poniewa¿ on porwa³ Korrê.
 {19878}{19912}Oszuka³ nas wszystkich!
