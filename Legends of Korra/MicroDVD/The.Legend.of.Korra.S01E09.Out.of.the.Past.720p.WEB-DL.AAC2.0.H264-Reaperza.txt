@@ -1,0 +1,258 @@
+{255}{296}Ziemia.
+{305}{342}Ogieñ.
+{348}{388}Powietrze.
+{408}{432}Woda.
+{468}{598}{Y:i}Tylko Avatar mo¿e opanowaæ|wszystkie cztery ¿ywio³y
+{598}{673}{Y:i}i zaprowadziæ równowagê na œwiecie.
+{849}{906}Avatar zosta³ porwany.
+{906}{1026}Po tym jak Tarrlok aresztowa³ przyjació³ Korry,|dosz³o miêdzy nimi do starcia w gabinecie Tarrloka.
+{1028}{1140}Ale walka na argumenty szybko|zamieni³a siê w bitwê dwóch magów.
+{1140}{1239}By ratowaæ siê przed pora¿k¹, Tarrlok u¿y³ magii krwi
+{1239}{1321}i wywióz³ Korrê z dala od Republic City.
+{1323}{1429}Czy przyjaciele Korry odnajd¹ j¹,|nim bêdzie za póŸno?
+{1467}{1557}Ksiêga Pierwsza|Rozdzia³ 9: Wydarzenia z przesz³oœci.
+{2368}{2410}Co ty robisz?
+{2439}{2465}Tarrlok!
+{2518}{2584}Nie mo¿esz mnie tutaj trzymaæ wiecznie!
+{3417}{3497}Kto tam? Jest szósta rano!
+{3497}{3569}Lepiej ¿eby to by³o wa¿ne!
+{3589}{3654}Radny Tenzin, s³ucham.
+{3694}{3717}Co?!
+{4071}{4101}Co siê tutaj sta³o?
+{4104}{4153}Co Korra robi³a w Ratuszu?
+{4156}{4227}Jak ju¿ mówi³em Naczelnikowi Saikhanowi,
+{4227}{4296}Korra przysz³a do mojego biura zesz³ej nocy.
+{4296}{4378}By³a z³a za to, ¿e aresztowa³em jej przyjació³.
+{4378}{4447}Poprosi³a mnie, ¿ebym ich wypuœci³...
+{4461}{4515}i wtedy zaatakowali nas Equaliœci.
+{4579}{4631}Próbowa³em chroniæ Korrê.
+{4631}{4696}Ale ich by³o zbyt wielu.
+{4696}{4768}Og³uszyli mnie.
+{4867}{4942}Kiedy siê obudzi³em, by³a ju¿ tu policja.
+{4942}{4990}Ale Korra zniknê³a.
+{4990}{5035}Przykro mi.
+{5038}{5123}Naczelniku Saikhan, zmobilizuj|wszelkie dostêpne si³y policyjne.
+{5123}{5195}Musimy odnaleŸæ Avatara.
+{5265}{5381}Przerywamy audycjê, by nadaæ raport specjalny.
+{5381}{5441}Zesz³ej nocy Equaliœci zaatakowali Ratusz,
+{5441}{5549}og³uszyli Radnego Tarrloka|i porwali Avatar Korrê.
+{5549}{5593}Ci¹gle nap³ywaj¹ do nas nowe informacje, ale...
+{6503}{6547}Koniec wypoczynku œlicznotko.
+{6556}{6606}Wyci¹gam ciê st¹d.
+{6612}{6657}Dziêkujê. Jestem twoj¹ d³u¿niczk¹.
+{6764}{6804}Skoñczy³eœ ju¿?
+{6804}{6883}Zatkaj uszy. Nie mogê tego zrobiæ,|gdy ktoœ nas³uchuje.
+{6952}{6977}Asami!
+{7015}{7097}Odrobinê prywatnoœci, proszê!
+{7102}{7134}Wszystko dobrze?
+{7137}{7203}Tak. Dobrze ciê widzieæ.
+{7203}{7258}Nie chcê wam przeszkadzaæ,
+{7261}{7304}ale Korra ma k³opoty.
+{7304}{7339}Porwa³ j¹ Amon.
+{7376}{7402}Nie.
+{7420}{7480}Nie, tylko nie to!
+{7483}{7547}ChodŸcie, mamy Avatara do uratowania.
+{7672}{7709}Mia³eœ rozpiêty rozporek.
+{7722}{7759}Dziêki za zauwa¿enie.
+{7981}{8023}Ktokolwiek!
+{8045}{8084}Pomocy!
+{8098}{8143}Proszê!
+{8229}{8271}Proszê.
+{8308}{8405}Zachêcam ciê do|medytacji na t¹ wizj¹.
+{8406}{8497}Wierzê, ¿e duch Aanga|stara ci siê coœ powiedzieæ.
+{8898}{8940}Co ty tutaj robisz, Aang?
+{8943}{9015}Mówi³am ci, mam wszystko pod kontrol¹.
+{9018}{9093}W normalnych okolicznoœciach|nie chcia³bym siê wtr¹caæ,
+{9093}{9198}ale jeœli jego ofiary mówi³y prawdê,|nie mamy do czynienia ze zwyk³ym przestêpc¹.
+{9201}{9283}Dobra. Za mn¹, DŸwiêcz¹ce Paluszki.
+{9286}{9412}Toph, mam czterdzieœci lat. Mog³abyœ|przestaæ ju¿ mnie tak nazywaæ?
+{9418}{9453}Nie ma mowy.
+{9585}{9663}To koniec! Jesteœ aresztowany, Yakone!
+{9666}{9748}Co siê sta³o z Republic City?
+{9748}{9850}Myœla³em, ¿e mo¿na tutaj spokojnie zjeœæ obiad.
+{9970}{10018}Czego ode mnie chcecie?
+{10019}{10094}Mamy dziesi¹tki œwiadków, Yakone.
+{10094}{10135}Wiemy, kim jesteœ.
+{10138}{10173}Zabraæ go.
+{10173}{10291}Uda³o mi siê obroniæ w ka¿dej sfingowanej sprawie,|któr¹ wymyœliliœcie przeciwko mnie.
+{10291}{10374}Tym razem te¿ tak bêdzie!
+{10429}{10474}£a³.
+{10476}{10533}W koñcu nawi¹za³am z tob¹ kontakt, Aang.
+{10553}{10632}Ale co próbujesz mi przez to powiedzieæ?
+{10637}{10700}Mo¿e powiesz mi, jak wyjœæ z tego pud³a.
+{10894}{10937}Muszê ju¿ iœæ.
+{10947}{11016}Oddzwoñ jak tylko bêdziesz coœ wiedzieæ.
+{11037}{11094}Lin? C-c-co wy ro-
+{11094}{11131}Powinnaœ byæ w szpitalu!
+{11131}{11191}A wasza trójka! Powinniœcie byæ w wiêzieniu!
+{11194}{11260}Pomyœla³am, ¿e mo¿esz|nam pomóc szukaæ Korry.
+{11260}{11297}Masz jakieœ œlady?
+{11300}{11391}Dzwoni³em ca³y poranek,|ale nic siê nie dowiedzia³em.
+{11394}{11433}Potrzebna nam Naga!
+{11435}{11467}Potrafi wytropiæ Korrê.
+{11473}{11551}Obawiam siê, ¿e jej polarny|niedŸwiedziopies te¿ zagin¹³.
+{11554}{11592}Gdzie zaczniemy?
+{11592}{11674}Domyœlam siê, ¿e Equaliœci|ukrywaj¹ siê w podziemiach,
+{11674}{11750}w labiryncie tuneli pod miastem.
+{11750}{11789}Podziemia...
+{11792}{11865}to tak jak sekretna fabryka mojego ojca.
+{11865}{11894}To pasuje.
+{11894}{11946}Tak! Tak, to ma sens!
+{11946}{12058}Kiedy blokerzy chi wsadzili mnie do ciê¿arówki,|s³ysza³em, jakbym jecha³ tunelem.
+{12085}{12156}Wiem, gdzie zaczniemy szukaæ.|ChodŸcie.
+{12159}{12218}Gdziekolwiek Amon trzyma Korrê,
+{12224}{12293}s¹ tam te¿ i moi ludzie.
+{12296}{12360}Uwolnijmy ich, Lin.
+{12687}{12756}Ciê¿arówka z Bolinem zabra³a|go w dó³ tej alei.
+{12890}{12918}Którêdy?
+{12970}{13035}Hmm. Ta droga...|wygl¹da znajomo.
+{13165}{13200}Niedaleko st¹d jest tunel.
+{13310}{13323}Tam!
+{13450}{13489}Œlady motocykli.
+{13501}{13551}Korra jest tam...
+{13575}{13609}gdzieœ.
+{13892}{13924}Spróbujmy t¹ drog¹.
+{13927}{13981}A co jeœli nie ma tam Korry?
+{13982}{14037}Bêdziemy sprawdzaæ kolejne tunele,|a¿ j¹ znajdziemy!
+{14243}{14294}Hej, z Mako wszystko w porz¹dku?
+{14294}{14360}Wygl¹da na naprawdê zmartwionego|zaginiêciem Korry.
+{14366}{14415}Tak, wszyscy jesteœmy!
+{14415}{14462}Wiem, ale...
+{14462}{14594}Jesteœ jego bratem. Myœlisz, ¿e Korra|jest dla niego kimœ wiêcej ni¿ przyjacielem?
+{14625}{14732}C-co!? Nie! To tylko|plotka, gdzie to s³ysza³aœ?
+{14741}{14831}Ludzie wygaduj¹ straszne g³upoty.
+{14848}{14943}Co wiesz, Bolin?|Powiedz to!
+{14949}{15003}Nic. To znaczy...
+{15018}{15121}Podczas turnieju Mako i Korra|raz siê ca³owali, ale...
+{15124}{15179}Oni... ca³owali siê?
+{15190}{15307}Uwierz mi, te¿ by³em z tego powodu z³y, ale to przesz³oœæ.|Nie s¹dzê, by to cokolwiek jeszcze znaczy³o.
+{15310}{15366}W¹tpiê w to.
+{15524}{15549}Ukryæ siê!
+{16505}{16579}Ten transporter jedzie do obozu treningowego.
+{16636}{16694}Wszystko zosta³o dostarczone do wiêzienia, sir.
+{16746}{16803}To tam musz¹ przetrzymywaæ Korrê.
+{16803}{16849}Musimy pojechaæ tym tunelem.
+{17523}{17602}- Jest pusty?!|- Zauwa¿y³em.
+{17775}{17820}Wy dwaj, miejcie na nich oko.
+{18001}{18053}Moi funkcjonariusze musz¹ byæ w œrodku.
+{18055}{18095}Co z Korr¹?
+{18109}{18162}Jeszcze jej nie znalaz³am.
+{18637}{18705}Avatar Korra. Gdzie j¹ trzymacie?
+{18904}{18934}Naczelnik Beifong?
+{18958}{19005}SpóŸni³am siê.
+{19019}{19100}Ten potwór zabra³ wasze zdolnoœci, prawda?
+{19164}{19218}Przykro mi.
+{19221}{19289}Idziemy, wyci¹gam was st¹d.
+{19341}{19398}Pytam ostatni raz:
+{19398}{19445}gdzie ona jest?
+{19445}{19556}Nie mamy Avatara. Equliœci nie|zaatakowali Ratusza.
+{19556}{19591}Tarrlok k³ama³.
+{19594}{19624}Co?
+{19627}{19707}Przeszuka³em ca³e wiêzienie.|Nie ma tu Korry.
+{19710}{19805}Dlaczego Tarrlok wymyœli³|historyjkê o ataku?
+{19814}{19878}Poniewa¿ on porwa³ Korrê.
+{19878}{19912}Oszuka³ nas wszystkich!
+{20021}{20076}Idziemy!
+{20665}{20725}Spróbujcie zablokowaæ to!
+{20898}{20937}Mamy towarzystwo!
+{21695}{21825}Yakone rz¹dzi³ przestêpczym œwiatem|Republic City przez lata.
+{21828}{21932}Zawsze udawa³o mu siê unikaæ sprawiedliwoœci.
+{21932}{21973}A¿ do teraz.
+{21977}{22078}Dziesi¹tki jego ofiar|z³o¿y³y przeciwko niemu zeznania.
+{22087}{22363}Dowiedzieliœmy siê, ¿e Yakone zdoby³ swoj¹ pozycjê,|u¿ywaj¹c zdolnoœci zakazanej od dziesiêcioleci.
+{22385}{22426}Magii krwi.
+{22494}{22578}Ca³e oskar¿enie
+{22578}{22765}opiera siê na tym, ¿e mój klient|potrafi u¿ywaæ magii krwi,
+{22788}{22855}w ka¿dym momencie ka¿dego dnia.
+{22858}{22996}Chcia³bym przypomnieæ, ¿e magia krwi|jest niezwykle rzadk¹ zdolnoœci¹
+{22997}{23093}i mo¿e byæ u¿yta|tylko podczas pe³ni ksiê¿yca.
+{23096}{23286}Œwiadkowie zeznali, ¿e mój klient|u¿ywa³ magii krwi w ró¿ne dni,
+{23286}{23355}oprócz pe³ni ksiê¿yca.
+{23355}{23582}By³oby kpin¹ z wymiaru sprawiedliwoœci skazaæ|cz³owieka za przestêpstwo, którego nie mo¿na pope³niæ.
+{23817}{23916}Radny Sokka og³osi werdykt.
+{23916}{24073}W swoim ¿yciu spotka³em ludzi dysponuj¹cych|rzadkimi i unikalnymi rodzajami magii.
+{24073}{24251}Kiedyœ pokona³em za pomoc¹ bumerangu cz³owieka,|u¿ywaj¹cego magii ognia za pomoc¹ umys³u.
+{24251}{24364}Magiê metalu uwa¿ano przez ca³y|czas za coœ niemo¿liwego,
+{24364}{24543}dopóki nasza Naczelnik Policji,|Toph Beifong w³asnorêcznie jej nie stworzy³a.
+{24564}{24777}Przyt³aczaj¹ca liczba zeznañ i dowodów przekona³a radê,|¿e Yakone jest posiadaczem takiej rzadkiej umiejêtnoœci
+{24780}{24895}i wykorzysta³ j¹ do pope³nienia|wielu potwornych zbrodni.
+{24907}{25118}Uznajemy Yakona winnym wszystkich zarzucanych|mu czynów i skazujemy go na do¿ywocie.
+{26229}{26309}Dziêkujê, ¿e zebraliœcie siê|w tak krótkim czasie.
+{26309}{26371}Naczelniku.|Lin.
+{26392}{26443}Jakieœ wieœci o Avatarze?
+{26455}{26534}Tak. To ty j¹ porwa³eœ, Tarrlok!
+{26534}{26642}Jestem zszokowany tym,|¿e oskar¿asz mnie o coœ tak potwornego!
+{26642}{26741}Jak ju¿ wyjaœni³em, Equaliœci|zaatakowali nas i j¹ porwali!
+{26744}{26819}Ale tej nocy nie by³o blokerów chi.
+{26819}{26883}Podrobi³eœ dowody, prawda?
+{26886}{26959}To niedorzeczne oskar¿enia.
+{26959}{27039}To prawda! On j¹ porwa³!
+{27046}{27123}By³am tej nocy, gdy Avatar Korra|przysz³a do Tarrloka, ale
+{27123}{27201}on kaza³ mi wyjœæ.
+{27201}{27283}Widzia³am go znowu, gdy zabiera³ Korrê do gara¿u.
+{27309}{27399}Powiedz do widzenia Republic City, Avatar Korro.
+{27399}{27449}Nie zobaczysz go wiêcej.
+{27665}{27773}Jesteœ zwyk³¹ oszustk¹.
+{27782}{27838}Dlaczego nie powiedzia³aœ nam o tym wczeœniej?
+{27841}{27898}Ba³am siê powiedzieæ, poniewa¿...
+{27907}{27977}Poniewa¿ Tarrlok jest magiem krwi!
+{27977}{28031}U¿y³ jej, by schwytaæ Avatar Korrê!
+{28055}{28166}Nie pogarszaj swojej sytuacji.|Powiedz nam, gdzie jest Korra.
+{28997}{29024}Wstawaj!
+{29129}{29293}Mia³em okropny sen. Korra zosta³a|porwana przez z³ego maga krwi. To by³o dziwne.
+{29303}{29379}Bolin, to siê dzieje naprawdê.|Og³uszy³ nas.
+{29382}{29469}Mówicie powa¿nie?! Gdzie on jest?
+{29472}{29566}Tarrlok znikn¹³.|Powiadomiê wszystkie si³y.
+{29587}{29638}Nie minê³o wiele czasu.
+{29638}{29700}Mo¿e uda siê nam go z³apaæ, zanim ucieknie.
+{29700}{29790}Mo¿e zaprowadzi nas do Korry! Ruszajmy.
+{30707}{30804}Yakone. Nie ujdzie ci to na sucho!
+{30875}{31031}Republic City nale¿y do mnie, Avatarze.|Pewnego dnia odbiorê je z powrotem.
+{32329}{32413}Tym razem za³atwiê ciê na dobre.
+{33035}{33128}Zabieram ci twoj¹ magiê na dobre.
+{33426}{33475}To koniec.
+{33543}{33578}Aang,
+{33578}{33709}przez ca³y ten czas próbowa³eœ|mnie ostrzec przed Tarrlokiem.
+{33794}{33899}Moje ¿ycie dziêki tobie leg³o w gruzach.
+{33902}{33964}Wiêc twój ma³y sekrecik zosta³ odkryty?
+{34027}{34114}Wiem, dlaczego potrafisz u¿ywaæ|magii krwi bez pe³ni ksiê¿yca.
+{34122}{34181}Jesteœ synem Yakona.
+{34209}{34267}By³em jego synem,
+{34268}{34334}chcia³em rz¹dziæ Republic City.
+{34334}{34391}Ale chcia³em byæ inny ni¿ on.
+{34419}{34557}Mój ojciec próbowa³ rz¹dziæ|miastem z przestêpczych podziemi.
+{34560}{34629}Mój plan by³ doskona³y.
+{34642}{34764}Chcia³em byæ zbawc¹ tego miasta.|Ale ty...
+{34764}{34844}zniszczy³aœ wszystko!
+{34847}{34931}Tarrlok, zosta³eœ rozszyfrowany|i nie masz dok¹d uciec.
+{34934}{35076}O nie. Nie. Ucieknê i zacznê nowe ¿ycie.
+{35086}{35175}A ty bêdziesz moim zak³adnikiem.
+{35191}{35235}To ci siê nie uda!
+{35431}{35453}Amon!
+{35508}{35573}Nadszed³ czas, byœ zosta³ zrównany.
+{35604}{35715}G³upcze! Nigdy nie walczy³eœ z magiem takim jak ja.
+{36152}{36194}Czym...
+{36207}{36247}Czym ty jesteœ?
+{36268}{36334}Jestem rozwi¹zaniem.
+{36795}{36899}Zajmê siê nim. Wy czterej bierzcie Avatara.
+{36899}{36953}Nie lekcewa¿cie jej.
+{36953}{37076}- Og³uszcie j¹, zanim otworzycie pud³o.|- Z przyjemnoœci¹.
+{37308}{37362}Nadszed³ czas zap³aty.
+{37867}{37907}Otworzyæ pud³o.
+{38002}{38036}Braæ j¹.
+{39093}{39182}Mówi³em wam, byœcie jej nie lekcewa¿yli.
+{40037}{40081}Naga.
+{40081}{40129}Szuka³aœ mnie.
+{40138}{40178}Dobra dziewczynka.
+{40689}{40732}To brzmi jak Naga!
+{40820}{40843}Tam!
+{40929}{40959}Korra!
+{40986}{41024}Dziêki bogu.
+{41024}{41057}Gdzie jest Tarrlok?
+{41057}{41099}Gdzie ciê trzyma³?
+{41102}{41140}Dajcie jej odpocz¹æ!
+{41331}{41393}Tak siê martwi³em.
+{41402}{41431}Wszystko w porz¹dku?
+{41431}{41466}Tak.
+{41500}{41540}Cieszê siê, ¿e mnie znalaz³eœ.
+{41719}{41746}Jesteœ bezpieczna.
