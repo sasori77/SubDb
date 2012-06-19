@@ -131,79 +131,78 @@ Pozwól, że pomogę.
 
 32
 00:02:04,778 --> 00:02:06,978
-Korra, I realize
-you've been through a lot,
+Korra, wiem, 
+że to dla ciebie trudne,
 
 33
 00:02:06,980 --> 00:02:08,747
-but I need to know
-everything that happened.
+ale muszę wiedzieć o wszystkim, 
+co się wydarzyło.
 
 34
 00:02:08,749 --> 00:02:14,019
-Well, first off,
-Tarrlok isn't who he says he is.
+Cóż, po pierwsze, Tarrlok nie był tym, 
+za kogo się podawał.
 
 35
 00:02:14,021 --> 00:02:15,220
-He's yakone's son.
+Tarrlok to syn Yakone'a.
 
 36
 00:02:15,222 --> 00:02:18,090
-It all makes sense now.
+To ma sens.
 
 37
 00:02:18,092 --> 00:02:20,125
-That's how Tarrlok was able
-to bloodbend us
+Dzięki temu Terrlok 
+mógł używać magii krwi
 
 38
 00:02:20,127 --> 00:02:21,159
-without a full moon.
+bez pełni księżyca.
 
 39
 00:02:21,161 --> 00:02:22,394
-But how did you escape?
+Jak udało ci się uciec?
 
 40
 00:02:22,396 --> 00:02:23,929
-And where's Tarrlok?
+I gdzie jest Tarrlok?
 
 41
 00:02:23,931 --> 00:02:27,065
-Amon captured him
-and took his bending.
+Amon schwytał go i odebrał mu magię.
 
 42
 00:02:27,067 --> 00:02:28,266
-- What?
-- Yeah.
+- Co?
+- Tak.
 
 43
 00:02:28,268 --> 00:02:30,335
-He showed up out of nowhere.
+Zjawił się znikąd.
 
 44
 00:02:30,337 --> 00:02:31,603
-He almost got me too.
+Prawie dorwał i mnie.
 
 45
 00:02:31,605 --> 00:02:34,172
-This is very disturbing news.
+To bardzo niepokojące wieści.
 
 46
 00:02:34,174 --> 00:02:36,174
-Amon is becoming emboldened.
+Amon jest coraz bardziej zuchwały.
 
 47
 00:02:36,176 --> 00:02:39,511
-Taking out a councilman,
-almost capturing the Avatar...
+Porwał radnego 
+i prawie schwytał Avatara...
 
 48
 00:02:39,513 --> 00:02:44,716
-I fear amon is entering
-his end game.
+Obawiam się, że Amon niedługo pokaże, 
+na co go naprawdę stać.
 
 49
 00:02:46,819 --> 00:02:48,286
@@ -211,147 +210,138 @@ his end game.
 
 50
 00:02:48,288 --> 00:02:49,521
-Pema, are you all right?
+Pema, wszystko w porzadku?
 
 51
 00:02:49,523 --> 00:02:52,624
-The baby is just kicking
-really hard, is all.
+Dziecko kopnęło 
+bardzo mocno, to wszystko.
 
 52
 00:02:52,626 --> 00:02:54,826
-I'm fine.
-Should I get Tenzin?
+Wszystko dobrze.
+Zawołać Tenzina?
 
 53
 00:02:54,828 --> 00:02:57,596
-No reason to worry him.
-It's nothing.
+Nie ma potrzeby go martwić.
+Nic się nie stało.
 
 54
 00:02:57,598 --> 00:02:59,731
-Can I get some hot water?
+Mogę prosić gorącą wodę?
 
 55
 00:02:59,733 --> 00:03:01,433
-Korra needs more tea.
+Korra chce więcej herbaty.
 
 56
 00:03:01,435 --> 00:03:03,735
-You're a firebender.
-Boil it yourself.
+Jesteś magiem ognia.
+Podgrzej ją sam.
 
 57
 00:03:08,074 --> 00:03:12,244
-I'm gonna step out
-in case you two want to talk.
+Wychodzę, na wypadek, 
+gdybyście obydwoje chcieli porozmawiać.
 
 58
 00:03:15,281 --> 00:03:17,282
-Is there something
-we need to talk about?
+O czym mielibyśmy porozmawiać?
 
 59
 00:03:17,284 --> 00:03:21,119
-I've noticed
-how you treat Korra.
+Zauważyłam, jak zajmujesz się Korrą.
 
 60
 00:03:21,121 --> 00:03:23,288
-How you acted
-when she was missing.
+Jak zachowywałeś się, gdy zaginęła.
 
 61
 00:03:23,290 --> 00:03:24,656
-You have feelings
-for her, don't you?
+Czujesz coś do niej, prawda?
 
 62
 00:03:24,658 --> 00:03:26,691
-What?
-No.
+Co?
+Nie.
 
 63
 00:03:26,693 --> 00:03:28,994
-She was taken
-by a crazy bloodbender.
+Została uprowadzona 
+przez szalonego maga krwi.
 
 64
 00:03:28,996 --> 00:03:30,195
-How did you expect me to act?
+Jak według ciebie powinienem się zachowywać?
 
 65
 00:03:30,197 --> 00:03:32,130
-I like Korra.
+Lubię Korrę.
 
 66
 00:03:32,132 --> 00:03:33,765
-But you've been keeping
-the truth from me
+Ale ty ukrywałeś całą prawdę
 
 67
 00:03:33,767 --> 00:03:34,866
-this whole time.
+przez cały ten czas przede mną.
 
 68
 00:03:34,868 --> 00:03:37,369
-The truth?
-About what?
+Prawdę?
+O czym?
 
 69
 00:03:37,371 --> 00:03:39,137
-You're really
-gonna make me say it?
+Chcesz, żebym to powiedziała?
 
 70
 00:03:39,139 --> 00:03:41,640
-Yes, because I don't know
-what you're talking about.
+Tak, ponieważ nie wiem, 
+o czym mówisz.
 
 71
 00:03:41,642 --> 00:03:42,874
-The kiss, Mako.
+Pocałunek, Mako.
 
 72
 00:03:42,876 --> 00:03:44,209
-I know.
+Wiem o tym.
 
 73
 00:03:44,211 --> 00:03:48,046
-Iwell...
+Cóż...
 
 74
 00:03:48,048 --> 00:03:49,648
-Bolin told you, didn't he?
+Bolin ci powiedział, prawda?
 
 75
 00:03:49,650 --> 00:03:51,983
-Don't blame your brother
-for what you did.
+Nie wiń swojego brata za to, 
+co sam zrobiłeś.
 
 76
 00:03:51,985 --> 00:03:54,019
-Do you have feelings
-for Korra or not?
+Czujesz coś do Korry, czy nie?
 
 77
 00:03:54,021 --> 00:03:56,621
-Look, things are crazy
-right now.
+Słuchaj, dzieją się teraz dziwne rzeczy.
 
 78
 00:03:56,623 --> 00:03:58,957
-Can we deal with
-our relationship problems later?
+Moglibyśmy omówić problemy 
+naszego związku kiedy indziej?
 
 79
 00:03:58,959 --> 00:04:00,458
-Well, there might not
-be any relationship
+Wtedy może nie być już związku,
 
 80
 00:04:00,460 --> 00:04:01,860
-to worry about later.
+którego problemy byśmy mogli omówić.
 
 81
 00:04:01,862 --> 00:04:03,428
@@ -363,75 +353,67 @@ Asami.
 
 83
 00:04:05,499 --> 00:04:09,267
-Lin, um, I-I need
-to ask you a favor.
+Lin, um, m-mógłbym cię prosić o przysługę?
 
 84
 00:04:09,269 --> 00:04:11,503
-It would mean the world to me,
+To dla mnie strasznie ważne,
 
 85
 00:04:11,505 --> 00:04:15,507
-but I-I know it could be
-a potentially awkward situation.
+ale ostrzegam, może cię to 
+postawić w niezręcznej sytuacji,
 
 86
 00:04:15,509 --> 00:04:17,342
-Furthermore...
-Spit it out already.
+ponadto...
+Powiedz to wreszcie.
 
 87
 00:04:17,344 --> 00:04:19,511
-Will you stay here and watch
-over pema and the children
+Zostałabyś tutaj 
+i zajęłabyś się dziećmi i Pemą,
 
 88
 00:04:19,513 --> 00:04:21,079
-while I meet with the council?
+dopóki nie wróciłbym z posiedzenia rady?
 
 89
 00:04:21,081 --> 00:04:23,014
-With everything
-that's happened lately,
+Mając na uwadze wszystko to, co się wydarzyło,
 
 90
 00:04:23,016 --> 00:04:25,450
-I want to be sure
-my family is in safe hands.
+chcę, by moja rodzina była bezpieczna.
 
 91
 00:04:25,452 --> 00:04:29,287
-Of course I'll help,
-old friend.
+Oczywiście, że ci pomogę, stary przyjacielu.
 
 92
 00:04:29,289 --> 00:04:31,389
-I didn't realize
-you two were out here.
+Nie sądziłam, że was tutaj spotkam.
 
 93
 00:04:31,391 --> 00:04:33,725
 Pema!
-Uh, yes, yes.
+Uh, tak, tak.
 
 94
 00:04:33,727 --> 00:04:35,493
-Lin has agreed
-to help out around here
+Lin zgodziła się nam pomóc
 
 95
 00:04:35,495 --> 00:04:37,128
-and keep an eye on things
-while I'm away.
+i chronić was, kiedy mnie tutaj nie będzie.
 
 96
 00:04:37,130 --> 00:04:38,330
-Thank you.
+Dziękuję.
 
 97
 00:04:38,332 --> 00:04:39,931
-I could use
-the extra pair of hands.
+Przyda się dodatkowa para rąk.
 
 98
 00:04:39,933 --> 00:04:40,932
@@ -439,22 +421,20 @@ the extra pair of hands.
 
 99
 00:04:40,934 --> 00:04:42,067
-Would you mind
-giving him a bath?
+Mogłabyś go wykąpać?
 
 100
 00:04:42,069 --> 00:04:45,270
-He's filthy.
+Jest ubrudzony.
 [Laughing]
 
 101
 00:04:45,272 --> 00:04:47,672
-This is not
-what I signed on for.
+Nie na to się umawialiśmy.
 
 102
 00:04:47,674 --> 00:04:48,907
-Thank you, lin.
+Dziękuję, Lin.
 
 103
 00:04:48,909 --> 00:04:53,111
@@ -463,8 +443,8 @@ Oogi, yip, yip.
 
 104
 00:04:55,348 --> 00:04:58,183
-I got to poo.
-Really bad.
+Muszę do łazienki.
+Nie jest dobrze.
 
 105
 00:04:58,185 --> 00:04:59,651
@@ -476,30 +456,29 @@ Ugh!
 
 107
 00:05:07,260 --> 00:05:08,894
-Do you know
-where my keys are?
+Widziałeś moje klucze?
 
 108
 00:05:08,896 --> 00:05:10,729
-I can't find them anywhere.
+Nie mogę ich nigdzie znaleźć.
 
 109
 00:05:10,731 --> 00:05:12,364
-No, dear.
+Nie, kochanie.
 
 110
 00:05:12,366 --> 00:05:14,699
-- Oh, found them.
-- Good, dear.
+- Oh, znalazłam je.
+- To dobrze, kochanie.
 
 111
 00:05:14,701 --> 00:05:16,067
-Don't wait up for me.
+Nie czekaj na mnie.
 
 112
 00:05:16,069 --> 00:05:18,904
-This council session will
-probably go late into the night.
+Posiedzenie rady prawdopodobnie 
+przeciągnie się do późnej nocy.
 
 113
 00:05:18,906 --> 00:05:19,938
@@ -507,21 +486,19 @@ probably go late into the night.
 
 114
 00:05:19,940 --> 00:05:22,073
-The door, dear.
+Drzwi, kochanie.
 
 115
 00:05:24,777 --> 00:05:27,245
-We're here to fix
-a spider-rat problem.
+Przyszliśmy rozprawić się z szczuropająkami.
 
 116
 00:05:27,247 --> 00:05:29,147
-I didn't call
-an exterminator.
+Nie wzywałam was.
 
 117
 00:05:33,552 --> 00:05:34,552
-Dear?
+Kochanie?
 
 118
 00:05:34,554 --> 00:05:38,990
@@ -546,38 +523,35 @@ Aah!
 
 123
 00:06:18,932 --> 00:06:20,932
-Oh, I'm so relieved to see you.
+Całe szczęście, że nic ci nie jest.
 
 124
 00:06:20,934 --> 00:06:23,234
-The other council members,
-are they all right?
+Wszystko dobrze z pozostałymi członkami rady?
 
 125
 00:06:23,236 --> 00:06:24,602
-I'm afraid not.
+Obawiam się, że nie.
 
 126
 00:06:24,604 --> 00:06:26,771
-I just received a call
-from chief saikhan.
+Dzwonił Naczelnik Saikhan.
 
 127
 00:06:26,773 --> 00:06:27,772
-They've all been captured.
+Wszyscy zostali porwani.
 
 128
 00:06:27,774 --> 00:06:30,175
-This can't be happening.
+To nie może być prawda.
 
 129
 00:06:30,177 --> 00:06:32,377
-The leadership
-of Republic city
+Teraz to ty 
 
 130
 00:06:32,379 --> 00:06:35,447
-is in your hands now.
+przewodzisz Republic City.
 
 131
 00:06:35,449 --> 00:06:37,515
@@ -589,41 +563,37 @@ is in your hands now.
 
 133
 00:06:46,994 --> 00:06:49,861
-It is a tragic day indeed!
+To naprawdę koszmarny dzień!
 
 134
 00:06:53,265 --> 00:06:58,336
-All right, kids.
-Time to go inside.
+Dobra, dzieciaki.
+Do środka.
 
 135
 00:06:58,338 --> 00:07:00,338
-We heard explosions.
-What's going on?
+Słyszeliśmy eksplozje.
+Co się dzieje?
 
 136
 00:07:00,340 --> 00:07:02,073
-Republic city
-is under attack.
+Republic City jest atakowane.
 
 137
 00:07:14,520 --> 00:07:17,822
-I've dreamed of this day
-for so long.
+Tak długo marzyłem o tym dniu.
 
 138
 00:07:17,824 --> 00:07:18,890
-Yes.
+Tak.
 
 139
 00:07:18,892 --> 00:07:21,059
-The time has come
-for the equalists
+Nadszedł czas, by Equaliści
 
 140
 00:07:21,061 --> 00:07:25,096
-to claim Republic city
-as their own.
+przejeli Republic City.
 
 141
 00:07:33,597 --> 00:07:35,965
@@ -631,41 +601,38 @@ as their own.
 
 142
 00:07:39,402 --> 00:07:41,203
-Where did you say
-you parked the car?
+Mówiłaś, że gdzie 
+zaparkowałaś samochód?
 
 143
 00:07:41,205 --> 00:07:43,872
-It's right
-around here somewhere.
+Jest gdzieś tutaj.
 
 144
 00:07:43,874 --> 00:07:48,510
-There it is.
+Tu jest.
 
 145
 00:07:48,512 --> 00:07:50,613
-Wow, nice parking job.
+Wow, niezłe parkowanie.
 
 146
 00:07:50,615 --> 00:07:54,316
-Hey, you guys got arrested
-and left me alone with the car.
+Hej, zostaliście aresztowani 
+i zostawiliście mnie samą z tym samochodem
 
 147
 00:07:54,318 --> 00:07:56,819
-I made it very clear
-I don't know how to drive.
+Mówiłam wyraźnie, nie potrafię prowadzić.
 
 148
 00:07:56,821 --> 00:07:59,855
-All things considered,
-you did a great job.
+Rozumiemy to, dobra robota.
 
 149
 00:07:59,857 --> 00:08:03,826
-But how are we gonna pay
-for all these parking tickets?
+Ale jak opłacimy te wszystkie 
+mandaty za parkowanie?
 
 150
 00:08:03,828 --> 00:08:05,527
@@ -673,35 +640,33 @@ for all these parking tickets?
 
 151
 00:08:05,529 --> 00:08:07,496
-Relax, the city's
-under attack.
+Miasto jest atakowane.
 
 152
 00:08:07,498 --> 00:08:09,732
-The police have more important
-things to worry about.
+Policja ma ważniejsze rzeczy do roboty.
 
 153
 00:08:12,435 --> 00:08:14,870
-This'll come in handy.
+To się mi przyda.
 
 154
 00:08:17,607 --> 00:08:21,744
-Why don't you sit in back
-with Korra?
+Dlaczego nie usiądziesz 
+z tyłu razem z Korrą?
 
 155
 00:08:21,746 --> 00:08:25,114
-I think I will.
+Myślę, że tak zrobię.
 
 156
 00:08:28,718 --> 00:08:31,086
-- Everything all right?
-- Yeah.
+- Wszystko dobrze?
+- Tak.
 
 157
 00:08:31,088 --> 00:08:32,121
-Everything's terrific.
+Wspaniale.
 
 158
 00:08:32,123 --> 00:08:33,122
@@ -709,8 +674,8 @@ Everything's terrific.
 
 159
 00:08:33,124 --> 00:08:36,258
-Car!
-Oh, we're good.
+Samochód!
+Nieźle.
 
 160
 00:08:36,260 --> 00:08:40,195
@@ -718,80 +683,73 @@ Oh, we're good.
 
 161
 00:08:40,197 --> 00:08:42,631
-Chief, air unit seven
-was just taken out
+Naczelniku, jednostka powietrzna
+numer siedem została zaatakowana
 
 162
 00:08:42,633 --> 00:08:43,999
-by an equalist airship.
+przez statek Equalistów.
 
 163
 00:08:44,001 --> 00:08:45,334
-They've crashed
-into the harbor.
+Rozbili się na wybrzeżu.
 
 164
 00:08:45,336 --> 00:08:46,669
-Send a river rescue unit.
+Wysłaś rzeczną jednostkę ratunkową.
 
 165
 00:08:46,671 --> 00:08:50,139
-Chief, all river rescue ships
-have been sabotaged.
+Wszystkie łodzie ratunkowe zostały zsabotowane.
 
 166
 00:08:50,141 --> 00:08:51,540
-What?
+Co?
 
 167
 00:08:51,542 --> 00:08:53,008
-Chief saikhan.
+Naczelnik Saikhan.
 
 168
 00:08:53,010 --> 00:08:54,843
-Tenzin, am I glad to see you.
+Tenzin, cieszę się, że cię widzę.
 
 169
 00:08:54,845 --> 00:08:56,745
-I was afraid
-you'd been captured too.
+Bałem się, że złapali i ciebie.
 
 170
 00:08:56,747 --> 00:08:58,180
-I'm the only
-council member left.
+Jestem jedynym członkiem rady, jaki pozostał.
 
 171
 00:08:58,182 --> 00:08:59,315
-What's the status?
+Jak wygląda sytuacja?
 
 172
 00:08:59,317 --> 00:09:01,350
-Amon has launched
-simultaneous attacks
+Amon rozpoczął jednoczesny atak
 
 173
 00:09:01,352 --> 00:09:02,484
-across the boroughs.
+na wszystkie dzielnice.
 
 174
 00:09:02,486 --> 00:09:03,852
-The police are trying
-to regain control,
+Policja próbuje odzyskać kontrolę,
 
 175
 00:09:03,854 --> 00:09:06,889
-but we're spread too thin.
+ale nasze siły są zbyt rozproszone.
 
 176
 00:09:06,891 --> 00:09:09,758
-- I need to send a wire.
-- To whom, councilman?
+- Muszę wysłaś telegram.
+- Do kogo?
 
 177
 00:09:09,760 --> 00:09:12,094
-The General
-of the united forces.
+Do generała Zjednoczonych Sił.
 
 178
 00:09:18,868 --> 00:09:21,837
@@ -799,13 +757,11 @@ of the united forces.
 
 179
 00:09:21,839 --> 00:09:24,506
-Councilman, your wire
-has been sent.
+Telegram został wysłany.
 
 180
 00:09:24,508 --> 00:09:26,141
-Chief, the phone lines
-just went dead.
+Linie telefoniczne padły.
 
 181
 00:09:26,143 --> 00:09:28,944
@@ -818,11 +774,11 @@ just went dead.
 
 183
 00:09:33,884 --> 00:09:35,918
-Catch.
+Łap.
 
 184
 00:09:38,855 --> 00:09:40,956
-Saikhan, the vents!
+Saikhan, wentylacja!
 
 185
 00:09:42,525 --> 00:09:46,228
@@ -830,12 +786,11 @@ Saikhan, the vents!
 
 186
 00:09:46,230 --> 00:09:48,063
-We need
-to evacuate immediately.
+Musimy stąd natychmiast wyjść.
 
 187
 00:09:48,065 --> 00:09:50,766
-Everyone stay close to me.
+Trzymajcie się blisko mnie.
 
 188
 00:10:03,346 --> 00:10:05,681
@@ -843,8 +798,7 @@ Everyone stay close to me.
 
 189
 00:10:05,683 --> 00:10:08,450
-Not these
-mecha-tanks again.
+Tylko nie te mechy.
 
 190
 00:10:11,521 --> 00:10:12,521
@@ -878,7 +832,7 @@ Aah!
 
 197
 00:10:49,126 --> 00:10:52,194
-Saikhan, no.
+Saikhan, nie.
 
 198
 00:11:01,404 --> 00:11:02,838
@@ -890,7 +844,7 @@ Saikhan, no.
 
 200
 00:11:18,888 --> 00:11:20,889
-Jump!
+Skacz!
 
 201
 00:11:32,101 --> 00:11:34,903
@@ -926,62 +880,56 @@ Oh!
 
 209
 00:12:19,316 --> 00:12:21,717
-[Groans] Thank you.
+Dziękuję.
 
 210
 00:12:36,566 --> 00:12:39,001
-Tenzin has escaped
-once again.
+Tenzin znowu uciekł.
 
 211
 00:12:39,003 --> 00:12:41,270
-I can't stand
-to see asami fighting
+Nie mogę patrzeć, jak Asami
 
 212
 00:12:41,272 --> 00:12:43,472
-alongside those benders.
+walczy razem z tymi magami.
 
 213
 00:12:43,474 --> 00:12:45,908
-We will capture them
-before long,
+Wkrótce go złapiemy,
 
 214
 00:12:45,910 --> 00:12:47,876
-and you will have
-your daughter back.
+a ty odzyskasz swoją córkę.
 
 215
 00:12:50,547 --> 00:12:51,847
-Are you all right?
+Wszystko dobrze?
 
 216
 00:12:51,849 --> 00:12:54,049
-I'm fine.
-Thank you, kids.
+Tak.
+Dziękuję, dzieciaki.
 
 217
 00:12:54,051 --> 00:12:55,217
-Another moment later,
+Jeszcze chwila
 
 218
 00:12:55,219 --> 00:12:56,652
-and I would've been
-on my way to amon.
+i byłbym w drodze do Amona.
 
 219
 00:12:56,654 --> 00:12:58,587
-Uh, guys, look.
+Uh, patrzcie.
 
 220
 00:13:01,224 --> 00:13:02,991
-Oh, no.
+Oh, nie.
 
 221
 00:13:36,593 --> 00:13:39,761
-Everyone, hide inside
-and remain calm.
+Wszyscy do środka i zachować spokój.
 
 222
 00:13:39,763 --> 00:13:42,331
@@ -989,28 +937,27 @@ Aah!
 
 223
 00:13:42,333 --> 00:13:43,532
-Pull it together, pema.
+Zbierz je razem, Pema.
 
 224
 00:13:43,534 --> 00:13:44,833
-Didn't I just say,
-"remain calm"?
+Czy nie mówiłam "zachować spokój"?
 
 225
 00:13:44,835 --> 00:13:46,735
-Mommy, what's wrong?
+Mamo, co się dzieje?
 
 226
 00:13:46,737 --> 00:13:49,738
-The baby's coming!
+Dziecko chce wyjść na świat!
 
 227
 00:13:49,740 --> 00:13:51,139
-Oh, no.
+O, nie.
 
 228
 00:13:51,141 --> 00:13:52,574
-Not now, baby!
+Nie teraz!
 
 229
 00:13:52,576 --> 00:13:55,978
@@ -1030,16 +977,15 @@ Not now, baby!
 
 233
 00:14:55,364 --> 00:14:56,832
-The children, where are they?
+Gdzie są dzieci?
 
 234
 00:14:56,834 --> 00:14:58,066
-Don't worry.
+Nie martw się.
 
 235
 00:14:58,068 --> 00:15:00,035
-They're in the other room,
-totally safe.
+Są w innym pokoju, całkowicie bezpieczne.
 
 236
 00:15:04,073 --> 00:15:05,273
@@ -1051,8 +997,7 @@ Aah!
 
 238
 00:15:09,780 --> 00:15:12,681
-Stay away from my dad's
-ex-girlfriend.
+Odsuń się od byłej dziewczyny mojego taty!
 
 239
 00:15:14,817 --> 00:15:16,785
@@ -1064,7 +1009,7 @@ Jinora!
 
 241
 00:15:18,455 --> 00:15:20,021
-You shouldn't be out here!
+Nie powinno cię tu być!
 
 242
 00:15:20,023 --> 00:15:21,656
@@ -1072,7 +1017,7 @@ You shouldn't be out here!
 
 243
 00:15:21,658 --> 00:15:23,625
-Get off our island!
+Zjeżdżać z naszej wyspy!
 
 244
 00:15:23,627 --> 00:15:25,961
@@ -1080,12 +1025,11 @@ Get off our island!
 
 245
 00:15:25,963 --> 00:15:29,497
-Girls, you need to go
-back inside this instant.
+Dziewczyny, musicie wrócić do środka, natychmiast.
 
 246
 00:15:29,499 --> 00:15:32,834
-Taste my fury!
+Posmakuj tego!
 
 247
 00:15:32,836 --> 00:15:35,604
@@ -1093,7 +1037,7 @@ Taste my fury!
 
 248
 00:15:35,606 --> 00:15:36,838
-Meelo, be careful!
+Meelo, bądź ostrożny!
 
 249
 00:15:36,840 --> 00:15:39,007
@@ -1109,17 +1053,16 @@ Meelo, be careful!
 
 252
 00:15:46,049 --> 00:15:49,951
-Never mind.
+Nieważne.
 
 253
 00:15:49,953 --> 00:15:51,419
-Take these equalists
-and lock them
+Zaprowadzić tych Equalistów
 
 254
 00:15:51,421 --> 00:15:54,389
-in the temple's basement.
-Nice work, kids.
+do piwnicy świątyni.
+Dobra robota, dzieciaki.
 
 255
 00:15:54,391 --> 00:15:55,390
@@ -1127,7 +1070,7 @@ Nice work, kids.
 
 256
 00:15:55,392 --> 00:15:56,758
-Dad!
+Tato!
 
 257
 00:15:56,760 --> 00:15:59,895
@@ -1135,39 +1078,37 @@ Dad!
 
 258
 00:15:59,897 --> 00:16:02,564
-Oh, thank goodness
-you're all right.
+Dzięki bogu nic się wam nie stało.
 
 259
 00:16:02,566 --> 00:16:05,233
-We caught the bad guys.
+Złapaliśmy ich.
 
 260
 00:16:05,235 --> 00:16:06,601
-You let them fight?
+Pozwoliłaś im walczyć?
 
 261
 00:16:06,603 --> 00:16:08,236
-Do you realize
-what could've happened?
+Wiesz co mogło się stać?
 
 262
 00:16:08,238 --> 00:16:11,206
-I would've been toast
-if it weren't for your kids.
+Nie pokonałabym ich 
+bez pomocy twoich dzieci.
 
 263
 00:16:11,208 --> 00:16:12,240
-You should be proud.
+Powinieneś być dumny.
 
 264
 00:16:12,242 --> 00:16:15,744
-You taught them well.
+Dobrze je wyszkoliłeś.
 
 265
 00:16:17,380 --> 00:16:21,416
-Go on.
-Be with your wife.
+Idż.
+Żona na ciebie czeka.
 
 266
 00:16:21,418 --> 00:16:24,686
@@ -1187,11 +1128,11 @@ Tenzin.
 
 270
 00:16:34,531 --> 00:16:35,764
-I'm here, pema.
+Jestem tu, Pema.
 
 271
 00:16:35,766 --> 00:16:39,034
-Our new son.
+To nasz nowy syn.
 
 272
 00:16:39,036 --> 00:16:43,238
@@ -1199,46 +1140,45 @@ Our new son.
 
 273
 00:16:43,240 --> 00:16:45,206
-Hello.
+Cześć.
 
 274
 00:16:46,909 --> 00:16:49,244
-Come, meet your new brother.
+Poznajcie swojego nowego brata.
 
 275
 00:16:49,246 --> 00:16:52,314
-A brother?
-Well, it's about time.
+Brat?
+No nareszcie.
 
 276
 00:16:52,316 --> 00:16:54,983
-Welcome.
+Witamy.
 
 277
 00:16:54,985 --> 00:16:57,719
-I'm ikki, and this is jinora
-and meelo.
+Jestem Ikki, to jest Jinora i Meelo.
 
 278
 00:16:57,721 --> 00:16:59,421
-We have a super great family,
+Mamy wspaniałą rodzinę
 
 279
 00:16:59,423 --> 00:17:02,090
-and we're so happy
-that you're a part of it.
+i jesteśmy szczęśliwi, 
+że jesteś jej częścią.
 
 280
 00:17:02,092 --> 00:17:04,092
-What are you gonna name him?
+Jak go nazwiemy?
 
 281
 00:17:04,094 --> 00:17:05,093
-Can I pick?
+Mogę wybrać imię?
 
 282
 00:17:05,095 --> 00:17:08,296
-We already chose a name.
+Już wybraliśmy.
 
 283
 00:17:08,298 --> 00:17:09,664
@@ -1246,22 +1186,19 @@ Rohan.
 
 284
 00:17:15,738 --> 00:17:18,974
-I'm so sorry
-to interrupt, but...
+Nie chcę przeszkadać, ale
 
 285
 00:17:18,976 --> 00:17:20,809
-More airships are coming.
+zbliża się więcej statków.
 
 286
 00:17:20,811 --> 00:17:23,845
-Everything's not
-gonna be fine,
+Nie wszystko będzie dobrze,
 
 287
 00:17:23,847 --> 00:17:27,315
-r:
-Is it, daddy?
+prawda tato?
 
 288
 00:17:27,317 --> 00:17:31,152
@@ -1269,8 +1206,7 @@ Is it, daddy?
 
 289
 00:17:40,763 --> 00:17:43,064
-What do you want
-to do, Tenzin?
+Co chcesz zrobić, Tenzin?
 
 290
 00:17:43,066 --> 00:17:44,099
@@ -1278,101 +1214,93 @@ to do, Tenzin?
 
 291
 00:17:44,101 --> 00:17:46,134
-I need to protect my family
+Muszę chronić moją rodzinę.
 
 292
 00:17:46,136 --> 00:17:49,004
-and get them as far away
-from this conflict as possible.
+Muszę zabrać ją tak daleko z tego miejsca, 
+jak to tylko możliwe.
 
 293
 00:17:49,006 --> 00:17:51,973
-If amon got his hands
-on my children...
+Jeśli Amon dorwie moje dzieci...
 
 294
 00:17:51,975 --> 00:17:53,308
-I hate to even think of it.
+Nie chcę nawet o tym myśleć.
 
 295
 00:17:53,310 --> 00:17:55,543
-If you're leaving,
-then I'm going with you.
+Jeśli odchodzisz, idę z tobą.
 
 296
 00:17:55,545 --> 00:17:56,678
-- But...
-- No arguments.
+- Ale...
+- Bez gadania.
 
 297
 00:17:56,680 --> 00:17:59,347
-You and your family
-are the last airbenders.
+Twoja rodzina to ostatni magowie powietrza,
 
 298
 00:17:59,349 --> 00:18:00,548
-There's no way in the world
+jacy pozostali na świecie.
 
 299
 00:18:00,550 --> 00:18:02,450
-I'm letting amon
-take your bending away.
+Nie pozwolę Amonowi zabrać twoich zdolności.
 
 300
 00:18:02,452 --> 00:18:04,119
-Thank you, lin.
+Dziekuję, Lin.
 
 301
 00:18:04,121 --> 00:18:06,521
-Korra, I want you
-to leave this island
+Korra, chcę, żebyś też opóściła to miejsce
 
 302
 00:18:06,523 --> 00:18:08,223
-and hide for the time being.
+i ukryła się na jakiś czas.
 
 303
 00:18:08,225 --> 00:18:11,393
-- I'm not giving up.
-- I'm not asking you to.
+- Nie poddam się.
+- Nie pytam cię o to.
 
 304
 00:18:11,395 --> 00:18:13,228
-I've sent word
-to the united forces.
+Wysłałem wiadomość do Zjednoczonych Sił.
 
 305
 00:18:13,230 --> 00:18:14,662
-They will be here soon.
+Niedługo tu będą.
 
 306
 00:18:14,664 --> 00:18:17,465
-And once my family is safe,
-I will return.
+A kiedy moja rodzina 
+będzie bezpieczna, powrócę.
 
 307
 00:18:17,467 --> 00:18:20,802
-With the reinforcements, we can
-turn the tide in this war.
+Z posiłkami możemy zmienić bieg tej wojny.
 
 308
 00:18:20,804 --> 00:18:25,540
-What you're saying is
-we need to be patient.
+Więc chcesz powiedzieć, że musimy być cierpliwi.
 
 309
 00:18:25,542 --> 00:18:29,544
-You're learning well.
+Jesteś dobrą uczennicą.
 
 310
 00:18:35,184 --> 00:18:37,485
-Stay safe, Korra.
-You too.
+Powodzenia, Korra.
+Tobie też.
 
 311
 00:18:37,487 --> 00:18:39,921
-Tenzin, if we're leaving,
-we'd better do it now.
+Tenzin, jeśli mamy ruszać, 
+zróbmy to teraz.
 
 312
 00:18:43,025 --> 00:18:46,528
@@ -1393,20 +1321,20 @@ Oogi, yip, yip.
 
 316
 00:19:15,257 --> 00:19:18,093
-Go.
-We'll hold them off.
+Ruszajcie.
+Zatrzymamy ich.
 
 317
 00:19:18,095 --> 00:19:22,197
-Everyone, climb on.
+Wskakujcie.
 
 318
 00:19:22,199 --> 00:19:24,332
-Let's go, girl.
+Ruszaj.
 
 319
 00:19:37,980 --> 00:19:41,449
-Moustache guy!
+Wąsaty gość!
 
 320
 00:19:42,551 --> 00:19:44,986
@@ -1418,7 +1346,7 @@ Aah!
 
 322
 00:19:48,758 --> 00:19:50,625
-Nice one, naga.
+Niezły cios, Naga.
 
 323
 00:20:04,240 --> 00:20:08,276
@@ -1426,21 +1354,20 @@ Nice one, naga.
 
 324
 00:20:10,112 --> 00:20:12,580
-They're gaining on us!
+Doganiają nas!
 
 325
 00:20:12,582 --> 00:20:15,517
-Faster, oogi!
+Syzbciej, Oogi!
 [Oogi growls]
 
 326
 00:20:30,966 --> 00:20:33,868
-Whatever happens to me,
-don't turn back.
+Cokolwiek się stanie, nie zawracajcie.
 
 327
 00:20:33,870 --> 00:20:37,772
-Lin, what are you doing?
+Lin, co chcesz zrobić?
 
 328
 00:21:12,241 --> 00:21:16,544
@@ -1456,11 +1383,11 @@ Ugh! Aah!
 
 331
 00:21:39,168 --> 00:21:42,570
-That lady is my hero.
+Ta pani jest moim bohaterem.
 
 332
 00:21:42,572 --> 00:21:44,906
-Yes, she is.
+Tak, jest.
 
 333
 00:21:44,908 --> 00:21:47,475
@@ -1472,7 +1399,7 @@ Yes, she is.
 
 335
 00:21:54,417 --> 00:21:59,654
-Korra, we should get moving.
+Korra, musimy ruszać.
 
 336
 00:22:15,437 --> 00:22:19,774
@@ -1480,21 +1407,19 @@ Ugh!
 
 337
 00:22:19,776 --> 00:22:22,343
-Tell me where the Avatar is,
+Powiedz mi gdzie jest Avatar,
 
 338
 00:22:22,345 --> 00:22:24,212
-and I'll let you
-keep your bending.
+albo odbiorę twoją magię.
 
 339
 00:22:24,214 --> 00:22:27,382
-I won't tell you anything,
-you monster.
+Nic ci nie powiem, potworze.
 
 340
 00:22:27,384 --> 00:22:32,120
-Very well.
+Jak chcesz.
 
 341
 00:22:38,494 --> 00:22:41,562
@@ -1506,35 +1431,32 @@ Very well.
 
 343
 00:22:47,836 --> 00:22:50,271
-General, I just received
-a wire from the Avatar.
+Generale, otrzymałem wiadomość od Avatara.
 
 344
 00:22:50,273 --> 00:22:53,975
-She says amon and his forces
-have gained control of the city.
+Mówi, że Amon i jego siły 
+przejęły kontrolę nad miastem.
 
 345
 00:22:53,977 --> 00:22:57,345
-How do you want to respond?
+Co odpowiedzieć?
 
 346
 00:22:57,347 --> 00:22:59,847
-Tell her we will be arriving
-in three days time
+Powiedz, że przybędziemy za trzy dni.
 
 347
 00:22:59,849 --> 00:23:02,183
-and that I look forward
-to winning back Republic city.
+Oraz, że odbijemy Republic City.
 
 348
 00:23:02,185 --> 00:23:03,184
-Together.
+Razem.
 
 349
 00:23:03,186 --> 00:23:05,420
-As you wish, General Iroh.
+Jak sobie pan życzy, Generale Iroh.
 
 350
 00:23:09,545 --> 00:23:14,545
