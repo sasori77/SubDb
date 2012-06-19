@@ -1,10 +1,10 @@
-ï»¿1
+1
 00:00:17,470 --> 00:00:18,704
 Ziemia.
 
 2
 00:00:18,706 --> 00:00:20,505
-OgieÅ„.
+Ogieñ.
 
 3
 00:00:20,507 --> 00:00:22,341
@@ -16,21 +16,21 @@ Woda.
 
 5
 00:00:23,711 --> 00:00:28,580
-<i>Tylko Avatar moÅ¼e opanowaÄ‡
-wszystkie cztery Å¼ywioÅ‚y</i>
+<i>Tylko Avatar mo¿e opanowaæ
+wszystkie cztery ¿ywio³y</i>
 
 6
 00:00:28,582 --> 00:00:30,649
-<i>i zaprowadziÄ‡ rÃ³wnowagÄ™ na Å›wiecie.</i>
+<i>i zaprowadziæ równowagê na œwiecie.</i>
 
 7
 00:00:36,522 --> 00:00:39,157
-Zwolennicy Amona z dnia 
-na dzieÅ„ rosnÄ… w siÅ‚Ä™.
+Zwolennicy Amona z dnia
+na dzieñ rosn¹ w si³ê.
 
 8
 00:00:39,159 --> 00:00:40,959
-Wpierw zaatakowali stadion 
+Wpierw zaatakowali stadion
 mistrzostw Pro-bendingu.
 
 9
@@ -39,17 +39,17 @@ Potem odkryto,
 
 10
 00:00:42,029 --> 00:00:43,695
-Å¼e Hiroshi Sato
-wytwarzaÅ‚ dla EqualistÃ³w
+¿e Hiroshi Sato
+wytwarza³ dla Equalistów
 
 11
 00:00:43,697 --> 00:00:46,098
-broÅ„ i mechy.
+broñ i mechy.
 
 12
 00:00:46,100 --> 00:00:48,767
-Ostatnim aktem terroru Amona 
-byÅ‚o porawnie radnego Tarrloka,
+Ostatnim aktem terroru Amona
+by³o porawnie radnego Tarrloka,
 
 13
 00:00:48,769 --> 00:00:49,901
@@ -57,1409 +57,1179 @@ i zabranie jego magii.
 
 14
 00:00:49,903 --> 00:00:52,204
-ByÅ‚ teÅ¼ bliski schwytaniu Avatara.
+By³ te¿ bliski schwytaniu Avatara.
 
 15
 00:00:52,206 --> 00:00:55,574
-Wszyscy zastanowiajÄ… siÄ™, 
+Wszyscy zastanowiaj¹ siê,
 kiedy i gdzie Amon uderzy ponownie.
 
 16
-00:01:00,913 --> 00:01:03,982
-[Somber music]
+00:01:31,277 --> 00:01:33,278
+Tato, wróci³eœ do domu.
 
 17
-00:01:03,984 --> 00:01:05,584
-â™ª
+00:01:33,280 --> 00:01:36,081
+Czekaliœmy na ciebie.
+Z Korr¹ wszystko w porz¹dku?
 
 18
-00:01:31,277 --> 00:01:33,278
-Tato, wrÃ³ciÅ‚eÅ› do domu.
+00:01:36,083 --> 00:01:38,984
+Tak, wszystko z ni¹ dobrze, kochanie.
 
 19
-00:01:33,280 --> 00:01:36,081
-CzekaliÅ›my na ciebie.
-Z KorrÄ… wszystko w porzÄ…dku?
+00:01:38,986 --> 00:01:40,318
+Ba³am siê o ni¹.
 
 20
-00:01:36,083 --> 00:01:38,984
-Tak, wszystko z niÄ… dobrze, kochanie.
+00:01:40,320 --> 00:01:42,054
+Myœla³am, ¿e ju¿ nie wróci.
 
 21
-00:01:38,986 --> 00:01:40,318
-BaÅ‚am siÄ™ o niÄ….
-
-22
-00:01:40,320 --> 00:01:42,054
-MyÅ›laÅ‚am, Å¼e juÅ¼ nie wrÃ³ci.
-
-23
 00:01:42,056 --> 00:01:44,056
 Przykro mi z tego powodu,
 
-24
+22
 00:01:44,058 --> 00:01:46,425
-ale wszystko bedzie juÅ¼ dobrze.
+ale wszystko bedzie ju¿ dobrze.
 
-25
+23
 00:01:46,427 --> 00:01:49,394
-ObiecujÄ™.
+Obiecujê.
 
-26
+24
 00:01:49,396 --> 00:01:53,265
 Mmm.
 
-27
+25
 00:01:53,267 --> 00:01:55,767
 Mmm.
 
-28
+26
 00:01:55,769 --> 00:01:58,236
-Jedzenie smakuje wyÅ›mienicie, Pema.
+Jedzenie smakuje wyœmienicie, Pema.
+
+27
+00:01:58,238 --> 00:02:00,105
+Powoli zaczynam wracaæ do siebie.
+
+28
+00:02:00,107 --> 00:02:03,508
+Bardzo siê cieszymy, ¿e uda³o ci siê wróciæ.
 
 29
-00:01:58,238 --> 00:02:00,105
-Powoli zaczynam wracaÄ‡ do siebie.
+00:02:03,510 --> 00:02:04,776
+Pozwól, ¿e pomogê.
 
 30
-00:02:00,107 --> 00:02:03,508
-Bardzo siÄ™ cieszymy, Å¼e udaÅ‚o ci siÄ™ wrÃ³ciÄ‡. 
+00:02:04,778 --> 00:02:06,978
+Korra, wiem,
+¿e to dla ciebie trudne,
 
 31
-00:02:03,510 --> 00:02:04,776
-PozwÃ³l, Å¼e pomogÄ™.
+00:02:06,980 --> 00:02:08,747
+ale muszê wiedzieæ o wszystkim,
+co siê wydarzy³o.
 
 32
-00:02:04,778 --> 00:02:06,978
-Korra, wiem, 
-Å¼e to dla ciebie trudne,
+00:02:08,749 --> 00:02:14,019
+Có¿, po pierwsze, Tarrlok nie by³ tym,
+za kogo siê podawa³.
 
 33
-00:02:06,980 --> 00:02:08,747
-ale muszÄ™ wiedzieÄ‡ o wszystkim, 
-co siÄ™ wydarzyÅ‚o.
-
-34
-00:02:08,749 --> 00:02:14,019
-CÃ³Å¼, po pierwsze, Tarrlok nie byÅ‚ tym, 
-za kogo siÄ™ podawaÅ‚.
-
-35
 00:02:14,021 --> 00:02:15,220
 Tarrlok to syn Yakone'a.
 
-36
+34
 00:02:15,222 --> 00:02:18,090
 To ma sens.
 
-37
+35
 00:02:18,092 --> 00:02:20,125
-DziÄ™ki temu Terrlok 
-mÃ³gÅ‚ uÅ¼ywaÄ‡ magii krwi
+Dziêki temu Terrlok
+móg³ u¿ywaæ magii krwi
+
+36
+00:02:20,127 --> 00:02:21,159
+bez pe³ni ksiê¿yca.
+
+37
+00:02:21,161 --> 00:02:22,394
+Jak uda³o ci siê uciec?
 
 38
-00:02:20,127 --> 00:02:21,159
-bez peÅ‚ni ksiÄ™Å¼yca.
-
-39
-00:02:21,161 --> 00:02:22,394
-Jak udaÅ‚o ci siÄ™ uciec?
-
-40
 00:02:22,396 --> 00:02:23,929
 I gdzie jest Tarrlok?
 
-41
+39
 00:02:23,931 --> 00:02:27,065
-Amon schwytaÅ‚ go i odebraÅ‚ mu magiÄ™.
+Amon schwyta³ go i odebra³ mu magiê.
 
-42
+40
 00:02:27,067 --> 00:02:28,266
 - Co?
 - Tak.
 
-43
+41
 00:02:28,268 --> 00:02:30,335
-ZjawiÅ‚ siÄ™ znikÄ…d.
+Zjawi³ siê znik¹d.
+
+42
+00:02:30,337 --> 00:02:31,603
+Prawie dorwa³ i mnie.
+
+43
+00:02:31,605 --> 00:02:34,172
+To bardzo niepokoj¹ce wieœci.
 
 44
-00:02:30,337 --> 00:02:31,603
-Prawie dorwaÅ‚ i mnie.
+00:02:34,174 --> 00:02:36,174
+Amon jest coraz bardziej zuchwa³y.
 
 45
-00:02:31,605 --> 00:02:34,172
-To bardzo niepokojÄ…ce wieÅ›ci.
+00:02:36,176 --> 00:02:39,511
+Porwa³ radnego
+i prawie schwyta³ Avatara...
 
 46
-00:02:34,174 --> 00:02:36,174
-Amon jest coraz bardziej zuchwaÅ‚y.
+00:02:39,513 --> 00:02:44,716
+Obawiam siê, ¿e Amon nied³ugo poka¿e,
+na co go naprawdê staæ.
 
 47
-00:02:36,176 --> 00:02:39,511
-PorwaÅ‚ radnego 
-i prawie schwytaÅ‚ Avatara...
-
-48
-00:02:39,513 --> 00:02:44,716
-Obawiam siÄ™, Å¼e Amon niedÅ‚ugo pokaÅ¼e, 
-na co go naprawdÄ™ staÄ‡.
-
-49
-00:02:46,819 --> 00:02:48,286
-[Crying out]
-
-50
 00:02:48,288 --> 00:02:49,521
 Pema, wszystko w porzadku?
 
-51
+48
 00:02:49,523 --> 00:02:52,624
-Dziecko kopnÄ™Å‚o 
+Dziecko kopnê³o
 bardzo mocno, to wszystko.
 
-52
+49
 00:02:52,626 --> 00:02:54,826
 Wszystko dobrze.
-ZawoÅ‚aÄ‡ Tenzina?
+Zawo³aæ Tenzina?
+
+50
+00:02:54,828 --> 00:02:57,596
+Nie ma potrzeby go martwiæ.
+Nic siê nie sta³o.
+
+51
+00:02:57,598 --> 00:02:59,731
+Mogê prosiæ gor¹c¹ wodê?
+
+52
+00:02:59,733 --> 00:03:01,433
+Korra chce wiêcej herbaty.
 
 53
-00:02:54,828 --> 00:02:57,596
-Nie ma potrzeby go martwiÄ‡.
-Nic siÄ™ nie staÅ‚o.
+00:03:01,435 --> 00:03:03,735
+Jesteœ magiem ognia.
+Podgrzej j¹ sam.
 
 54
-00:02:57,598 --> 00:02:59,731
-MogÄ™ prosiÄ‡ gorÄ…cÄ… wodÄ™?
+00:03:08,074 --> 00:03:12,244
+Wychodzê, na wypadek,
+gdybyœcie obydwoje chcieli porozmawiaæ.
 
 55
-00:02:59,733 --> 00:03:01,433
-Korra chce wiÄ™cej herbaty.
+00:03:15,281 --> 00:03:17,282
+O czym mielibyœmy porozmawiaæ?
 
 56
-00:03:01,435 --> 00:03:03,735
-JesteÅ› magiem ognia.
-Podgrzej jÄ… sam.
+00:03:17,284 --> 00:03:21,119
+Zauwa¿y³am, jak zajmujesz siê Korr¹.
 
 57
-00:03:08,074 --> 00:03:12,244
-WychodzÄ™, na wypadek, 
-gdybyÅ›cie obydwoje chcieli porozmawiaÄ‡.
+00:03:21,121 --> 00:03:23,288
+Jak zachowywa³eœ siê, gdy zaginê³a.
 
 58
-00:03:15,281 --> 00:03:17,282
-O czym mielibyÅ›my porozmawiaÄ‡?
+00:03:23,290 --> 00:03:24,656
+Czujesz coœ do niej, prawda?
 
 59
-00:03:17,284 --> 00:03:21,119
-ZauwaÅ¼yÅ‚am, jak zajmujesz siÄ™ KorrÄ….
-
-60
-00:03:21,121 --> 00:03:23,288
-Jak zachowywaÅ‚eÅ› siÄ™, gdy zaginÄ™Å‚a.
-
-61
-00:03:23,290 --> 00:03:24,656
-Czujesz coÅ› do niej, prawda?
-
-62
 00:03:24,658 --> 00:03:26,691
 Co?
 Nie.
 
-63
+60
 00:03:26,693 --> 00:03:28,994
-ZostaÅ‚a uprowadzona 
+Zosta³a uprowadzona
 przez szalonego maga krwi.
 
-64
+61
 00:03:28,996 --> 00:03:30,195
-Jak wedÅ‚ug ciebie powinienem siÄ™ zachowywaÄ‡?
+Jak wed³ug ciebie powinienem siê zachowywaæ?
+
+62
+00:03:30,197 --> 00:03:32,130
+Lubiê Korrê.
+
+63
+00:03:32,132 --> 00:03:33,765
+Ale ty ukrywa³eœ ca³¹ prawdê
+
+64
+00:03:33,767 --> 00:03:34,866
+przez ca³y ten czas przede mn¹.
 
 65
-00:03:30,197 --> 00:03:32,130
-LubiÄ™ KorrÄ™.
-
-66
-00:03:32,132 --> 00:03:33,765
-Ale ty ukrywaÅ‚eÅ› caÅ‚Ä… prawdÄ™
-
-67
-00:03:33,767 --> 00:03:34,866
-przez caÅ‚y ten czas przede mnÄ….
-
-68
 00:03:34,868 --> 00:03:37,369
-PrawdÄ™?
+Prawdê?
 O czym?
 
-69
+66
 00:03:37,371 --> 00:03:39,137
-Chcesz, Å¼ebym to powiedziaÅ‚a?
+Chcesz, ¿ebym to powiedzia³a?
 
-70
+67
 00:03:39,139 --> 00:03:41,640
-Tak, poniewaÅ¼ nie wiem, 
-o czym mÃ³wisz.
+Tak, poniewa¿ nie wiem,
+o czym mówisz.
 
-71
+68
 00:03:41,642 --> 00:03:42,874
-PocaÅ‚unek, Mako.
+Poca³unek, Mako.
 
-72
+69
 00:03:42,876 --> 00:03:44,209
 Wiem o tym.
 
-73
+70
 00:03:44,211 --> 00:03:48,046
-CÃ³Å¼...
+Có¿...
+
+71
+00:03:48,048 --> 00:03:49,648
+Bolin ci powiedzia³, prawda?
+
+72
+00:03:49,650 --> 00:03:51,983
+Nie wiñ swojego brata za to,
+co sam zrobi³eœ.
+
+73
+00:03:51,985 --> 00:03:54,019
+Czujesz coœ do Korry, czy nie?
 
 74
-00:03:48,048 --> 00:03:49,648
-Bolin ci powiedziaÅ‚, prawda?
+00:03:54,021 --> 00:03:56,621
+S³uchaj, dziej¹ siê teraz dziwne rzeczy.
 
 75
-00:03:49,650 --> 00:03:51,983
-Nie wiÅ„ swojego brata za to, 
-co sam zrobiÅ‚eÅ›.
+00:03:56,623 --> 00:03:58,957
+Moglibyœmy omówiæ problemy
+naszego zwi¹zku kiedy indziej?
 
 76
-00:03:51,985 --> 00:03:54,019
-Czujesz coÅ› do Korry, czy nie?
+00:03:58,959 --> 00:04:00,458
+Wtedy mo¿e nie byæ ju¿ zwi¹zku,
 
 77
-00:03:54,021 --> 00:03:56,621
-SÅ‚uchaj, dziejÄ… siÄ™ teraz dziwne rzeczy.
+00:04:00,460 --> 00:04:01,860
+którego problemy byœmy mogli omówiæ.
 
 78
-00:03:56,623 --> 00:03:58,957
-MoglibyÅ›my omÃ³wiÄ‡ problemy 
-naszego zwiÄ…zku kiedy indziej?
-
-79
-00:03:58,959 --> 00:04:00,458
-Wtedy moÅ¼e nie byÄ‡ juÅ¼ zwiÄ…zku,
-
-80
-00:04:00,460 --> 00:04:01,860
-ktÃ³rego problemy byÅ›my mogli omÃ³wiÄ‡.
-
-81
 00:04:01,862 --> 00:04:03,428
 Asami.
 
-82
-00:04:03,430 --> 00:04:05,497
-[Sighs]
-
-83
+79
 00:04:05,499 --> 00:04:09,267
-Lin, um, m-mÃ³gÅ‚bym ciÄ™ prosiÄ‡ o przysÅ‚ugÄ™?
+Lin, um, m-móg³bym ciê prosiæ o przys³ugê?
 
-84
+80
 00:04:09,269 --> 00:04:11,503
-To dla mnie strasznie waÅ¼ne,
+To dla mnie strasznie wa¿ne,
 
-85
+81
 00:04:11,505 --> 00:04:15,507
-ale ostrzegam, moÅ¼e ciÄ™ to 
-postawiÄ‡ w niezrÄ™cznej sytuacji,
+ale ostrzegam, mo¿e ciê to
+postawiæ w niezrêcznej sytuacji,
 
-86
+82
 00:04:15,509 --> 00:04:17,342
 ponadto...
 Powiedz to wreszcie.
 
-87
+83
 00:04:17,344 --> 00:04:19,511
-ZostaÅ‚abyÅ› tutaj 
-i zajÄ™Å‚abyÅ› siÄ™ dzieÄ‡mi i PemÄ…,
+Zosta³abyœ tutaj
+i zajê³abyœ siê dzieæmi i Pem¹,
+
+84
+00:04:19,513 --> 00:04:21,079
+dopóki nie wróci³bym z posiedzenia rady?
+
+85
+00:04:21,081 --> 00:04:23,014
+Maj¹c na uwadze wszystko to, co siê wydarzy³o,
+
+86
+00:04:23,016 --> 00:04:25,450
+chcê, by moja rodzina by³a bezpieczna.
+
+87
+00:04:25,452 --> 00:04:29,287
+Oczywiœcie, ¿e ci pomogê, stary przyjacielu.
 
 88
-00:04:19,513 --> 00:04:21,079
-dopÃ³ki nie wrÃ³ciÅ‚bym z posiedzenia rady?
+00:04:29,289 --> 00:04:31,389
+Nie s¹dzi³am, ¿e was tutaj spotkam.
 
 89
-00:04:21,081 --> 00:04:23,014
-MajÄ…c na uwadze wszystko to, co siÄ™ wydarzyÅ‚o,
-
-90
-00:04:23,016 --> 00:04:25,450
-chcÄ™, by moja rodzina byÅ‚a bezpieczna.
-
-91
-00:04:25,452 --> 00:04:29,287
-OczywiÅ›cie, Å¼e ci pomogÄ™, stary przyjacielu.
-
-92
-00:04:29,289 --> 00:04:31,389
-Nie sÄ…dziÅ‚am, Å¼e was tutaj spotkam.
-
-93
 00:04:31,391 --> 00:04:33,725
 Pema!
 Uh, tak, tak.
 
-94
+90
 00:04:33,727 --> 00:04:35,493
-Lin zgodziÅ‚a siÄ™ nam pomÃ³c
+Lin zgodzi³a siê nam pomóc
+
+91
+00:04:35,495 --> 00:04:37,128
+i chroniæ was, kiedy mnie tutaj nie bêdzie.
+
+92
+00:04:37,130 --> 00:04:38,330
+Dziêkujê.
+
+93
+00:04:38,332 --> 00:04:39,931
+Przyda siê dodatkowa para r¹k.
+
+94
+00:04:40,934 --> 00:04:42,067
+Mog³abyœ go wyk¹paæ?
 
 95
-00:04:35,495 --> 00:04:37,128
-i chroniÄ‡ was, kiedy mnie tutaj nie bÄ™dzie.
-
-96
-00:04:37,130 --> 00:04:38,330
-DziÄ™kujÄ™.
-
-97
-00:04:38,332 --> 00:04:39,931
-Przyda siÄ™ dodatkowa para rÄ…k.
-
-98
-00:04:39,933 --> 00:04:40,932
-[Giggling]
-
-99
-00:04:40,934 --> 00:04:42,067
-MogÅ‚abyÅ› go wykÄ…paÄ‡?
-
-100
 00:04:42,069 --> 00:04:45,270
 Jest ubrudzony.
-[Laughing]
 
-101
+96
 00:04:45,272 --> 00:04:47,672
-Nie na to siÄ™ umawialiÅ›my.
+Nie na to siê umawialiœmy.
 
-102
+97
 00:04:47,674 --> 00:04:48,907
-DziÄ™kujÄ™, Lin.
+Dziêkujê, Lin.
 
-103
+98
 00:04:48,909 --> 00:04:53,111
 Oogi, yip, yip.
-[Oogi growling]
 
-104
+99
 00:04:55,348 --> 00:04:58,183
-MuszÄ™ do Å‚azienki.
+Muszê do ³azienki.
 Nie jest dobrze.
 
-105
+100
 00:04:58,185 --> 00:04:59,651
 Ooh! Ah!
 
-106
+101
 00:04:59,653 --> 00:05:01,753
 Ugh!
 
-107
+102
 00:05:07,260 --> 00:05:08,894
-WidziaÅ‚eÅ› moje klucze?
+Widzia³eœ moje klucze?
 
-108
+103
 00:05:08,896 --> 00:05:10,729
-Nie mogÄ™ ich nigdzie znaleÅºÄ‡.
+Nie mogê ich nigdzie znaleŸæ.
 
-109
+104
 00:05:10,731 --> 00:05:12,364
 Nie, kochanie.
 
-110
+105
 00:05:12,366 --> 00:05:14,699
-- Oh, znalazÅ‚am je.
+- Oh, znalaz³am je.
 - To dobrze, kochanie.
 
-111
+106
 00:05:14,701 --> 00:05:16,067
 Nie czekaj na mnie.
 
-112
+107
 00:05:16,069 --> 00:05:18,904
-Posiedzenie rady prawdopodobnie 
-przeciÄ…gnie siÄ™ do pÃ³Åºnej nocy.
+Posiedzenie rady prawdopodobnie
+przeci¹gnie siê do póŸnej nocy.
 
-113
-00:05:18,906 --> 00:05:19,938
-[Knocking]
-
-114
+108
 00:05:19,940 --> 00:05:22,073
 Drzwi, kochanie.
 
-115
+109
 00:05:24,777 --> 00:05:27,245
-PrzyszliÅ›my rozprawiÄ‡ siÄ™ z szczuropajÄ…kami.
+Przyszliœmy rozprawiæ siê z szczuropaj¹kami.
 
-116
+110
 00:05:27,247 --> 00:05:29,147
-Nie wzywaÅ‚am was.
+Nie wzywa³am was.
 
-117
+111
 00:05:33,552 --> 00:05:34,552
 Kochanie?
 
-118
-00:05:34,554 --> 00:05:38,990
-[Growling]
-
-119
-00:05:57,710 --> 00:05:59,611
-[Grunts]
-
-120
+112
 00:06:08,454 --> 00:06:09,654
 Ugh!
 
-121
+113
 00:06:10,923 --> 00:06:13,825
 - Aah!
 - Oof!
 
-122
+114
 00:06:16,395 --> 00:06:18,930
 Aah!
 
-123
+115
 00:06:18,932 --> 00:06:20,932
-CaÅ‚e szczÄ™Å›cie, Å¼e nic ci nie jest.
+Ca³e szczêœcie, ¿e nic ci nie jest.
 
-124
+116
 00:06:20,934 --> 00:06:23,234
-Wszystko dobrze z pozostaÅ‚ymi czÅ‚onkami rady?
+Wszystko dobrze z pozosta³ymi cz³onkami rady?
 
-125
+117
 00:06:23,236 --> 00:06:24,602
-Obawiam siÄ™, Å¼e nie.
+Obawiam siê, ¿e nie.
 
-126
+118
 00:06:24,604 --> 00:06:26,771
-DzwoniÅ‚ Naczelnik Saikhan.
+Dzwoni³ Naczelnik Saikhan.
 
-127
+119
 00:06:26,773 --> 00:06:27,772
 Wszyscy zostali porwani.
 
-128
+120
 00:06:27,774 --> 00:06:30,175
-To nie moÅ¼e byÄ‡ prawda.
+To nie mo¿e byæ prawda.
 
-129
+121
 00:06:30,177 --> 00:06:32,377
-Teraz to ty 
+Teraz to ty
 
-130
+122
 00:06:32,379 --> 00:06:35,447
 przewodzisz Republic City.
 
-131
-00:06:35,449 --> 00:06:37,515
-[Explosion]
-
-132
-00:06:43,990 --> 00:06:46,992
-[Dramatic music]
-
-133
+123
 00:06:46,994 --> 00:06:49,861
-To naprawdÄ™ koszmarny dzieÅ„!
+To naprawdê koszmarny dzieñ!
 
-134
+124
 00:06:53,265 --> 00:06:58,336
 Dobra, dzieciaki.
-Do Å›rodka.
+Do œrodka.
 
-135
+125
 00:06:58,338 --> 00:07:00,338
-SÅ‚yszeliÅ›my eksplozje.
-Co siÄ™ dzieje?
+S³yszeliœmy eksplozje.
+Co siê dzieje?
 
-136
+126
 00:07:00,340 --> 00:07:02,073
 Republic City jest atakowane.
 
-137
+127
 00:07:14,520 --> 00:07:17,822
-Tak dÅ‚ugo marzyÅ‚em o tym dniu.
+Tak d³ugo marzy³em o tym dniu.
 
-138
+128
 00:07:17,824 --> 00:07:18,890
 Tak.
 
-139
+129
 00:07:18,892 --> 00:07:21,059
-NadszedÅ‚ czas, by EqualiÅ›ci
+Nadszed³ czas, by Equaliœci
 
-140
+130
 00:07:21,061 --> 00:07:25,096
 przejeli Republic City.
 
-141
-00:07:33,597 --> 00:07:35,965
-[Sirens blaring]
-
-142
+131
 00:07:39,402 --> 00:07:41,203
-MÃ³wiÅ‚aÅ›, Å¼e gdzie 
-zaparkowaÅ‚aÅ› samochÃ³d?
+Mówi³aœ, ¿e gdzie
+zaparkowa³aœ samochód?
 
-143
+132
 00:07:41,205 --> 00:07:43,872
-Jest gdzieÅ› tutaj.
+Jest gdzieœ tutaj.
 
-144
+133
 00:07:43,874 --> 00:07:48,510
 Tu jest.
 
-145
+134
 00:07:48,512 --> 00:07:50,613
-Wow, niezÅ‚e parkowanie.
+Wow, niez³e parkowanie.
 
-146
+135
 00:07:50,615 --> 00:07:54,316
-Hej, zostaliÅ›cie aresztowani 
-i zostawiliÅ›cie mnie samÄ… z tym samochodem
+Hej, zostaliœcie aresztowani
+i zostawiliœcie mnie sam¹ z tym samochodem
 
-147
+136
 00:07:54,318 --> 00:07:56,819
-MÃ³wiÅ‚am wyraÅºnie, nie potrafiÄ™ prowadziÄ‡.
+Mówi³am wyraŸnie, nie potrafiê prowadziæ.
 
-148
+137
 00:07:56,821 --> 00:07:59,855
 Rozumiemy to, dobra robota.
 
-149
+138
 00:07:59,857 --> 00:08:03,826
-Ale jak opÅ‚acimy te wszystkie 
+Ale jak op³acimy te wszystkie
 mandaty za parkowanie?
 
-150
-00:08:03,828 --> 00:08:05,527
-[Gasps]
-
-151
+139
 00:08:05,529 --> 00:08:07,496
 Miasto jest atakowane.
 
-152
+140
 00:08:07,498 --> 00:08:09,732
-Policja ma waÅ¼niejsze rzeczy do roboty.
+Policja ma wa¿niejsze rzeczy do roboty.
 
-153
+141
 00:08:12,435 --> 00:08:14,870
-To siÄ™ mi przyda.
+To siê mi przyda.
 
-154
+142
 00:08:17,607 --> 00:08:21,744
-Dlaczego nie usiÄ…dziesz 
-z tyÅ‚u razem z KorrÄ…?
+Dlaczego nie usi¹dziesz
+z ty³u razem z Korr¹?
 
-155
+143
 00:08:21,746 --> 00:08:25,114
-MyÅ›lÄ™, Å¼e tak zrobiÄ™.
+Myœlê, ¿e tak zrobiê.
 
-156
+144
 00:08:28,718 --> 00:08:31,086
 - Wszystko dobrze?
 - Tak.
 
-157
+145
 00:08:31,088 --> 00:08:32,121
 Wspaniale.
 
-158
-00:08:32,123 --> 00:08:33,122
-[Tires screeching]
-
-159
+146
 00:08:33,124 --> 00:08:36,258
-SamochÃ³d!
-NieÅºle.
+Samochód!
+NieŸle.
 
-160
-00:08:36,260 --> 00:08:40,195
-[Sirens blaring]
-
-161
+147
 00:08:40,197 --> 00:08:42,631
 Naczelniku, jednostka powietrzna
-numer siedem zostaÅ‚a zaatakowana
+numer siedem zosta³a zaatakowana
 
-162
+148
 00:08:42,633 --> 00:08:43,999
-przez statek EqualistÃ³w.
+przez statek Equalistów.
 
-163
+149
 00:08:44,001 --> 00:08:45,334
-Rozbili siÄ™ na wybrzeÅ¼u.
+Rozbili siê na wybrze¿u.
 
-164
+150
 00:08:45,336 --> 00:08:46,669
-WysÅ‚aÅ› rzecznÄ… jednostkÄ™ ratunkowÄ….
+Wys³aœ rzeczn¹ jednostkê ratunkow¹.
 
-165
+151
 00:08:46,671 --> 00:08:50,139
-Wszystkie Å‚odzie ratunkowe zostaÅ‚y zsabotowane.
+Wszystkie ³odzie ratunkowe zosta³y zsabotowane.
 
-166
+152
 00:08:50,141 --> 00:08:51,540
 Co?
 
-167
+153
 00:08:51,542 --> 00:08:53,008
 Naczelnik Saikhan.
 
-168
+154
 00:08:53,010 --> 00:08:54,843
-Tenzin, cieszÄ™ siÄ™, Å¼e ciÄ™ widzÄ™.
+Tenzin, cieszê siê, ¿e ciê widzê.
 
-169
+155
 00:08:54,845 --> 00:08:56,745
-BaÅ‚em siÄ™, Å¼e zÅ‚apali i ciebie.
+Ba³em siê, ¿e z³apali i ciebie.
 
-170
+156
 00:08:56,747 --> 00:08:58,180
-Jestem jedynym czÅ‚onkiem rady, jaki pozostaÅ‚.
+Jestem jedynym cz³onkiem rady, jaki pozosta³.
 
-171
+157
 00:08:58,182 --> 00:08:59,315
-Jak wyglÄ…da sytuacja?
+Jak wygl¹da sytuacja?
 
-172
+158
 00:08:59,317 --> 00:09:01,350
-Amon rozpoczÄ…Å‚ jednoczesny atak
+Amon rozpocz¹³ jednoczesny atak
 
-173
+159
 00:09:01,352 --> 00:09:02,484
 na wszystkie dzielnice.
 
-174
+160
 00:09:02,486 --> 00:09:03,852
-Policja prÃ³buje odzyskaÄ‡ kontrolÄ™,
+Policja próbuje odzyskaæ kontrolê,
 
-175
+161
 00:09:03,854 --> 00:09:06,889
-ale nasze siÅ‚y sÄ… zbyt rozproszone.
+ale nasze si³y s¹ zbyt rozproszone.
 
-176
+162
 00:09:06,891 --> 00:09:09,758
-- MuszÄ™ wysÅ‚aÅ› telegram.
+- Muszê wys³aœ telegram.
 - Do kogo?
 
-177
+163
 00:09:09,760 --> 00:09:12,094
-Do generaÅ‚a Zjednoczonych SiÅ‚.
+Do genera³a Zjednoczonych Si³.
 
-178
-00:09:18,868 --> 00:09:21,837
-[Coughing]
-
-179
+164
 00:09:21,839 --> 00:09:24,506
-Telegram zostaÅ‚ wysÅ‚any.
+Telegram zosta³ wys³any.
 
-180
+165
 00:09:24,508 --> 00:09:26,141
-Linie telefoniczne padÅ‚y.
+Linie telefoniczne pad³y.
 
-181
-00:09:26,143 --> 00:09:28,944
-[Alarm sounding]
-
-182
-00:09:28,946 --> 00:09:33,882
-[Alarm dying out]
-[Gasps]
-
-183
+166
 00:09:33,884 --> 00:09:35,918
-Åap.
+£ap.
 
-184
+167
 00:09:38,855 --> 00:09:40,956
 Saikhan, wentylacja!
 
-185
-00:09:42,525 --> 00:09:46,228
-[Coughing]
-
-186
+168
 00:09:46,230 --> 00:09:48,063
-Musimy stÄ…d natychmiast wyjÅ›Ä‡.
+Musimy st¹d natychmiast wyjœæ.
 
-187
+169
 00:09:48,065 --> 00:09:50,766
-Trzymajcie siÄ™ blisko mnie.
+Trzymajcie siê blisko mnie.
 
-188
-00:10:03,346 --> 00:10:05,681
-[All gasp]
-
-189
+170
 00:10:05,683 --> 00:10:08,450
 Tylko nie te mechy.
 
-190
+171
 00:10:11,521 --> 00:10:12,521
 - Aah!
 - Aah!
 
-191
+172
 00:10:12,523 --> 00:10:14,723
 - Oof!
 - Ugh!
 
-192
-00:10:16,059 --> 00:10:19,428
-[Grunting]
-
-193
+173
 00:10:19,430 --> 00:10:22,064
 Aah!
 
-194
-00:10:22,066 --> 00:10:24,133
-[Straining]
-
-195
-00:10:42,952 --> 00:10:47,222
-[Grunting]
-
-196
-00:10:47,224 --> 00:10:49,124
-[Groans]
-
-197
+174
 00:10:49,126 --> 00:10:52,194
 Saikhan, nie.
 
-198
-00:11:01,404 --> 00:11:02,838
-[All groaning]
-
-199
-00:11:02,840 --> 00:11:07,743
-[Groans]
-
-200
+175
 00:11:18,888 --> 00:11:20,889
 Skacz!
 
-201
+176
 00:11:32,101 --> 00:11:34,903
 Ugh!
 
-202
+177
 00:11:34,905 --> 00:11:37,039
 Aah!
 
-203
-00:11:55,892 --> 00:11:57,826
-[Grunts]
-
-204
+178
 00:12:02,866 --> 00:12:05,334
 Aah!
 
-205
+179
 00:12:09,539 --> 00:12:11,874
 Ugh!
 
-206
+180
 00:12:11,876 --> 00:12:13,942
 Aah!
 
-207
+181
 00:12:13,944 --> 00:12:17,179
 Oh!
 
-208
-00:12:17,181 --> 00:12:19,314
-[Fighting cry]
-
-209
+182
 00:12:19,316 --> 00:12:21,717
-DziÄ™kujÄ™.
+Dziêkujê.
 
-210
+183
 00:12:36,566 --> 00:12:39,001
-Tenzin znowu uciekÅ‚.
+Tenzin znowu uciek³.
 
-211
+184
 00:12:39,003 --> 00:12:41,270
-Nie mogÄ™ patrzeÄ‡, jak Asami
+Nie mogê patrzeæ, jak Asami
 
-212
+185
 00:12:41,272 --> 00:12:43,472
 walczy razem z tymi magami.
 
-213
+186
 00:12:43,474 --> 00:12:45,908
-WkrÃ³tce go zÅ‚apiemy,
+Wkrótce go z³apiemy,
 
-214
+187
 00:12:45,910 --> 00:12:47,876
-a ty odzyskasz swojÄ… cÃ³rkÄ™.
+a ty odzyskasz swoj¹ córkê.
 
-215
+188
 00:12:50,547 --> 00:12:51,847
 Wszystko dobrze?
 
-216
+189
 00:12:51,849 --> 00:12:54,049
 Tak.
-DziÄ™kujÄ™, dzieciaki.
+Dziêkujê, dzieciaki.
 
-217
+190
 00:12:54,051 --> 00:12:55,217
 Jeszcze chwila
 
-218
+191
 00:12:55,219 --> 00:12:56,652
-i byÅ‚bym w drodze do Amona.
+i by³bym w drodze do Amona.
 
-219
+192
 00:12:56,654 --> 00:12:58,587
 Uh, patrzcie.
 
-220
+193
 00:13:01,224 --> 00:13:02,991
 Oh, nie.
 
-221
+194
 00:13:36,593 --> 00:13:39,761
-Wszyscy do Å›rodka i zachowaÄ‡ spokÃ³j.
+Wszyscy do œrodka i zachowaæ spokój.
 
-222
+195
 00:13:39,763 --> 00:13:42,331
 Aah!
 
-223
+196
 00:13:42,333 --> 00:13:43,532
 Zbierz je razem, Pema.
 
-224
+197
 00:13:43,534 --> 00:13:44,833
-Czy nie mÃ³wiÅ‚am "zachowaÄ‡ spokÃ³j"?
+Czy nie mówi³am "zachowaæ spokój"?
 
-225
+198
 00:13:44,835 --> 00:13:46,735
-Mamo, co siÄ™ dzieje?
+Mamo, co siê dzieje?
 
-226
+199
 00:13:46,737 --> 00:13:49,738
-Dziecko chce wyjÅ›Ä‡ na Å›wiat!
+Dziecko chce wyjœæ na œwiat!
 
-227
+200
 00:13:49,740 --> 00:13:51,139
 O, nie.
 
-228
+201
 00:13:51,141 --> 00:13:52,574
 Nie teraz!
 
-229
-00:13:52,576 --> 00:13:55,978
-[Moaning]
-
-230
-00:14:05,850 --> 00:14:07,450
-â™ª
-
-231
-00:14:37,748 --> 00:14:41,584
-[Grunting]
-
-232
-00:14:44,188 --> 00:14:50,126
-[Grunting]
-
-233
+202
 00:14:55,364 --> 00:14:56,832
-Gdzie sÄ… dzieci?
+Gdzie s¹ dzieci?
 
-234
+203
 00:14:56,834 --> 00:14:58,066
-Nie martw siÄ™.
+Nie martw siê.
 
-235
+204
 00:14:58,068 --> 00:15:00,035
-SÄ… w innym pokoju, caÅ‚kowicie bezpieczne.
+S¹ w innym pokoju, ca³kowicie bezpieczne.
 
-236
+205
 00:15:04,073 --> 00:15:05,273
 Aah!
 
-237
-00:15:05,275 --> 00:15:09,778
-[Groans]
-
-238
+206
 00:15:09,780 --> 00:15:12,681
-OdsuÅ„ siÄ™ od byÅ‚ej dziewczyny mojego taty!
+Odsuñ siê od by³ej dziewczyny mojego taty!
 
-239
+207
 00:15:14,817 --> 00:15:16,785
 Ugh! Oof!
 
-240
+208
 00:15:16,787 --> 00:15:18,453
 Jinora!
 
-241
+209
 00:15:18,455 --> 00:15:20,021
-Nie powinno ciÄ™ tu byÄ‡!
+Nie powinno ciê tu byæ!
 
-242
-00:15:20,023 --> 00:15:21,656
-[Grunting]
-
-243
+210
 00:15:21,658 --> 00:15:23,625
-ZjeÅ¼dÅ¼aÄ‡ z naszej wyspy!
+Zje¿d¿aæ z naszej wyspy!
 
-244
-00:15:23,627 --> 00:15:25,961
-[Grunting]
-
-245
+211
 00:15:25,963 --> 00:15:29,497
-Dziewczyny, musicie wrÃ³ciÄ‡ do Å›rodka, natychmiast.
+Dziewczyny, musicie wróciæ do œrodka, natychmiast.
 
-246
+212
 00:15:29,499 --> 00:15:32,834
 Posmakuj tego!
 
-247
-00:15:32,836 --> 00:15:35,604
-[Farts]
-
-248
+213
 00:15:35,606 --> 00:15:36,838
-Meelo, bÄ…dÅº ostroÅ¼ny!
+Meelo, b¹dŸ ostro¿ny!
 
-249
-00:15:36,840 --> 00:15:39,007
-[Fighting grunts]
-
-250
-00:15:39,009 --> 00:15:42,310
-[Farts]
-
-251
-00:15:42,312 --> 00:15:46,047
-[Roaring]
-
-252
+214
 00:15:46,049 --> 00:15:49,951
-NiewaÅ¼ne.
+Niewa¿ne.
 
-253
+215
 00:15:49,953 --> 00:15:51,419
-ZaprowadziÄ‡ tych EqualistÃ³w
+Zaprowadziæ tych Equalistów
 
-254
+216
 00:15:51,421 --> 00:15:54,389
-do piwnicy Å›wiÄ…tyni.
+do piwnicy œwi¹tyni.
 Dobra robota, dzieciaki.
 
-255
-00:15:54,391 --> 00:15:55,390
-[Growling]
-
-256
+217
 00:15:55,392 --> 00:15:56,758
 Tato!
 
-257
-00:15:56,760 --> 00:15:59,895
-[Growling]
-
-258
+218
 00:15:59,897 --> 00:16:02,564
-DziÄ™ki bogu nic siÄ™ wam nie staÅ‚o.
+Dziêki bogu nic siê wam nie sta³o.
 
-259
+219
 00:16:02,566 --> 00:16:05,233
-ZÅ‚apaliÅ›my ich.
+Z³apaliœmy ich.
 
-260
+220
 00:16:05,235 --> 00:16:06,601
-PozwoliÅ‚aÅ› im walczyÄ‡?
+Pozwoli³aœ im walczyæ?
 
-261
+221
 00:16:06,603 --> 00:16:08,236
-Wiesz co mogÅ‚o siÄ™ staÄ‡?
+Wiesz co mog³o siê staæ?
 
-262
+222
 00:16:08,238 --> 00:16:11,206
-Nie pokonaÅ‚abym ich 
+Nie pokona³abym ich
 bez pomocy twoich dzieci.
 
-263
+223
 00:16:11,208 --> 00:16:12,240
-PowinieneÅ› byÄ‡ dumny.
+Powinieneœ byæ dumny.
 
-264
+224
 00:16:12,242 --> 00:16:15,744
-Dobrze je wyszkoliÅ‚eÅ›.
+Dobrze je wyszkoli³eœ.
 
-265
+225
 00:16:17,380 --> 00:16:21,416
-IdÅ¼.
-Å»ona na ciebie czeka.
+IdŸ.
+¯ona na ciebie czeka.
 
-266
-00:16:21,418 --> 00:16:24,686
-[Baby wailing]
-
-267
+226
 00:16:24,688 --> 00:16:29,190
 Pema!
 
-268
-00:16:29,192 --> 00:16:31,092
-[Baby cries]
-
-269
+227
 00:16:31,094 --> 00:16:34,529
 Tenzin.
 
-270
+228
 00:16:34,531 --> 00:16:35,764
 Jestem tu, Pema.
 
-271
+229
 00:16:35,766 --> 00:16:39,034
 To nasz nowy syn.
 
-272
-00:16:39,036 --> 00:16:43,238
-[Cooing]
-
-273
+230
 00:16:43,240 --> 00:16:45,206
-CzeÅ›Ä‡.
+Czeœæ.
 
-274
+231
 00:16:46,909 --> 00:16:49,244
 Poznajcie swojego nowego brata.
 
-275
+232
 00:16:49,246 --> 00:16:52,314
 Brat?
 No nareszcie.
 
-276
+233
 00:16:52,316 --> 00:16:54,983
 Witamy.
 
-277
+234
 00:16:54,985 --> 00:16:57,719
 Jestem Ikki, to jest Jinora i Meelo.
 
-278
+235
 00:16:57,721 --> 00:16:59,421
-Mamy wspaniaÅ‚Ä… rodzinÄ™
+Mamy wspania³¹ rodzinê
 
-279
+236
 00:16:59,423 --> 00:17:02,090
-i jesteÅ›my szczÄ™Å›liwi, 
-Å¼e jesteÅ› jej czÄ™Å›ciÄ….
+i jesteœmy szczêœliwi,
+¿e jesteœ jej czêœci¹.
 
-280
+237
 00:17:02,092 --> 00:17:04,092
 Jak go nazwiemy?
 
-281
+238
 00:17:04,094 --> 00:17:05,093
-MogÄ™ wybraÄ‡ imiÄ™?
+Mogê wybraæ imiê?
 
-282
+239
 00:17:05,095 --> 00:17:08,296
-JuÅ¼ wybraliÅ›my.
+Ju¿ wybraliœmy.
 
-283
+240
 00:17:08,298 --> 00:17:09,664
 Rohan.
 
-284
+241
 00:17:15,738 --> 00:17:18,974
-Nie chcÄ™ przeszkadaÄ‡, ale
+Nie chcê przeszkadaæ, ale
 
-285
+242
 00:17:18,976 --> 00:17:20,809
-zbliÅ¼a siÄ™ wiÄ™cej statkÃ³w.
+zbli¿a siê wiêcej statków.
 
-286
+243
 00:17:20,811 --> 00:17:23,845
-Nie wszystko bÄ™dzie dobrze,
+Nie wszystko bêdzie dobrze,
 
-287
+244
 00:17:23,847 --> 00:17:27,315
 prawda tato?
 
-288
-00:17:27,317 --> 00:17:31,152
-[Whimpering]
-
-289
+245
 00:17:40,763 --> 00:17:43,064
-Co chcesz zrobiÄ‡, Tenzin?
+Co chcesz zrobiæ, Tenzin?
 
-290
-00:17:43,066 --> 00:17:44,099
-[Sighs]
-
-291
+246
 00:17:44,101 --> 00:17:46,134
-MuszÄ™ chroniÄ‡ mojÄ… rodzinÄ™.
+Muszê chroniæ moj¹ rodzinê.
 
-292
+247
 00:17:46,136 --> 00:17:49,004
-MuszÄ™ zabraÄ‡ jÄ… tak daleko z tego miejsca, 
-jak to tylko moÅ¼liwe.
+Muszê zabraæ j¹ tak daleko z tego miejsca,
+jak to tylko mo¿liwe.
 
-293
+248
 00:17:49,006 --> 00:17:51,973
-JeÅ›li Amon dorwie moje dzieci...
+Jeœli Amon dorwie moje dzieci...
 
-294
+249
 00:17:51,975 --> 00:17:53,308
-Nie chcÄ™ nawet o tym myÅ›leÄ‡.
+Nie chcê nawet o tym myœleæ.
 
-295
+250
 00:17:53,310 --> 00:17:55,543
-JeÅ›li odchodzisz, idÄ™ z tobÄ….
+Jeœli odchodzisz, idê z tob¹.
 
-296
+251
 00:17:55,545 --> 00:17:56,678
 - Ale...
 - Bez gadania.
 
-297
+252
 00:17:56,680 --> 00:17:59,347
 Twoja rodzina to ostatni magowie powietrza,
 
-298
+253
 00:17:59,349 --> 00:18:00,548
-jacy pozostali na Å›wiecie.
+jacy pozostali na œwiecie.
 
-299
+254
 00:18:00,550 --> 00:18:02,450
-Nie pozwolÄ™ Amonowi zabraÄ‡ twoich zdolnoÅ›ci.
+Nie pozwolê Amonowi zabraæ twoich zdolnoœci.
 
-300
+255
 00:18:02,452 --> 00:18:04,119
-DziekujÄ™, Lin.
+Dziekujê, Lin.
 
-301
+256
 00:18:04,121 --> 00:18:06,521
-Korra, chcÄ™, Å¼ebyÅ› teÅ¼ opÃ³Å›ciÅ‚a to miejsce
+Korra, chcê, ¿ebyœ te¿ opóœci³a to miejsce
 
-302
+257
 00:18:06,523 --> 00:18:08,223
-i ukryÅ‚a siÄ™ na jakiÅ› czas.
+i ukry³a siê na jakiœ czas.
 
-303
+258
 00:18:08,225 --> 00:18:11,393
-- Nie poddam siÄ™.
-- Nie pytam ciÄ™ o to.
+- Nie poddam siê.
+- Nie pytam ciê o to.
 
-304
+259
 00:18:11,395 --> 00:18:13,228
-WysÅ‚aÅ‚em wiadomoÅ›Ä‡ do Zjednoczonych SiÅ‚.
+Wys³a³em wiadomoœæ do Zjednoczonych Si³.
 
-305
+260
 00:18:13,230 --> 00:18:14,662
-NiedÅ‚ugo tu bÄ™dÄ….
+Nied³ugo tu bêd¹.
 
-306
+261
 00:18:14,664 --> 00:18:17,465
-A kiedy moja rodzina 
-bÄ™dzie bezpieczna, powrÃ³cÄ™.
+A kiedy moja rodzina
+bêdzie bezpieczna, powrócê.
 
-307
+262
 00:18:17,467 --> 00:18:20,802
-Z posiÅ‚kami moÅ¼emy zmieniÄ‡ bieg tej wojny.
+Z posi³kami mo¿emy zmieniæ bieg tej wojny.
 
-308
+263
 00:18:20,804 --> 00:18:25,540
-WiÄ™c chcesz powiedzieÄ‡, Å¼e musimy byÄ‡ cierpliwi.
+Wiêc chcesz powiedzieæ, ¿e musimy byæ cierpliwi.
 
-309
+264
 00:18:25,542 --> 00:18:29,544
-JesteÅ› dobrÄ… uczennicÄ….
+Jesteœ dobr¹ uczennic¹.
 
-310
+265
 00:18:35,184 --> 00:18:37,485
 Powodzenia, Korra.
-Tobie teÅ¼.
+Tobie te¿.
 
-311
+266
 00:18:37,487 --> 00:18:39,921
-Tenzin, jeÅ›li mamy ruszaÄ‡, 
-zrÃ³bmy to teraz.
+Tenzin, jeœli mamy ruszaæ,
+zróbmy to teraz.
 
-312
+267
 00:18:43,025 --> 00:18:46,528
 Oogi, yip, yip.
-[Oogi growling]
 
-313
-00:18:56,539 --> 00:18:59,541
-[Growls]
-
-314
-00:19:01,377 --> 00:19:04,446
-[Dramatic music]
-
-315
-00:19:04,448 --> 00:19:06,048
-â™ª
-
-316
+268
 00:19:15,257 --> 00:19:18,093
 Ruszajcie.
 Zatrzymamy ich.
 
-317
+269
 00:19:18,095 --> 00:19:22,197
 Wskakujcie.
 
-318
+270
 00:19:22,199 --> 00:19:24,332
 Ruszaj.
 
-319
+271
 00:19:37,980 --> 00:19:41,449
-WÄ…saty goÅ›Ä‡!
+W¹saty goœæ!
 
-320
-00:19:42,551 --> 00:19:44,986
-[Growling]
-
-321
+272
 00:19:44,988 --> 00:19:48,756
 Aah!
 
-322
+273
 00:19:48,758 --> 00:19:50,625
-NiezÅ‚y cios, Naga.
+Niez³y cios, Naga.
 
-323
-00:20:04,240 --> 00:20:08,276
-[Growls]
-
-324
+274
 00:20:10,112 --> 00:20:12,580
-DoganiajÄ… nas!
+Doganiaj¹ nas!
 
-325
+275
 00:20:12,582 --> 00:20:15,517
 Syzbciej, Oogi!
-[Oogi growls]
 
-326
+276
 00:20:30,966 --> 00:20:33,868
-Cokolwiek siÄ™ stanie, nie zawracajcie.
+Cokolwiek siê stanie, nie zawracajcie.
 
-327
+277
 00:20:33,870 --> 00:20:37,772
-Lin, co chcesz zrobiÄ‡?
+Lin, co chcesz zrobiæ?
 
-328
-00:21:12,241 --> 00:21:16,544
-[Grunts]
-
-329
+278
 00:21:16,546 --> 00:21:19,647
 Oof!
 
-330
+279
 00:21:24,653 --> 00:21:26,621
 Ugh! Aah!
 
-331
+280
 00:21:39,168 --> 00:21:42,570
 Ta pani jest moim bohaterem.
 
-332
+281
 00:21:42,572 --> 00:21:44,906
 Tak, jest.
 
-333
-00:21:44,908 --> 00:21:47,475
-[Growling]
-
-334
-00:21:51,747 --> 00:21:54,415
-[Growls]
-
-335
+282
 00:21:54,417 --> 00:21:59,654
-Korra, musimy ruszaÄ‡.
+Korra, musimy ruszaæ.
 
-336
+283
 00:22:15,437 --> 00:22:19,774
 Ugh!
 
-337
+284
 00:22:19,776 --> 00:22:22,343
 Powiedz mi gdzie jest Avatar,
 
-338
+285
 00:22:22,345 --> 00:22:24,212
-albo odbiorÄ™ twojÄ… magiÄ™.
+albo odbiorê twoj¹ magiê.
 
-339
+286
 00:22:24,214 --> 00:22:27,382
 Nic ci nie powiem, potworze.
 
-340
+287
 00:22:27,384 --> 00:22:32,120
 Jak chcesz.
 
-341
-00:22:38,494 --> 00:22:41,562
-[Somber music]
-
-342
-00:22:41,564 --> 00:22:44,832
-â™ª
-
-343
+288
 00:22:47,836 --> 00:22:50,271
-Generale, otrzymaÅ‚em wiadomoÅ›Ä‡ od Avatara.
+Generale, otrzyma³em wiadomoœæ od Avatara.
 
-344
+289
 00:22:50,273 --> 00:22:53,975
-MÃ³wi, Å¼e Amon i jego siÅ‚y 
-przejÄ™Å‚y kontrolÄ™ nad miastem.
+Mówi, ¿e Amon i jego si³y
+przejê³y kontrolê nad miastem.
 
-345
+290
 00:22:53,977 --> 00:22:57,345
-Co odpowiedzieÄ‡?
+Co odpowiedzieæ?
 
-346
+291
 00:22:57,347 --> 00:22:59,847
-Powiedz, Å¼e przybÄ™dziemy za trzy dni.
+Powiedz, ¿e przybêdziemy za trzy dni.
 
-347
+292
 00:22:59,849 --> 00:23:02,183
-Oraz, Å¼e odbijemy Republic City.
+Oraz, ¿e odbijemy Republic City.
 
-348
+293
 00:23:02,185 --> 00:23:03,184
 Razem.
 
-349
+294
 00:23:03,186 --> 00:23:05,420
-Jak sobie pan Å¼yczy, Generale Iroh.
-
-350
-00:23:09,545 --> 00:23:14,545
-<font color="#ec14bd">Sync & corrections by <font color="#808000">wilson0804</font></font>
-<font color="#ec14bd">www.Addic7ed.Com</font>
+Jak sobie pan ¿yczy, Generale Iroh.
 
