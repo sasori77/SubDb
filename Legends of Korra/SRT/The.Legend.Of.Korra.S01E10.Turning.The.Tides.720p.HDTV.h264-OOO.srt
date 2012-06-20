@@ -49,7 +49,7 @@ broñ i mechy.
 12
 00:00:46,100 --> 00:00:48,767
 Ostatnim aktem terroru Amona
-by³o porawnie radnego Tarrloka,
+by³o porwanie radnego Tarrloka,
 
 13
 00:00:48,769 --> 00:00:49,901
@@ -57,11 +57,11 @@ i zabranie jego magii.
 
 14
 00:00:49,903 --> 00:00:52,204
-By³ te¿ bliski schwytaniu Avatara.
+By³ te¿ bliski schwytania Avatara.
 
 15
 00:00:52,206 --> 00:00:55,574
-Wszyscy zastanowiaj¹ siê,
+Wszyscy zastanawiaj¹ siê,
 kiedy i gdzie Amon uderzy ponownie.
 
 16
@@ -91,7 +91,7 @@ Przykro mi z tego powodu,
 
 22
 00:01:44,058 --> 00:01:46,425
-ale wszystko bedzie ju¿ dobrze.
+ale wszystko bêdzie ju¿ dobrze.
 
 23
 00:01:46,427 --> 00:01:49,394
@@ -146,7 +146,7 @@ To ma sens.
 
 35
 00:02:18,092 --> 00:02:20,125
-Dziêki temu Terrlok
+Dziêki temu Tarrlok
 móg³ u¿ywaæ magii krwi
 
 36
@@ -198,7 +198,7 @@ na co go naprawdê staæ.
 
 47
 00:02:48,288 --> 00:02:49,521
-Pema, wszystko w porzadku?
+Pema, wszystko w porz¹dku?
 
 48
 00:02:49,523 --> 00:02:52,624
@@ -269,7 +269,7 @@ Lubiê Korrê.
 
 63
 00:03:32,132 --> 00:03:33,765
-Ale ty ukrywa³eœ ca³¹ prawdê
+Ukrywa³eœ ca³¹ prawdê
 
 64
 00:03:33,767 --> 00:03:34,866
@@ -329,7 +329,7 @@ Wtedy mo¿e nie byæ ju¿ zwi¹zku,
 
 77
 00:04:00,460 --> 00:04:01,860
-którego problemy byœmy mogli omówiæ.
+którego problemy moglibyœmy omówiæ.
 
 78
 00:04:01,862 --> 00:04:03,428
@@ -513,11 +513,11 @@ To nie mo¿e byæ prawda.
 
 121
 00:06:30,177 --> 00:06:32,377
-Teraz to ty
+Teraz to ty przewodzisz
 
 122
 00:06:32,379 --> 00:06:35,447
-przewodzisz Republic City.
+Republic City.
 
 123
 00:06:46,994 --> 00:06:49,861
@@ -551,7 +551,7 @@ Nadszed³ czas, by Equaliœci
 
 130
 00:07:21,061 --> 00:07:25,096
-przejeli Republic City.
+przejêli Republic City.
 
 131
 00:07:39,402 --> 00:07:41,203
@@ -573,7 +573,7 @@ Wow, niez³e parkowanie.
 135
 00:07:50,615 --> 00:07:54,316
 Hej, zostaliœcie aresztowani
-i zostawiliœcie mnie sam¹ z tym samochodem
+i zostawiliœcie mnie sam¹ z tym samochodem.
 
 136
 00:07:54,318 --> 00:07:56,819
@@ -638,11 +638,12 @@ Rozbili siê na wybrze¿u.
 
 150
 00:08:45,336 --> 00:08:46,669
-Wys³aœ rzeczn¹ jednostkê ratunkow¹.
+Wys³aæ rzeczn¹ jednostkê ratunkow¹.
 
 151
 00:08:46,671 --> 00:08:50,139
-Wszystkie ³odzie ratunkowe zosta³y zsabotowane.
+Wszystkie ³odzie ratunkowe 
+zosta³y uszkodzone. To sabota¿.
 
 152
 00:08:50,141 --> 00:08:51,540
@@ -686,7 +687,7 @@ ale nasze si³y s¹ zbyt rozproszone.
 
 162
 00:09:06,891 --> 00:09:09,758
-- Muszê wys³aœ telegram.
+- Muszê wys³aæ telegram.
 - Do kogo?
 
 163
@@ -1011,11 +1012,11 @@ Rohan.
 
 241
 00:17:15,738 --> 00:17:18,974
-Nie chcê przeszkadaæ, ale
+Nie chcê przeszkadzaæ,
 
 242
 00:17:18,976 --> 00:17:20,809
-zbli¿a siê wiêcej statków.
+ale zbli¿a siê wiêcej statków.
 
 243
 00:17:20,811 --> 00:17:23,845
@@ -1069,11 +1070,11 @@ Nie pozwolê Amonowi zabraæ twoich zdolnoœci.
 
 255
 00:18:02,452 --> 00:18:04,119
-Dziekujê, Lin.
+Dziêkujê, Lin.
 
 256
 00:18:04,121 --> 00:18:06,521
-Korra, chcê, ¿ebyœ te¿ opóœci³a to miejsce
+Korra, chcê, ¿ebyœ te¿ opuœci³a to miejsce
 
 257
 00:18:06,523 --> 00:18:08,223
@@ -1154,7 +1155,7 @@ Doganiaj¹ nas!
 
 275
 00:20:12,582 --> 00:20:15,517
-Syzbciej, Oogi!
+Szybciej, Oogi!
 
 276
 00:20:30,966 --> 00:20:33,868
