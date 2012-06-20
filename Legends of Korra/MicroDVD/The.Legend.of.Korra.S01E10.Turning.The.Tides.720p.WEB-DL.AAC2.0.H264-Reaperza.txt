@@ -1,0 +1,294 @@
+{266}{303}Ziemia.
+{303}{357}Ogieñ.
+{357}{412}Powietrze.
+{412}{453}Woda.
+{453}{599}{Y:i}Tylko Avatar mo¿e opanowaæ|wszystkie cztery ¿ywio³y
+{599}{661}{Y:i}i zaprowadziæ równowagê na œwiecie.
+{837}{916}Zwolennicy Amona z dnia|na dzieñ rosn¹ w si³ê.
+{916}{970}Wpierw zaatakowali stadion|mistrzostw Pro-bendingu.
+{970}{1002}Potem odkryto,
+{1002}{1052}¿e Hiroshi Sato|wytwarza³ dla Equalistów
+{1052}{1124}broñ i mechy.
+{1124}{1204}Ostatnim aktem terroru Amona|by³o porwanie radnego Tarrloka,
+{1204}{1238}i zabranie jego magii.
+{1238}{1307}By³ te¿ bliski schwytania Avatara.
+{1307}{1408}Wszyscy zastanawiaj¹ siê,|kiedy i gdzie Amon uderzy ponownie.
+{2478}{2538}Tato, wróci³eœ do domu.
+{2538}{2622}Czekaliœmy na ciebie.|Z Korr¹ wszystko w porz¹dku?
+{2622}{2709}Tak, wszystko z ni¹ dobrze, kochanie.
+{2709}{2749}Ba³am siê o ni¹.
+{2749}{2801}Myœla³am, ¿e ju¿ nie wróci.
+{2801}{2861}Przykro mi z tego powodu,
+{2861}{2932}ale wszystko bêdzie ju¿ dobrze.
+{2932}{3021}Obiecujê.
+{3021}{3137}Mmm.
+{3137}{3212}Mmm.
+{3212}{3286}Jedzenie smakuje wyœmienicie, Pema.
+{3286}{3342}Powoli zaczynam wracaæ do siebie.
+{3342}{3444}Bardzo siê cieszymy, ¿e uda³o ci siê wróciæ.
+{3444}{3482}Pozwól, ¿e pomogê.
+{3482}{3548}Korra, wiem,|¿e to dla ciebie trudne,
+{3548}{3601}ale muszê wiedzieæ o wszystkim,|co siê wydarzy³o.
+{3601}{3759}Có¿, po pierwsze, Tarrlok nie by³ tym,|za kogo siê podawa³.
+{3759}{3795}Tarrlok to syn Yakone'a.
+{3795}{3881}To ma sens.
+{3881}{3942}Dziêki temu Tarrlok|móg³ u¿ywaæ magii krwi
+{3942}{3973}bez pe³ni ksiê¿yca.
+{3973}{4010}Jak uda³o ci siê uciec?
+{4010}{4056}I gdzie jest Tarrlok?
+{4056}{4150}Amon schwyta³ go i odebra³ mu magiê.
+{4150}{4186}- Co?|- Tak.
+{4186}{4248}Zjawi³ siê znik¹d.
+{4248}{4286}Prawie dorwa³ i mnie.
+{4286}{4363}To bardzo niepokoj¹ce wieœci.
+{4363}{4423}Amon jest coraz bardziej zuchwa³y.
+{4423}{4523}Porwa³ radnego|i prawie schwyta³ Avatara...
+{4523}{4679}Obawiam siê, ¿e Amon nied³ugo poka¿e,|na co go naprawdê staæ.
+{4786}{4823}Pema, wszystko w porz¹dku?
+{4823}{4916}Dziecko kopnê³o|bardzo mocno, to wszystko.
+{4916}{4982}Wszystko dobrze.|Zawo³aæ Tenzina?
+{4982}{5065}Nie ma potrzeby go martwiæ.|Nic siê nie sta³o.
+{5065}{5129}Mogê prosiæ gor¹c¹ wodê?
+{5129}{5180}Korra chce wiêcej herbaty.
+{5180}{5249}Jesteœ magiem ognia.|Podgrzej j¹ sam.
+{5379}{5504}Wychodzê, na wypadek,|gdybyœcie obydwoje chcieli porozmawiaæ.
+{5595}{5655}O czym mielibyœmy porozmawiaæ?
+{5655}{5770}Zauwa¿y³am, jak zajmujesz siê Korr¹.
+{5770}{5835}Jak zachowywa³eœ siê, gdy zaginê³a.
+{5835}{5876}Czujesz coœ do niej, prawda?
+{5876}{5937}Co?|Nie.
+{5937}{6006}Zosta³a uprowadzona|przez szalonego maga krwi.
+{6006}{6042}Jak wed³ug ciebie powinienem siê zachowywaæ?
+{6042}{6100}Lubiê Korrê.
+{6100}{6149}Ukrywa³eœ ca³¹ prawdê
+{6149}{6182}przez ca³y ten czas przede mn¹.
+{6182}{6257}Prawdê?|O czym?
+{6257}{6310}Chcesz, ¿ebym to powiedzia³a?
+{6310}{6385}Tak, poniewa¿ nie wiem,|o czym mówisz.
+{6385}{6422}Poca³unek, Mako.
+{6422}{6462}Wiem o tym.
+{6462}{6577}Có¿...
+{6577}{6625}Bolin ci powiedzia³, prawda?
+{6625}{6695}Nie wiñ swojego brata za to,|co sam zrobi³eœ.
+{6695}{6756}Czujesz coœ do Korry, czy nie?
+{6756}{6834}S³uchaj, dziej¹ siê teraz dziwne rzeczy.
+{6834}{6904}Moglibyœmy omówiæ problemy|naszego zwi¹zku kiedy indziej?
+{6904}{6949}Wtedy mo¿e nie byæ ju¿ zwi¹zku,
+{6949}{6991}którego problemy moglibyœmy omówiæ.
+{6991}{7038}Asami.
+{7100}{7213}Lin, um, m-móg³bym ciê prosiæ o przys³ugê?
+{7213}{7280}To dla mnie strasznie wa¿ne,
+{7280}{7400}ale ostrzegam, mo¿e ciê to|postawiæ w niezrêcznej sytuacji,
+{7400}{7455}ponadto...|Powiedz to wreszcie.
+{7455}{7520}Zosta³abyœ tutaj|i zajê³abyœ siê dzieæmi i Pem¹,
+{7520}{7567}dopóki nie wróci³bym z posiedzenia rady?
+{7567}{7625}Maj¹c na uwadze wszystko to, co siê wydarzy³o,
+{7625}{7698}chcê, by moja rodzina by³a bezpieczna.
+{7698}{7813}Oczywiœcie, ¿e ci pomogê, stary przyjacielu.
+{7813}{7876}Nie s¹dzi³am, ¿e was tutaj spotkam.
+{7876}{7946}Pema!|Uh, tak, tak.
+{7946}{7999}Lin zgodzi³a siê nam pomóc
+{7999}{8048}i chroniæ was, kiedy mnie tutaj nie bêdzie.
+{8048}{8084}Dziêkujê.
+{8084}{8132}Przyda siê dodatkowa para r¹k.
+{8162}{8196}Mog³abyœ go wyk¹paæ?
+{8196}{8292}Jest ubrudzony.
+{8292}{8364}Nie na to siê umawialiœmy.
+{8364}{8401}Dziêkujê, Lin.
+{8401}{8527}Oogi, yip, yip.
+{8594}{8679}Muszê do ³azienki.|Nie jest dobrze.
+{8679}{8723}Ooh! Ah!
+{8723}{8786}Ugh!
+{8951}{9000}Widzia³eœ moje klucze?
+{9000}{9055}Nie mogê ich nigdzie znaleŸæ.
+{9055}{9104}Nie, kochanie.
+{9104}{9174}- Oh, znalaz³am je.|- To dobrze, kochanie.
+{9174}{9215}Nie czekaj na mnie.
+{9215}{9300}Posiedzenie rady prawdopodobnie|przeci¹gnie siê do póŸnej nocy.
+{9331}{9395}Drzwi, kochanie.
+{9476}{9550}Przyszliœmy rozprawiæ siê z szczuropaj¹kami.
+{9550}{9607}Nie wzywa³am was.
+{9739}{9769}Kochanie?
+{10785}{10821}Ugh!
+{10859}{10946}- Aah!|- Oof!
+{11023}{11099}Aah!
+{11099}{11159}Ca³e szczêœcie, ¿e nic ci nie jest.
+{11159}{11228}Wszystko dobrze z pozosta³ymi cz³onkami rady?
+{11228}{11269}Obawiam siê, ¿e nie.
+{11269}{11334}Dzwoni³ Naczelnik Saikhan.
+{11334}{11364}Wszyscy zostali porwani.
+{11364}{11436}To nie mo¿e byæ prawda.
+{11436}{11502}Teraz to ty przewodzisz
+{11502}{11594}Republic City.
+{11940}{12026}To naprawdê koszmarny dzieñ!
+{12128}{12280}Dobra, dzieciaki.|Do œrodka.
+{12280}{12340}S³yszeliœmy eksplozje.|Co siê dzieje?
+{12340}{12392}Republic City jest atakowane.
+{12783}{12882}Tak d³ugo marzy³em o tym dniu.
+{12882}{12914}Tak.
+{12914}{12979}Nadszed³ czas, by Equaliœci
+{12979}{13100}przejêli Republic City.
+{13564}{13618}Mówi³aœ, ¿e gdzie|zaparkowa³aœ samochód?
+{13618}{13698}Jest gdzieœ tutaj.
+{13698}{13837}Tu jest.
+{13837}{13900}Wow, niez³e parkowanie.
+{13900}{14011}Hej, zostaliœcie aresztowani|i zostawiliœcie mnie sam¹ z tym samochodem.
+{14011}{14086}Mówi³am wyraŸnie, nie potrafiê prowadziæ.
+{14086}{14177}Rozumiemy to, dobra robota.
+{14177}{14296}Ale jak op³acimy te wszystkie|mandaty za parkowanie?
+{14347}{14406}Miasto jest atakowane.
+{14406}{14473}Policja ma wa¿niejsze rzeczy do roboty.
+{14554}{14627}To siê mi przyda.
+{14709}{14833}Dlaczego nie usi¹dziesz|z ty³u razem z Korr¹?
+{14833}{14934}Myœlê, ¿e tak zrobiê.
+{15042}{15113}- Wszystko dobrze?|- Tak.
+{15113}{15144}Wspaniale.
+{15174}{15268}Samochód!|NieŸle.
+{15386}{15459}Naczelniku, jednostka powietrzna|numer siedem zosta³a zaatakowana
+{15459}{15500}przez statek Equalistów.
+{15500}{15540}Rozbili siê na wybrze¿u.
+{15540}{15580}Wys³aæ rzeczn¹ jednostkê ratunkow¹.
+{15580}{15684}Wszystkie ³odzie ratunkowe|zosta³y uszkodzone. To sabota¿.
+{15684}{15726}Co?
+{15726}{15770}Naczelnik Saikhan.
+{15770}{15825}Tenzin, cieszê siê, ¿e ciê widzê.
+{15825}{15882}Ba³em siê, ¿e z³apali i ciebie.
+{15882}{15925}Jestem jedynym cz³onkiem rady, jaki pozosta³.
+{15925}{15959}Jak wygl¹da sytuacja?
+{15959}{16020}Amon rozpocz¹³ jednoczesny atak
+{16020}{16054}na wszystkie dzielnice.
+{16054}{16095}Policja próbuje odzyskaæ kontrolê,
+{16095}{16186}ale nasze si³y s¹ zbyt rozproszone.
+{16186}{16272}- Muszê wys³aæ telegram.|- Do kogo?
+{16272}{16342}Do genera³a Zjednoczonych Si³.
+{16634}{16714}Telegram zosta³ wys³any.
+{16714}{16763}Linie telefoniczne pad³y.
+{16995}{17056}£ap.
+{17144}{17207}Saikhan, wentylacja!
+{17365}{17420}Musimy st¹d natychmiast wyjœæ.
+{17420}{17501}Trzymajcie siê blisko mnie.
+{17975}{18058}Tylko nie te mechy.
+{18150}{18180}- Aah!|- Aah!
+{18180}{18246}- Oof!|- Ugh!
+{18387}{18466}Aah!
+{19277}{19369}Saikhan, nie.
+{20127}{20187}Skacz!
+{20523}{20607}Ugh!
+{20607}{20671}Aah!
+{21445}{21519}Aah!
+{21645}{21715}Ugh!
+{21715}{21777}Aah!
+{21777}{21874}Oh!
+{21968}{22040}Dziêkujê.
+{22485}{22558}Tenzin znowu uciek³.
+{22558}{22626}Nie mogê patrzeæ, jak Asami
+{22626}{22692}walczy razem z tymi magami.
+{22692}{22765}Wkrótce go z³apiemy,
+{22765}{22824}a ty odzyskasz swoj¹ córkê.
+{22880}{22919}Wszystko dobrze?
+{22919}{22985}Tak.|Dziêkujê, dzieciaki.
+{22985}{23020}Jeszcze chwila
+{23020}{23063}i by³bym w drodze do Amona.
+{23063}{23121}Uh, patrzcie.
+{23200}{23253}Oh, nie.
+{24260}{24355}Wszyscy do œrodka i zachowaæ spokój.
+{24355}{24432}Aah!
+{24432}{24468}Zbierz je razem, Pema.
+{24468}{24507}Czy nie mówi³am "zachowaæ spokój"?
+{24507}{24564}Mamo, co siê dzieje?
+{24564}{24654}Dziecko chce wyjœæ na œwiat!
+{24654}{24696}O, nie.
+{24696}{24739}Nie teraz!
+{26621}{26665}Gdzie s¹ dzieci?
+{26665}{26702}Nie martw siê.
+{26702}{26761}S¹ w innym pokoju, ca³kowicie bezpieczne.
+{26882}{26918}Aah!
+{27053}{27140}Odsuñ siê od by³ej dziewczyny mojego taty!
+{27204}{27263}Ugh! Oof!
+{27302}{27322}Jinora!
+{27322}{27369}Nie powinno ciê tu byæ!
+{27418}{27477}Zje¿d¿aæ z naszej wyspy!
+{27574}{27680}Dziewczyny, musicie wróciæ do œrodka, natychmiast.
+{27698}{27798}Posmakuj tego!
+{27848}{27885}Meelo, b¹dŸ ostro¿ny!
+{28161}{28257}Niewa¿ne.
+{28257}{28301}Zaprowadziæ tych Equalistów
+{28301}{28390}do piwnicy œwi¹tyni.|Dobra robota, dzieciaki.
+{28420}{28461}Tato!
+{28555}{28635}Dziêki bogu nic siê wam nie sta³o.
+{28635}{28715}Z³apaliœmy ich.
+{28715}{28756}Pozwoli³aœ im walczyæ?
+{28756}{28805}Wiesz co mog³o siê staæ?
+{28805}{28894}Nie pokona³abym ich|bez pomocy twoich dzieci.
+{28894}{28925}Powinieneœ byæ dumny.
+{28925}{29030}Dobrze je wyszkoli³eœ.
+{29079}{29200}IdŸ.|¯ona na ciebie czeka.
+{29298}{29433}Pema!
+{29490}{29593}Tenzin.
+{29593}{29630}Jestem tu, Pema.
+{29630}{29728}To nasz nowy syn.
+{29854}{29913}Czeœæ.
+{29964}{30034}Poznajcie swojego nowego brata.
+{30034}{30126}Brat?|No nareszcie.
+{30126}{30206}Witamy.
+{30206}{30288}Jestem Ikki, to jest Jinora i Meelo.
+{30288}{30339}Mamy wspania³¹ rodzinê
+{30339}{30419}i jesteœmy szczêœliwi,|¿e jesteœ jej czêœci¹.
+{30419}{30479}Jak go nazwiemy?
+{30479}{30509}Mogê wybraæ imiê?
+{30509}{30605}Ju¿ wybraliœmy.
+{30605}{30646}Rohan.
+{30828}{30925}Nie chcê przeszkadzaæ,
+{30925}{30980}ale zbli¿a siê wiêcej statków.
+{30980}{31071}Nie wszystko bêdzie dobrze,
+{31071}{31175}prawda tato?
+{31578}{31647}Co chcesz zrobiæ, Tenzin?
+{31678}{31739}Muszê chroniæ moj¹ rodzinê.
+{31739}{31825}Muszê zabraæ j¹ tak daleko z tego miejsca,|jak to tylko mo¿liwe.
+{31825}{31914}Jeœli Amon dorwie moje dzieci...
+{31914}{31954}Nie chcê nawet o tym myœleæ.
+{31954}{32021}Jeœli odchodzisz, idê z tob¹.
+{32021}{32055}- Ale...|- Bez gadania.
+{32055}{32135}Twoja rodzina to ostatni magowie powietrza,
+{32135}{32171}jacy pozostali na œwiecie.
+{32171}{32228}Nie pozwolê Amonowi zabraæ twoich zdolnoœci.
+{32228}{32278}Dziêkujê, Lin.
+{32278}{32350}Korra, chcê, ¿ebyœ te¿ opuœci³a to miejsce
+{32350}{32401}i ukry³a siê na jakiœ czas.
+{32401}{32496}- Nie poddam siê.|- Nie pytam ciê o to.
+{32496}{32551}Wys³a³em wiadomoœæ do Zjednoczonych Si³.
+{32551}{32594}Nied³ugo tu bêd¹.
+{32594}{32678}A kiedy moja rodzina|bêdzie bezpieczna, powrócê.
+{32678}{32778}Z posi³kami mo¿emy zmieniæ bieg tej wojny.
+{32778}{32920}Wiêc chcesz powiedzieæ, ¿e musimy byæ cierpliwi.
+{32920}{33040}Jesteœ dobr¹ uczennic¹.
+{33209}{33278}Powodzenia, Korra.|Tobie te¿.
+{33278}{33351}Tenzin, jeœli mamy ruszaæ,|zróbmy to teraz.
+{33444}{33549}Oogi, yip, yip.
+{34410}{34495}Ruszajcie.|Zatrzymamy ich.
+{34528}{34618}Wskakujcie.
+{34618}{34682}Ruszaj.
+{35091}{35195}W¹saty goœæ!
+{35301}{35414}Aah!
+{35414}{35470}Niez³y cios, Naga.
+{36054}{36128}Doganiaj¹ nas!
+{36128}{36216}Szybciej, Oogi!
+{36679}{36766}Cokolwiek siê stanie, nie zawracajcie.
+{36766}{36883}Lin, co chcesz zrobiæ?
+{38045}{38138}Oof!
+{38288}{38347}Ugh! Aah!
+{38723}{38825}Ta pani jest moim bohaterem.
+{38825}{38895}Tak, jest.
+{39237}{39394}Korra, musimy ruszaæ.
+{39822}{39952}Ugh!
+{39952}{40029}Powiedz mi gdzie jest Avatar,
+{40029}{40085}albo odbiorê twoj¹ magiê.
+{40085}{40180}Nic ci nie powiem, potworze.
+{40180}{40322}Jak chcesz.
+{40781}{40854}Generale, otrzyma³em wiadomoœæ od Avatara.
+{40854}{40965}Mówi, ¿e Amon i jego si³y|przejê³y kontrolê nad miastem.
+{40965}{41066}Co odpowiedzieæ?
+{41066}{41141}Powiedz, ¿e przybêdziemy za trzy dni.
+{41141}{41211}Oraz, ¿e odbijemy Republic City.
+{41211}{41241}Razem.
+{41241}{41308}Jak sobie pan ¿yczy, Generale Iroh.
