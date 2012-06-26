@@ -653,61 +653,59 @@ Wszystko zaczê³o siê od naszego ojca, Yakone'a.
 
 150
 00:14:32,206 --> 00:14:35,586
-<i>Eski çetesinin yardýmýyla
-hapishaneden kaçmayý baþarmýþ.</i>
+<i>Jego gang pomóg³ mu uciec z wiêzienia.</i>
 
 151
 00:14:35,787 --> 00:14:38,766
-<i>Görünüþünü deðiþtirmek
-için de ameliyat olmuþ.</i>
+<i>Nastêpnie podda³ siê operacji plastycznej, 
+by zmieniæ swój wygl¹d.</i>
 
 152
 00:14:39,516 --> 00:14:43,736
-<i>Yani yeni bir kimlik kazanmýþ.
-Sonra da Kuzey Su Kabilesi'ne yerleþmiþ.</i>
+<i>Dziêki nowej to¿samoœci zacz¹³ 
+nowe ¿ycie w Pó³nocnym Plemieniu Wody.</i>
 
 153
 00:14:44,726 --> 00:14:50,306
-<i>Þefkatli ve sýcakkanlý bir kadýn olan
-annemle de orada tanýþmýþlar.</i>
+<i>Tam pozna³ moj¹ matkê,
+ciep³¹, opiekuñcz¹ kobietê.</i>
 
 154
 00:14:53,326 --> 00:14:56,126
-<i>Çok geçmeden
-bir aile kurmuþlar.</i>
+<i>Wkrótce za³o¿y³ z ni¹ rodzinê.</i>
 
 155
 00:14:57,486 --> 00:15:00,616
-<i>Amon, ilk çocuklarýymýþ.
-Ona Noatak adýný vermiþler.</i>
+<i>Amon by³ jego pierworodnym synem 
+i nosi³ imiê Noatak.</i>
 
 156
 00:15:00,616 --> 00:15:03,926
-<i>Üç yýl sonra ben doðmuþum.</i>
+<i>Ja urodzi³em siê trzy lata póŸniej.</i>
 
 157
 00:15:04,127 --> 00:15:08,136
-<i>Noatak, iyi huylu bir çocuktu.
-Hep beni kollardý.</i>
+<i>Noatak by³ dobrym dzieckiem, 
+zawsze opiekowa³ siê mn¹.</i>
 
 158
 00:15:08,356 --> 00:15:10,296
-<i>Güzel yýllardý.</i>
+<i>To by³y dobre czasy...</i>
 
 159
 00:15:10,366 --> 00:15:13,696
-<i>Aðabeyimle su bükücü
-olduðumuzu keþfedene kadar.</i>
+<i>Dopóki nie odkryliœmy, 
+¿e jesteœmy magami wody.</i>
 
 160
 00:15:14,056 --> 00:15:17,056
-<i>Önceleri yeni yeteneklerimiz
-bizi heyecanlandýrmýþtý.</i>
+<i>Pocz¹tkowo byliœmy zachwyceni 
+naszymi nowymi umiejêtnoœciami,</i>
 
 161
 00:15:17,386 --> 00:15:20,356
-<i>Ama eðitimlerimiz babamýn
-farklý bir yönünü ortaya çýkardý.</i>
+<i>Ale nasz trening pokaza³ 
+ciemn¹ stronê naszego ojca.</i>
 
 162
 00:15:20,356 --> 00:15:21,576
@@ -715,322 +713,310 @@ Tarrlok!
 
 163
 00:15:21,876 --> 00:15:26,356
-Düzgün þekil ver yoksa
-bütün gece soðukta beklersin.
+Skup siê nad kszta³tem, 
+albo bedziesz sta³ tutaj ca³¹ noc.
 
 164
 00:15:26,356 --> 00:15:28,626
--Vermeye çalýþýyorum ama...
--Daha çok çalýþ!
+- Staram siê...
+- Staraj siê mocniej!
 
 165
 00:15:28,726 --> 00:15:31,136
-Aðabeyin hiç senin gibi
-baþtan savma iþ yapmýyor.
+Twój brat nigdy nie by³ taki niechlujny.
 
 166
 00:15:31,136 --> 00:15:34,596
-Yapacaktýr baba.
-Biraz zamana ihtiyacý var.
+Tato, urazi³eœ go.
+Potrzebuje poprostu czasu.
 
 167
 00:15:34,596 --> 00:15:37,556
-Sakýn bana karþýlýk verme!
+Nie odzywaj siê do mnie w ten sposób. Nigdy!
 
 168
 00:15:37,786 --> 00:15:43,166
-<i>O zamanlarda bile aðabeyim herkese
-adil ve eþit davranýlmasýný isterdi.</i>
+<i>Ju¿ wtedy mój brat chcia³, 
+¿eby wszyscy byli traktowani równo.</i>
 
 169
 00:15:43,686 --> 00:15:48,006
-<i>Yedi yaþýma geldiðimde babam
-Noatak ile beni avlanmaya götürdü.</i>
+<i>Gdy mia³em siedem lat, mój ojciec 
+zabra³ mnie i brata</i>
 
 170
 00:15:48,106 --> 00:15:49,756
-<i>Evimizden çok uzak bir yere.</i>
+<i>na polowanie z dala od domu.</i>
 
 171
 00:15:50,086 --> 00:15:53,806
-<i>Bize gerçek kimliðinin
-Cumhuriyet Þehri'nin...</i>
+<i>Zdradzi³ nam wtedy swoj¹ prawdziw¹ to¿samoœæ.</i>
 
 172
 00:15:53,806 --> 00:15:56,936
-<i>...en ünlü mafya babasý
-Yakone olduðunu söyledi.</i>
+<i>W przesz³oœci by³ znany jako Yakon, 
+najwiêkszy przestêpca Republic City.</i>
 
 173
 00:15:57,166 --> 00:16:00,956
-<i>Eskiden çok nadir görülen Kan Bükme
-yeteneðine sahip olduðundan da bahsetti.</i>
+<i>Oraz to, ¿e posiada³ bardzo rzadk¹ 
+umiejêtnoœæ - magiê krwi.</i>
 
 174
 00:16:00,956 --> 00:16:03,236
-Kan Bükmek nedir?
+Czym jest magia krwi?
 
 175
 00:16:03,236 --> 00:16:07,716
-Dünyanýn en güçlü ve
-en korkulan bükme gücüdür.
+To najpotê¿niejsza i najstraszniejsza 
+forma magii, jaka istnieje.
 
 176
 00:16:07,946 --> 00:16:11,966
-Korkak Katara yüzünden
-yasa dýþý ilan edildi.
+Zosta³¹ zabroniona przez tego tchórza, Katarê.
 
 177
 00:16:12,366 --> 00:16:16,216
-Ailemizin soyu tarihin en güçlü
-Kan Bükücüler'ine dayanýyor.
+Nasza rodzina posiada 
+najsilniejsz¹ liniê magii krwi w historii.
 
 178
 00:16:16,646 --> 00:16:21,686
-Sizin de içinizde bu güç var.
-Ustalaþmanýz için sizi eðiteceðim.
+Drzemie w was wielka si³a, 
+a ja nauczê was jej u¿ywaæ.
 
 179
 00:16:22,016 --> 00:16:24,266
-Senin bükme gücüne
-ne oldu peki baba?
+Co siê sta³o z twoj¹ magi¹?
 
 180
 00:16:24,726 --> 00:16:27,496
-Avatar benden çaldý.
+Pozbawi³ mnie jej Avatar.
 
 181
 00:16:28,056 --> 00:16:32,036
-Sizi o yüzden buraya getirdim.
-Alýn yazýnýzý öðrenmeniz için.
+Dlatego zabra³em was tutaj.
+Chcê, byœcie poznali swoje przeznaczenie.
 
 182
 00:16:32,036 --> 00:16:35,336
-Ýkiniz en yüksek seviye
-Kan Bükücüler olacaksýnýz.
+Staniecie siê magami krwi najwy¿szej klasy.
 
 183
 00:16:35,336 --> 00:16:39,186
-Zamaný geldiðinde de
-Cumhuriyet Þehri'ni ele geçirip...
+Kiedy nadejdzie czas, odbierzemy Republic City,
 
 184
 00:16:39,287 --> 00:16:41,436
-...Avatar'ý yok edeceksiniz.
+a wy zniszczycie Avatara.
 
 185
 00:16:41,696 --> 00:16:44,351
-Ýntikamýmý alacaksýnýz!
+Pomœcicie mnie!
 
 186
 00:16:44,352 --> 00:16:47,006
-Hayattaki amacýnýz budur!
+Taki jest cel waszego ¿ycia!
 
 187
 00:16:47,006 --> 00:16:50,096
-<i>Güzel günler geride kalmýþtý.</i>
+<i>Dobre czasy minê³y.</i>
 
 188
 00:16:52,176 --> 00:16:56,826
-<i>Her dolunayda babam
-bizi avlanmaya diye...</i>
+<i>Ka¿dej pe³ni ksiê¿yca ojciec 
+zabiera³ nas na kolejne "polowanie",</i>
 
 189
 00:16:56,826 --> 00:17:00,026
-<i>...gizlice Kan Bükme'yi
-öðretmeye götürüyordu.</i>
+<i>gdzie w sekreci æwiczyliœmy magiê krwi.</i>
 
 190
 00:17:00,316 --> 00:17:03,096
-<i>Gerçeði annemizden saklýyorduk.</i>
+<i>Nasza matka o niczym nie wiedzia³a.</i>
 
 191
 00:17:11,026 --> 00:17:13,206
-Yapma!
-Canýný yakýyorsun!
+Stój!
+To go boli!
 
 192
 00:17:13,206 --> 00:17:17,526
-Biraz sert ol, Tarrlok.
-Bu iþte merhamete yer yok.
+B¹dŸ mê¿czyzn¹, Tarrlok.
+To nie pora na sentymenty.
 
 193
 00:17:23,186 --> 00:17:26,616
-Çok iyiydin, oðlum.
-Çok iyi.
+Bardzo dobrze, synu.
+Bardzo dobrze.
 
 194
 00:17:29,716 --> 00:17:32,976
-<i>Birkaç yýl sonra babam bize
-dolunaya gerek kalmadan...</i>
+<i>Kilka lat pó¿niej ojciec nauczy³ nas 
+u¿ywaæ magii krwi w dowolym momencie,</i>
 
 195
 00:17:33,076 --> 00:17:35,686
-<i>...günün istediðimiz saatinde
-kan bükebilmeyi öðretti.</i>
+<i>bez pe³ni ksiê¿yca.</i>
 
 196
 00:17:36,106 --> 00:17:40,556
-<i>Düzenli olarak antrenman yapýyorduk
-ve ben her dakikasýndan nefret ediyordum.</i>
+<i>Ci¹gle æwiczyliœmy, a ja nienawidzi³em 
+ka¿dej minuty spêdzonej na tym.</i>
 
 197
 00:17:54,336 --> 00:17:58,646
-<i>Savunmasýz hayvanlara
-acý çektirecek mide yoktu bende.</i>
+<i>Nie mia³em serca manipulowaæ 
+tymi bezbronnymi zwierzêtami.</i>
 
 198
 00:17:58,746 --> 00:18:02,806
-<i>Ama aðabeyimin yeni gücünden
-zevk alýr bir hali vardý.</i>
+<i>Jednak mojemu bratu nowa 
+moc bardzo siê spodoba³a.</i>
 
 199
 00:18:06,996 --> 00:18:10,076
-<i>Babamýn Psiþik Kan
-Bükme tekniðinde...</i>
+<i>By³ geniuszem, który opanowa³ sztukê</i>
 
 200
 00:18:10,077 --> 00:18:13,156
-<i>...daha 14 yaþýndayken
-ustalaþmýþ bir dahiydi.</i>
+<i>u¿ywania magii krwi za pomoc¹ 
+umys³u, gdy mia³ 14 lat.</i>
 
 201
 00:18:31,386 --> 00:18:35,666
-Bu iþ böyle yapýlýr.
-Sen de böyle olmalýsýn.
+Tak to powinno wygl¹daæ. 
+Do tego masz d¹¿yæ.
 
 202
 00:18:37,046 --> 00:18:42,166
-<i>Noatak babamýn gözdesi olduðunu bilse de
-onun için de hiç kolay deðildi.</i>
+<i>Noatak by³ ulubionym dzieckiem ojca, 
+ale to nie u³atwia³o mu ¿ycia.</i>
 
 203
 00:18:42,226 --> 00:18:47,146
-<i>Yakone'nin tüm beklentilerinin
-ve isteklerinin yükünü taþýyordu.</i>
+<i>Musia³ znosiæ ciê¿ar wszystkich 
+oczekiwañ i wymagañ Yakone'a.</i>
 
 204
 00:18:49,906 --> 00:18:52,966
-<i>Yýllar geçtikçe Noatak da
-deðiþmeye baþlamýþtý.</i>
+<i>W ciagu tych wszystkich lat 
+coœ siê w nim zmieni³o.</i>
 
 205
 00:18:52,966 --> 00:18:58,186
-<i>Eskiden neþeli olarak bildiðim aðabeyim
-soðuk ve suskun biri olup çýkmýþtý.</i>
+<i>Kochaj¹cy brat, jakiego zna³em, 
+sta³ siê zimny i niedostêpny.</i>
 
 206
 00:19:00,916 --> 00:19:04,666
-<i>Babam bizi akla hayale gelmeyecek
-þeyleri yapmaya zorluyordu.</i>
+<i>Nasz ojciec pchn¹³ nas ku skrajnoœci.</i>
 
 207
 00:19:05,066 --> 00:19:08,306
-<i>Ve günün birinde birbirimizin
-kanýný bükmemiz için bizi zorladý.</i>
+<i>Pewnego dnia kaza³ nam u¿ywaæ 
+magii krwi przeciwko sobie.</i>
 
 208
 00:19:08,886 --> 00:19:10,836
-Baþla, Noatak.
+Zaczynaj, Noatak.
 
 209
 00:19:26,386 --> 00:19:27,676
-Mükemmel.
+Doskonale.
 
 210
 00:19:34,266 --> 00:19:36,766
 Tarrlok!
-Sýra sende.
+Twoja kolej.
 
 211
 00:19:36,766 --> 00:19:37,856
-Hayýr.
+Nie.
 
 212
 00:19:38,316 --> 00:19:39,536
-Yapmayacaðým.
+Nie zrobiê tego.
 
 213
 00:19:39,536 --> 00:19:41,916
-Aðabeyinin kanýný bük, Tarrlok!
+U¿yj magii krwii na swoim bracie, Tarrlok!
 
 214
 00:19:41,916 --> 00:19:45,246
-Kan Bükmek iðrenç bir þey.
-Kimseye karþý kullanmak istemiyorum.
+To jest okropne.
+Nie u¿yjê tego przeciwko komukolwiek.
 
 215
 00:19:45,246 --> 00:19:47,316
-Bir daha kan bükmeyeceðim.
+Nie chcê u¿ywaæ magii krwi nigdy wiêcej.
 
 216
 00:19:47,316 --> 00:19:50,906
-Yüz karasýsýn!
-Zayýfsýn!
+Jesteœ powodem do wstydu!
+S³abeuszem!
 
 217
 00:19:51,436 --> 00:19:54,696
-Sana öyle bir ders
-vereceðim ki...
+Nauczê ciê pokory.
 
 218
 00:19:56,516 --> 00:19:58,626
-Ondan uzak dur!
+Nie zbili¿aj siê od niego!
 
 219
 00:19:58,626 --> 00:20:02,216
-Kanýmý bükmeye
-nasýl cüret edersin!
+Jak œmiesz uzywaæ magii krwi na mnie!
 
 220
 00:20:02,516 --> 00:20:06,016
-Ne yapacaksýn peki?
-Asýl zayýf olan sensin.
+Co zamierzasz zrobiæ?
+To ty jesteœ s³aby.
 
 221
 00:20:08,776 --> 00:20:11,936
-Kan Bükme'nin dünyadaki en güçlü
-þey olduðunu söyleyip durdun.
+Ci¹gle powtarza³eœ, ¿e magia krwi 
+to najpotê¿niejsza rzecz na œwiecie.
 
 222
 00:20:12,396 --> 00:20:15,436
-Ama deðil.
-En güçlüsü Avatar.
+To nieprawda.
+Avatar jest najpotê¿nieszy.
 
 223
 00:20:15,896 --> 00:20:20,116
-Bükme gücünü elinden aldý.
-Bundan daha güçlü ne olabilir?
+To on odebra³ ci twoje zdolnoœci.
+Co mo¿e byæ od tego potê¿niejsze?
 
 224
 00:20:20,116 --> 00:20:25,716
-Sizi bu günlere ben getirdim.
-Bana aitsiniz!
+To ja was stworzy³em!
+Jesteœcie moi!
 
 225
 00:20:25,716 --> 00:20:29,566
-Biz senin oðullarýnýz.
-Ýntikam araçlarýn deðil.
+Jesteœmy twoimi synami.
+Nie narzêdziami zemsty.
 
 226
 00:20:30,226 --> 00:20:33,956
-Gidelim. Ondan kaçabiliriz.
-Bir daha bizi bulamaz.
+Idziemy. Mo¿emy uciec od niego.
+Na zawsze.
 
 227
 00:20:33,956 --> 00:20:38,076
-Kaçmak mý? Annem ne olacak?
-Onu býrakamayýz.
+Uciec? A co z mam¹?
+Nie zostawimy jej.
 
 228
 00:20:38,276 --> 00:20:42,156
-Babam haklýymýþ.
-Gerçekten zayýfsýn.
+Ojciec nie myli³ siê co do ciebie.
+Jesteœ s³abeuszem.
 
 229
 00:20:49,146 --> 00:20:52,016
 Noatak!
-Gitme! Lütfen!
+Nie odchodŸ! Proszê!
 
 230
 00:20:52,546 --> 00:20:54,256
@@ -1038,123 +1024,117 @@ Noatok!
 
 231
 00:20:59,726 --> 00:21:04,276
-<i>Babamla günlerce onu aradýk.
-Ama Noatak'ýn izine rastlamadýk.</i>
+<i>Przez wiele dni szukaliœmy z ojcem Noataka.
+Nigdy nie znaleŸliœmy nawet jego œladu.</i>
 
 232
 00:21:04,666 --> 00:21:07,106
-<i>Fýrtýnada öldüðünü
-düþünmeye baþladýk.</i>
+<i>Powiedzieliœmy, ¿e zagin¹³ w czasie burzy.</i>
 
 233
 00:21:07,106 --> 00:21:11,096
-<i>Aðabeyimi kaybettikten sonra
-annem de eskisi gibi olamadý.</i>
+<i>Moja matka nie by³a t¹ sam¹ osob¹, 
+odk¹d mój brat odszed³.</i>
 
 234
 00:21:14,166 --> 00:21:16,816
-<i>Babam beni eðitmeyi býrakmýþtý.</i>
+<i>Mój ojciec przesta³ mnie szkoliæ.</i>
 
 235
 00:21:16,817 --> 00:21:19,866
-<i>Noatak'ýn gidiþle intikam
-hayalleri de suya düþmüþtü.</i>
+<i>Bez Noataka jego szanse na 
+zemstê zmala³y do zera.</i>
 
 236
 00:21:19,966 --> 00:21:23,226
-<i>Birkaç sene sonra da
-vefat etti zaten.</i>
+<i>Kilka lat póŸniej umar³.</i>
 
 237
 00:21:30,016 --> 00:21:33,076
-Bu, þimdiye kadar
-duyduðum en hüzünlü hikâye.
+To najsmutniejsza historia, 
+jak¹ kiedykolwiek s³ysza³am.
 
 238
 00:21:33,546 --> 00:21:37,996
-Sana yaptýklarým için
-gerçekten üzgünüm, Avatar Korra.
+Przykro mi za to wszystko, 
+co ci zrobi³em, Avatar Korro.
 
 239
 00:21:37,996 --> 00:21:40,286
-Babamdan daha iyi
-olduðumu düþünüyordum.
+Chcia³em byæ lepszy ni¿ mój ojciec.
 
 240
 00:21:40,287 --> 00:21:42,576
-Ama hayaleti hâlâ
-bana yön veriyor.
+Ale jego duch ci¹gle ci¹¿y³ nade mn¹.
 
 241
 00:21:42,766 --> 00:21:46,696
-Aynen onun istediði gibi
-bir intikam askeri olup çýktým.
+Sta³em siê mœcicielem.
+Takim, jakim chcia³ mój ojciec.
 
 242
 00:21:47,256 --> 00:21:49,566
-Kardeþim de keza öyle.
+I takim, jakim sta³ siê mój brat.
 
 243
 00:21:49,886 --> 00:21:53,016
-Devrim bir yalan
-üzerine kurulmuþ olabilir.
+Ca³a ta rewolucja mo¿e 
+i opiera siê o k³amstwo.
 
 244
 00:21:53,256 --> 00:21:56,086
-Ama bence Amon, dünyadaki
-tüm kötülüklerinin kaynaðýnýn...
+Myœlê jednak, ¿e Amon naprawdê wierzy,
+¿e magia jest przyczyn¹
 
 245
 00:21:56,087 --> 00:21:58,916
-...bükücülük olduðuna
-gerçekten inanýyor.
+ca³ego z³a na tym œwiecie.
 
 246
 00:21:59,086 --> 00:22:01,356
-Amon'un aðabeyin
-olduðunu nasýl anladýn?
+Jak odkry³eœ, ¿e Amon to twój brat?
 
 247
 00:22:01,356 --> 00:22:05,746
-Bükme gücümü aldýðýnda
-tanýdýk bir his içimi kapladý.
+Kiedy odebra³ mi moj¹ magiê, 
+poczu³em w nim coœ znajomego.
 
 248
 00:22:06,466 --> 00:22:09,796
-Aðabeyimin Kan Bükme tekniði
-olduðunu sonradan fark ettim.
+PóŸniej zda³em sobie sprawê, 
+¿e to magia krwi mojego brata.
 
 249
 00:22:10,356 --> 00:22:14,836
-Yani Kan Bükme gücünü insanlarýn
-bükme gücünü almak için kullanýyor.
+Wiêc on u¿ywa magii krwi, 
+by odbieraæ zdolnoœci innym magom.
 
 250
 00:22:14,836 --> 00:22:17,041
-Nasýl yaptýðýný bilmiyorum.
+Nie wiem, jak on to robi.
 
 251
 00:22:17,242 --> 00:22:20,446
-Ama Noatak kadar güçlü
-bir bükücüyle hiç karþýlaþmadým.
+Jednak nigdy nie spotka³em 
+tak potê¿nego maga jak Noatak.
 
 252
 00:22:20,446 --> 00:22:22,686
-Onu nasýl yeneceðiz o zaman?
+Wiêc jak mo¿emy go pokonaæ?
 
 253
 00:22:22,686 --> 00:22:23,866
-Yenemeyiz.
+Nie mo¿emy.
 
 254
 00:22:24,196 --> 00:22:27,196
-Yapacaðýmýz her saldýrýyý
-zihniyle savuþturacaktýr.
+Dziêki swojemu umys³owi 
+potrafi sparowaæ ka¿dy atak.
 
 255
 00:22:27,396 --> 00:22:29,576
-Diðer bükücülerle de böyle
-baþ ediyormuþ demek ki.
+Dlatego jest w stanie 
+walczyæ z ka¿dym magiem.
 
 256
 00:22:29,576 --> 00:22:33,396
