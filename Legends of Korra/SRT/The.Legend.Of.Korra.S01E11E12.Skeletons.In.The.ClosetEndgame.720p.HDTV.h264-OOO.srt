@@ -111,7 +111,7 @@ Nigdzie siê nie wybieram.
 
 26
 00:01:39,626 --> 00:01:42,756
-Wróæmy tam i spóœæmy im ³omot.
+Wróæmy tam i spuœæmy im ³omot.
 Nie wiedz¹, z kim zadzieraj¹.
 
 27
@@ -1200,171 +1200,169 @@ Rozdzia³ 12: Ostateczne rozdanie
 
 270
 00:23:37,571 --> 00:23:39,461
-Gizli havaalanýmýzý
-bulduk galiba.
+Myœlê, ¿e znaleŸliœmy to lotnisko.
 
 271
 00:23:39,651 --> 00:23:44,071
-Bolin. Aþaðýya inince
-pisti bozmaný istiyorum.
+Bolin, kiedy zejdziemy na dó³, bedziesz 
+musia³ zniszczyæ pasy startowe.
 
 272
 00:23:44,231 --> 00:23:46,071
-Hava araçlarýnýn
-kalkmasýna izin veremeyiz.
+Nie mo¿emy pozwoliæ, by 
+te samoloty wystartowa³y.
 
 273
 00:23:46,071 --> 00:23:49,231
-Emredersiniz, yüzbaþým.
-Yani generalim. General!
+Tak jest, panie kapitanie!
+To jest generale, oczywiœcie.
 
 274
 00:23:51,231 --> 00:23:54,201
-Biz dönene kadar burada
-bekleyeceksiniz. Tamam mý?
+Wy dwaj czekajcie na nas, 
+a¿ wrócimy. Dobrze?
 
 275
 00:23:55,811 --> 00:23:56,671
-Otur.
+Zostañcie.
 
 276
 00:24:02,981 --> 00:24:05,881
-Direkler var ama neden tel yok?
+Dlaczego jest tu rusztowanie 
+p³otu, ale nie ma p³otu?
 
 277
 00:24:42,011 --> 00:24:45,921
-Bu tarihi günde bize katýldýðýnýz
-için hepinize teþekkürler.
+Dziêkujê, ¿e do³¹czyliœcie do mnie 
+w tej historycznej chwili.
 
 278
 00:24:49,221 --> 00:24:53,861
-Ben daha çocukken bir
-Ateþ Bükücü bütün ailemi katletti...
+Kiedy by³em ch³opcem,
+magowie ognia zabili moj¹ rodzinê
 
 279
 00:24:53,941 --> 00:24:55,861
-...ve yüzümü de yaraladý.
+i oszpecili moj¹ twarz.
 
 280
 00:24:56,301 --> 00:25:01,321
-Bu acý olay benim dünyayý eþit bir yer
-haline getirmek için yola çýkýþ noktam oldu.
+To tragiczne zdarzenie rozpoczê³o moj¹ misjê.
+Misjê stworzenia œwiata, gdzie wszyscy s¹ równi.
 
 281
 00:25:01,771 --> 00:25:03,921
-Yalan söylüyorsun, Amon!
+To k³amstwo, Amon!
 
 282
 00:25:05,511 --> 00:25:08,071
-Yoksa sana Noatak mý demeliyim?
+Czy mo¿e powinnam nazwaæ ciê Noatak?
 
 283
 00:25:10,671 --> 00:25:12,671
--Yakalayalým mý?
--Hayýr.
+- Chcesz, bym j¹ zdj¹³?
+- Nie.
 
 284
 00:25:13,011 --> 00:25:14,921
-Sakin olun.
+Wszyscy spokojnie.
 
 285
 00:25:15,091 --> 00:25:17,531
-Avatar'dan korkmamýza gerek yok.
+Nie musimy siê obawiaæ Avatara.
 
 286
 00:25:17,641 --> 00:25:19,721
-Söyleyeceklerini dinleyelim.
+Pos³uchajmy, co ma do powiedzenia.
 
 287
 00:25:19,891 --> 00:25:21,721
-Amon size en baþýndan
-beri yalan söylüyor.
+Amon was wszystkich ok³ama³.
 
 288
 00:25:22,191 --> 00:25:25,521
-Ona insanlardan bükme gücünü alma
-yeteneðini Kadim Ruhlar vermedi.
+To nie duchy da³y mu zdolnoœæ 
+odbierania innym magii.
 
 289
 00:25:25,521 --> 00:25:27,521
-Bunu yapmak için Kan Bükme
-yeteneðini kullanýyor.
+By to robiæ, u¿ywa magii krwi.
 
 290
 00:25:27,881 --> 00:25:29,521
-Amon bir Su Bükücü'dür.
+Amon jest magiem wody.
 
 291
 00:25:32,851 --> 00:25:34,291
-Ne saçmalýyor bu?
+Co to za brednie?
 
 292
 00:25:34,291 --> 00:25:36,041
-Acýnacak haldesin, Avatar.
+Jesteœ zdesperowana, Avatarze.
 
 293
 00:25:36,121 --> 00:25:39,531
-Son çare olarak hakkýmda
-saçma hikâyeler uyduruyorsun.
+Wymyœlanie takich rzeczy o mnie 
+jest naprawdê ¿a³osne.
 
 294
 00:25:39,761 --> 00:25:42,061
-Ailen bir Ateþ Bükücü
-tarafýndan öldürülmedi.
+Twoja rodzina nie zosta³a 
+zabita przez magów ognia.
 
 295
 00:25:42,231 --> 00:25:47,181
-Babasý Yakone'ydi.
-Kardeþi de Meclis Üyesi Tarrlok.
+Twoim ojcem by³ Yakone, a twoim 
+bratem jest radny Tarrlok.
 
 296
 00:25:48,501 --> 00:25:51,101
-Hoþ bir hikâye.
+Ciekawa historia.
 
 297
 00:25:51,411 --> 00:25:53,521
-Ama size gerçeði göstereceðim.
+Ale ja poka¿ê ci prawdê.
 
 298
 00:26:07,091 --> 00:26:10,201
-Bunu bana bir
-Ateþ Bükücü yaptý.
+To zrobi³ mi mag ognia.
 
 299
 00:26:10,201 --> 00:26:11,201
-Ne?
+Co?
 
 300
 00:26:12,531 --> 00:26:14,141
-<i>Avatar yalan söylüyor!</i>
+<i>Avatar k³amie!</i>
 
 301
 00:26:14,141 --> 00:26:16,141
-O bir Su bükücü diyorum.
+Mówi³am wam.
+On jest magiem wody.
 
 302
 00:26:17,831 --> 00:26:20,451
-Bana inanmadýlar.
-Ýþe yaramadý.
+Nie wierz¹ mi.
+To nie zadzia³a³o.
 
 303
 00:26:20,552 --> 00:26:23,081
-Þansýmýzý denedik.
-Çýkalým buradan.
+Powiedzieliœmy, co mieliœmy powiedzieæ.
+Teraz spadamy st¹d.
 
 304
 00:26:25,681 --> 00:26:29,601
-Yerinde olsam gitmezdim, Avatar.
-Asýl olayý kaçýracaksýn.
+Nie mo¿esz teraz odejœæ, Avatarze.
+Przegapisz g³ówny punkt programu.
 
 305
 00:26:40,391 --> 00:26:42,611
-Nasýl?
-Kaçmýþlardý ama.
+Tylko nie to.
+Z³apa³ ich.
 
 306
 00:26:43,861 --> 00:26:45,991
-Onlarý kaçarken görmüþtük.
+Widzieliœmy przecie¿, jak uciekaj¹.
 
 307
 00:26:48,481 --> 00:26:49,391
@@ -1372,164 +1370,162 @@ Asami.
 
 308
 00:26:51,101 --> 00:26:54,881
-Seni kýrdýðýmý biliyorum.
-Özür dilerim.
+Wiem, ¿e ciê zrani³em.
+Bardzo mi przykro z tego powodu.
 
 309
 00:26:55,241 --> 00:26:59,591
-Bir gün mantýklý düþünmeye baþlayacaðýna
-ve tekrar aile olacaðýmýza inanýyorum.
+Wierzê, ¿e pewnego dnia 
+bêdziemy znowu rodzin¹.
 
 310
 00:26:59,701 --> 00:27:00,701
-Sen delirdin mi?
+Jesteœ szalony?
 
 311
 00:27:01,291 --> 00:27:03,531
-Yaptýðýn onca þeyden sonra
-nasýl tekrar aile olabiliriz?
+Jak po tym wszystkim co zrobi³eœ 
+mo¿emy na powrót byæ rodzin¹?
 
 312
 00:27:04,141 --> 00:27:06,031
-Annem hayatta olsa
-senden nefret ederdi.
+Mama znienawidzi³aby ciê za 
+to, kim siê sta³eœ.
 
 313
 00:27:06,311 --> 00:27:07,591
-Bu ne cüret!
+Jak œmiesz!
 
 314
 00:27:07,971 --> 00:27:10,291
-Zaten onun intikamýný alýyorum.
+Pomszczê jej œmieræ!
 
 315
 00:27:10,941 --> 00:27:12,551
-Uçaklar kalkýþa hazýr efendim.
+Samoloty s¹ gotowe do startu.
 
 316
 00:27:12,801 --> 00:27:15,321
-Güzel.
-Donanmayý yok edin.
+Dobrze.
+Zniszczyæ flotê.
 
 317
 00:27:16,521 --> 00:27:18,301
-Doðru duydunuz, General.
+Dobrze myœlisz, Generale.
 
 318
 00:27:18,301 --> 00:27:21,211
-Amiral Bumi'ye gönderdiðiniz
-mesajý yakaladým.
+Przechwyci³em twoj¹ wiadomoœæ 
+do Komandora Bumiego.
 
 319
 00:27:22,021 --> 00:27:24,901
-Tam olarak nereye
-saklandýklarýn biliyorum.
+Dok³adnie wiem, gdzie siê ukrywaj¹.
 
 320
 00:27:27,621 --> 00:27:29,151
-Buradan nasýl çýkacaðýz?
+Jak siê st¹d wydostaniemy?
 
 321
 00:27:29,621 --> 00:27:33,251
--Metal bükemiyorsundur herhalde.
--Olumsuz, komutaným.
+- Przypuszczam, ¿e nie jesteœ magiem metalu.
+- Nie generale.
 
 322
 00:27:40,331 --> 00:27:42,301
 Naga!
-Buradayýz.
+Tutaj.
 
 323
 00:27:51,791 --> 00:27:55,641
-Metal Bükücü'yü kim ne yapsýn.
-Bizim Naga'mýz var!
+Nie potrzebujemy maga metalu.
+Mamy Nagê!
 
 324
 00:27:59,311 --> 00:28:01,121
-Ben uçaklarýn peþinden gidiyorum.
+Zamierzam powstrzymaæ te samoloty.
 
 325
 00:28:01,201 --> 00:28:03,141
-Yapma, Naga!
+Nie, Naga!
 
 326
 00:28:13,141 --> 00:28:16,271
-Bak sen þu iþe. Ayný Gelecek
-Endüstrileri'nin forklifti gibi.
+Co my tutaj mamy. To przypomina 
+wózek wid³owy z Future Industries.
 
 327
 00:28:38,961 --> 00:28:43,271
-Bu gece Hava Bükücülüðü
-ebediyen dünyadan sileceðim.
+Dzisiaj oczyszczê œwiat 
+z magii powietrza. Na zawsze.
 
 328
 00:28:43,771 --> 00:28:45,271
 Amon!
-Býrak onlarý!
+Puœæ ich!
 
 329
 00:28:45,491 --> 00:28:48,571
-Aþaðý gelip beni durdurmak istersen
-baþýmýn üzerinde yerin var.
+ZejdŸ tutaj i mnie 
+powstrzymaj w takim razie.
 
 330
 00:28:48,711 --> 00:28:52,041
--Sana yem atýyor.
--Umurumda deðil. Onlarý kurtarmalýyýz.
+- Chce cie sprowokowaæ.
+- Nie obchodzi mnie to. Muszê ich uratowaæ.
 
 331
 00:28:52,041 --> 00:28:56,531
-Sahip olduðum gücü Avatar'a
-hatýrlatmak gerekiyor anlaþýlan.
+Muszê przypomnieæ Avatarowi, 
+jakie moce posiadam.
 
 332
 00:29:15,681 --> 00:29:17,571
--Pema ile bebek nerede?
--Hapishanede.
+- Gdzie Pema i dziecko?
+- W wiêzieniu.
 
 333
 00:29:17,571 --> 00:29:18,901
--BeiFong?
--Bilmiyorum.
+- A Beifong?
+- Nie mam pojêcia.
 
 334
 00:29:32,381 --> 00:29:33,331
-Beni takip edin, çocuklar.
+Za mn¹, dzieciaki.
 
 335
 00:29:40,621 --> 00:29:42,761
-Çocuklarý buradan çýkar.
-Biz onlarý oyalarýz.
+Zabierzcie ich st¹d.
+Odwrócimy ich uwagê.
 
 336
 00:29:42,761 --> 00:29:44,261
-Gidip annenizle bebeði alalým.
+Uwolnijmy mamê i dziecko.
 
 337
 00:29:44,261 --> 00:29:46,261
-Firar ediyoruz!
+Ucieczka!
 
 338
 00:30:47,921 --> 00:30:49,311
-Býrak onu!
+Puœæ j¹.
 
 339
 00:31:05,961 --> 00:31:07,841
--Hayýr!
--Korra!
+- Nie!
+- Korra!
 
 340
 00:31:20,281 --> 00:31:22,631
-Seni yok edeceðimi söylemiþtim.
+Mówi³em, ¿e ciê zniszczê.
 
 341
 00:32:53,918 --> 00:32:56,308
-Yardým ettiðin
-için sað ol, Aang.
+Dziêkujê, ¿e czuwa³eœ nade mn¹, Aang.
 
 342
 00:33:19,538 --> 00:33:21,648
-Sað ol, Naga!
+Naga!
 
 343
 00:33:29,188 --> 00:33:29,998
