@@ -1533,38 +1533,36 @@ Asami!
 
 344
 00:33:31,718 --> 00:33:32,998
-Ne yaptýðýný sanýyorsun?
+Co ty robisz?
 
 345
 00:33:33,278 --> 00:33:36,488
-Anneni bizden alan
-insanlara yardým ediyorsun.
+Pomagasz ludziom, którzy zabili twoj¹ matkê.
 
 346
 00:33:37,098 --> 00:33:41,018
-Anneme karþý sevgi beslemiyorsun ki artýk.
-Gözünü nefret bürümüþ senin.
+Ty ju¿ nie kochasz mojej matki.
+Jesteœ przepe³niony nienawiœci¹.
 
 347
 00:33:41,598 --> 00:33:45,038
-Seni nankör, terbiyesiz velet!
+Jesteœ niegrzecznym, bezczelnym dzieckiem.
 
 348
 00:34:05,158 --> 00:34:08,018
-Sen de kurtarýlma ihtimali
-görmüyorum artýk!
+Kolejnej szansy ju¿ nie dostaniesz.
 
 349
 00:34:14,738 --> 00:34:18,078
-Berbat bir babasýnýz, Bay Sato.
+Panie Sato, jest pan okropnym ojcem!
 
 350
 00:34:40,928 --> 00:34:43,528
-Gerçekten de berbat bir babasýn.
+Naprawdê jesteœ okropnym ojcem.
 
 351
 00:34:58,898 --> 00:35:02,098
-Bükme gücün yok artýk.
+W koñcu straci³aœ swoje moce.
 
 352
 00:35:09,818 --> 00:35:11,278
@@ -1572,24 +1570,23 @@ Amon!
 
 353
 00:35:12,638 --> 00:35:16,318
-Avatar'ýn söylediði
-her þey doðruydu, deðil mi?
+Wszystko co mówi³ Avatar by³o prawd¹?
 
 354
 00:35:16,318 --> 00:35:18,318
-Seni kan bükerken gördüm.
+Widzia³em, jak u¿ywa³eœ magii krwi.
 
 355
 00:35:26,128 --> 00:35:27,518
-Hain!
+Jesteœ zdrajc¹!
 
 356
 00:35:27,518 --> 00:35:29,518
-Hayatýmý sana adadým ben!
+Poœwiêci³em ci ca³e swoje ¿ycie!
 
 357
 00:35:39,238 --> 00:35:42,068
-Bana iyi hizmet ettin, teðmen
+Dobrze mi s³u¿y³eœ, Poruczniku.
 
 358
 00:36:20,298 --> 00:36:21,688
@@ -1597,71 +1594,72 @@ Mako.
 
 359
 00:36:21,918 --> 00:36:24,523
--Bükme gücüm.
--Her þey yoluna girecek.
+- Moja magia.
+- Wszystko bêdzie dobrze.
 
 360
 00:36:24,524 --> 00:36:26,688
-Ama buradan çýkmalýyýz.
+Musimy siê st¹d wydostaæ.
 
 361
 00:36:35,708 --> 00:36:39,978
-Etkilendim. Daha önce kimse
-bana üstün gelememiþti.
+Jestem pod wra¿eniem. 
+Nikt inny nie zdo³a³ siê temu oprzeæ.
 
 362
 00:36:42,588 --> 00:36:47,388
-Bu kadar yetenekli birinin bükme gücünü
-aldýðým için neredeyse üzüleceðim bile.
+To wielka strata odebraæ 
+zdolnoœci komuœ tak utalentowanemu.
 
 363
 00:36:47,488 --> 00:36:49,438
-Ama neredeyse.
+Prawie.
 
 364
 00:36:53,158 --> 00:36:54,098
-Hayýr!
+Nie!
 
 365
 00:37:01,748 --> 00:37:02,758
-Ýmkânsýz!
+Niemo¿liwe!
 
 366
 00:37:04,038 --> 00:37:06,898
-Hava bükebiliyor muyum?
+Potrafiê u¿ywaæ magii powietrza?
 
 367
 00:37:07,168 --> 00:37:08,668
-Hava bükebiliyorum!
+Potrafiê u¿ywaæ magii powietrza!
 
 368
 00:37:24,728 --> 00:37:28,138
-Hayýr!
-Yapamayacaksýn!
+Nie!
+Nie uda ci siê to!
 
 369
 00:37:34,398 --> 00:37:36,948
-<i>-Gördünüz mü?
--Kimdi o düþen?</i>
+<i>Widzieliœcie to?
+Kto to jest?</i>
 
 370
 00:37:41,248 --> 00:37:42,008
-<i>Görebiliyor musunuz?</i>
+<i>Co to by³o?
+Widzieliœcie go?</i>
 
 371
 00:37:46,008 --> 00:37:49,628
--Zorbalar sizi!
--Cani Avatar!
+- Widzieliœcie to!
+- Z³y Avatar!
 
 372
 00:38:06,348 --> 00:38:08,448
-<i>-Su büküyor.
--O da bükücüymüþ!</i>
+<i>To oszust.
+Blizna by³a fa³szywa.</i>
 
 373
 00:38:08,578 --> 00:38:11,578
-<i>-Yüzündeki yara sahteymiþ!
--Avatar doðru söylüyormuþ!</i>
+<i>On u¿ywa magii!
+Avatar mówi³ prawdê!</i>
 
 374
 00:38:43,698 --> 00:38:44,698
@@ -1669,83 +1667,83 @@ Noatak.
 
 375
 00:38:46,058 --> 00:38:47,238
-Her þey bitti, kardeþim.
+To koniec, bracie.
 
 376
 00:38:47,938 --> 00:38:50,198
-Sana yaptýklarým için özür dilerim.
+Przepraszam ciê za wszystko, co ci zrobi³em.
 
 377
 00:38:51,728 --> 00:38:53,998
-Bizi bu yola babamýz itti.
+To nasz ojciec pchn¹³ nas na tê drogê.
 
 378
 00:38:54,058 --> 00:38:56,288
-Ama kader bizi tekrar karþýlaþtýrdý.
+Przeznaczenie prowadzi³o nas przeciwko sobie.
 
 379
 00:38:56,318 --> 00:38:59,138
-Çocukken seninle gelmeliydim.
+Powinienem pujœæ z tob¹, gdy uciek³eœ.
 
 380
 00:39:00,728 --> 00:39:01,988
-Þimdi gel.
+Opuœæ miasto ze mn¹.
 
 381
 00:39:02,648 --> 00:39:06,458
-Ýkinci bir þansýmýz var.
-Yeni bir baþlangýç yapabiliriz.
+Dostaliœmy drug¹ szansê.
+Mo¿emy zacz¹æ od nowa razem.
 
 382
 00:39:06,578 --> 00:39:10,168
-Lütfen. Bu dünyada senden
-baþka kimsem kalmadý.
+Proszê. Jesteœ wszystkim, 
+co mi pozosta³o na tym œwiecie.
 
 383
 00:39:17,948 --> 00:39:20,478
-Amon'un senin de güçlerini
-aldýðýna inanamýyorum.
+Nie mogê uwierzyæ, 
+¿e Amon dorwa³ i ciebie.
 
 384
 00:39:20,478 --> 00:39:23,478
-En azýndan Hava Bükme
-sorunun çözüldü.
+Hej, przynajmniej mo¿esz 
+u¿ywaæ magii powietrza.
 
 385
 00:39:24,998 --> 00:39:26,528
-Hiç sýrasý deðil.
+Bracie, nie teraz.
 
 386
 00:39:26,778 --> 00:39:32,618
-Haklýsýn. Ben þuraya
-gidip susuyorum o zaman.
+Dobrze, dobrze. 
+Bêdê sta³ tutaj. W ciszy.
 
 387
 00:39:38,698 --> 00:39:40,998
-Cumhuriyet Þehri'ni kurtardýn.
+Uratowa³aœ Republic City.
 
 388
 00:39:41,238 --> 00:39:43,338
-Ama Amon kaçtý.
+Ale Amon uciek³.
 
 389
 00:39:45,478 --> 00:39:47,468
-Yaþasýn!
-Bumi Amca geldi.
+Patrzcie!
+Przyp³yn¹³ wujek Bumi.
 
 390
 00:39:52,468 --> 00:39:55,708
-Harika. Bir de kardeþ
-eðlendirmek eksikti.
+Wspaniale. Teraz bêdê musia³ 
+zabawiaæ mojego brata.
 
 391
 00:40:06,628 --> 00:40:11,088
-Ýkimiz yine birlikteyiz.
-Yapamayacaðýmýz þey yok.
+Nasza dwójka znów razem.
+Teraz mo¿emy wszystko.
 
 392
 00:40:11,088 --> 00:40:13,088
-Evet, Noatak.
+Tak, Noatak.
 
 393
 00:40:13,088 --> 00:40:15,088
@@ -1753,127 +1751,121 @@ Noatak...
 
 394
 00:40:15,388 --> 00:40:18,268
-Noatak. Adýmýn týnýsýný
-bile neredeyse unutmuþum.
+Prawie zapomnia³em, 
+jak brzmi moje imiê.
 
 395
 00:40:35,278 --> 00:40:37,988
-Her þey eski günlerdeki gibi olacak.
+Bêdzie jak za starych czasów.
 
 396
 00:41:09,876 --> 00:41:12,726
-Gücüm dâhilinde
-her þeyi denedim.
+Próbowa³am wszystkiego,
 
 397
 00:41:12,936 --> 00:41:15,956
-Ama Korra'nýn bükme
-gücünü geri getiremedim.
+ale nie jestem w stanie 
+przywróciæ Korrze jej magii.
 
 398
 00:41:18,006 --> 00:41:21,416
-Ama sen dünyadaki en iyi þifacýsýn.
-Denemeye devam etmelisin.
+Jesteœ najlepszym medykiem na œwiecie.
+Musisz próbowaæ.
 
 399
 00:41:21,656 --> 00:41:24,126
-Üzgünüm ama elimden
-baþka bir þey gelmez.
+Przykro mi. Nic wiêcej nie 
+jestem w stanie zrobiæ.
 
 400
 00:41:24,126 --> 00:41:26,126
-Korra, hava bükmeye
-devam edecek.
+Korra wci¹¿ moze u¿ywaæ magii powietrza,
 
 401
 00:41:26,126 --> 00:41:29,416
-Ama diðer elementlerle olan
-baðlantýsý koparýlmýþ.
+ale jej po³¹czenia z innymi 
+¿ywio³ami zosta³y zerwane.
 
 402
 00:41:38,346 --> 00:41:40,506
-Her þey yoluna girecek, Korra.
+Wszystko bêdzie dobrze, Korra.
 
 403
 00:41:40,636 --> 00:41:43,866
-Hayýr, girmeyecek.
+Nie, nie bêdzie.
 
 404
 00:41:57,436 --> 00:42:00,116
-Korra, bekle!
+Korra, czekaj!
 
 405
 00:42:01,616 --> 00:42:03,276
-Git buradan!
+OdejdŸ!
 
 406
 00:42:03,276 --> 00:42:07,346
-Gideceðim. Ama yanýnda
-olduðumu bilmeni istiyorum.
+Dobrze. Ale chcê, byœ wiedzia³a, 
+¿e zawsze bêdê blisko ciebie.
 
 407
 00:42:07,696 --> 00:42:13,536
-Yani git buradan. Þehre geri dön.
-Hayatýna devam et.
+Nie. Chcê, byœ sobie poszed³.
+Wróæ do Republic City.
 
 408
 00:42:13,536 --> 00:42:15,136
-Ne diyorsun sen ya?
+O czym ty mówisz?
 
 409
 00:42:15,266 --> 00:42:16,946
-Artýk Avatar deðilim.
+Nie jestem ju¿ Avatarem.
 
 410
 00:42:17,146 --> 00:42:19,226
-Bana iyi davranmak
-zorunda deðilsin.
+Nie jesteœ mi nic winien.
 
 411
 00:42:20,246 --> 00:42:23,306
-Avatar olup olmaman
-umurumda deðil.
+Nie obchodzi mnie, czy jesteœ Avatarem.
 
 412
 00:42:25,386 --> 00:42:27,991
-Tarrlok seni kaçýrdýðýnda
-aklýmý oynatacaktým.
+Pos³uchaj. Gdy Tarrlok ciê porwa³,
 
 413
 00:42:28,092 --> 00:42:30,056
-Bir daha seni
-göremeyeceðimi sandým.
+odchodzi³em od zmys³ów.
 
 414
 00:42:30,096 --> 00:42:32,176
-Anladým ki...
+Uœwiadomi³em sobie,
 
 415
 00:42:32,796 --> 00:42:34,176
-Seni seviyorum, Korra.
+¿e ciê kocha³, Korra.
 
 416
 00:42:36,258 --> 00:42:40,328
--Yapamam.
--Korra!
+- Nie mogê.
+- Korra!
 
 417
 00:42:47,936 --> 00:42:49,846
-Ona karþý sabýrlý olmalýyýz.
+Musisz byæ cierpliwy.
 
 418
 00:42:49,846 --> 00:42:53,506
-Baþýna gelenleri
-kabullenmesi zaman alacaktýr.
+Potrzeba czasu, 
+by zakceptowa³a to, co siê sta³o.
 
 419
 00:43:34,786 --> 00:43:38,266
-Þimdi olmaz, Tenzin.
-Yalnýz kalmak istiyorum.
+Nie teraz, Tenzin.
+Chcê byæ sama.
 
 420
 00:43:38,456 --> 00:43:40,576
-Ama beni sen çaðýrdýn.
+Ale wezwa³aœ mnie.
 
 421
 00:43:42,616 --> 00:43:43,756
@@ -1881,35 +1873,31 @@ Aang?
 
 422
 00:43:43,756 --> 00:43:46,796
-Sonunda ruhani tarafýnla
-baðlantý kurabildin.
+Uda³o ci siê po³¹czyæ 
+ze swoim duchowym "ja".
 
 423
 00:43:47,196 --> 00:43:48,206
-Nasýl?
+Jak?
 
 424
 00:43:48,206 --> 00:43:52,796
-Dibe vurduðumuz zaman en büyük
-deðiþime açýk hale geliriz.
+Gdy ktoœ uderzy w nasz najs³abszy punkt, 
+jesteœmy otwarci na najwiêksze zmiany.
 
 425
 00:44:51,596 --> 00:44:53,786
-Ben de seni seviyorum.
+Kocham ciê.
 
 426
 00:45:37,976 --> 00:45:39,406
-Teþekkür ederim.
+Dziêkujê.
 
 427
 00:45:41,736 --> 00:45:43,856
-Seninle gurur duyuyorum.
+Jestem dumny z ciebie,
 
 428
 00:45:44,026 --> 00:45:45,736
-Avatar Korra.
-
-429
-00:45:55,796 --> 00:45:59,616
-Çeviri: DeaDy
+Avatar Korro.
 
