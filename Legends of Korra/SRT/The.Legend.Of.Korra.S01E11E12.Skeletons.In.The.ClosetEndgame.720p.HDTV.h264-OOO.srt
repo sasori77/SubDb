@@ -38,7 +38,7 @@ zaatakowali wyspê Œwi¹tyni Powietrza,</i>
 
 10
 00:00:24,936 --> 00:00:27,176
-<i>zmusz¹j¹c Tenzina 
+<i>zmuszaj¹c Tenzina 
 i jego rodzinê do ucieczki.</i>
 
 11
@@ -146,7 +146,7 @@ Witajcie.
 
 34
 00:02:05,036 --> 00:02:08,956
-Mam nadziejê, ¿e jesteœci g³odni, 
+Mam nadziejê, ¿e jesteœcie g³odni, 
 bo za chwilê podajemy kolacjê.
 
 35
@@ -168,7 +168,7 @@ Tutaj magowie i nie-magowie ¿yj¹ razem.
 
 39
 00:02:23,486 --> 00:02:26,356
-Czy widziesz, ¿ebyœmy z sob¹ walczyli. Nie.
+Czy widzisz, ¿ebyœmy z sob¹ walczyli. Nie.
 
 40
 00:02:26,356 --> 00:02:29,356
@@ -185,7 +185,7 @@ jakie kiedykolwiek jad³em. Powaga.
 
 43
 00:02:37,956 --> 00:02:42,646
-Przyrz¹dzi³em j¹ z najlepszych odpadów, 
+Przyrz¹dzi³em je z najlepszych odpadów, 
 jakie uda³o mi siê znaleŸæ.
 
 44
@@ -231,7 +231,7 @@ i bezinteresown¹ osob¹, jak¹ znam.
 53
 00:03:26,276 --> 00:03:30,556
 Ty te¿ jesteœ niesamowity... 
-ale myœlê, ¿e ju¿ to wiesz.
+ale myœlê, ¿e ju¿ o tym wiesz.
 
 54
 00:03:34,816 --> 00:03:36,726
@@ -289,9 +289,8 @@ To pu³apka.
 
 67
 00:05:48,548 --> 00:05:51,058
-Magowie wody i ziemii.
+Magowie wody i ziemi.
 Zdetonowaæ te miny.
-
 
 68
 00:05:54,048 --> 00:05:55,898
@@ -374,7 +373,7 @@ Da siê wys³aæ st¹d wiadomoœæ?
 
 86
 00:09:46,734 --> 00:09:48,374
-Zam goœcia odpowiedniego do tej roboty.
+Znam goœcia odpowiedniego do tej roboty.
 
 87
 00:09:49,404 --> 00:09:52,824
@@ -576,7 +575,7 @@ Po co?
 131
 00:13:15,194 --> 00:13:18,424
 Wiec. Powinniœcie byæ 
-o tym poinformowani?
+o tym poinformowani.
 
 132
 00:13:18,424 --> 00:13:20,304
@@ -641,7 +640,7 @@ Wiedzia³eœ o tym ca³y czas?
 
 147
 00:14:21,556 --> 00:14:25,116
-Nie. Dowiedzia³em sie tego, gdy mnie z³apa³.
+Nie. Domyœli³em sie tego, gdy mnie z³apa³.
 
 148
 00:14:25,116 --> 00:14:28,116
@@ -704,7 +703,7 @@ naszymi nowymi umiejêtnoœciami,</i>
 
 161
 00:15:17,386 --> 00:15:20,356
-<i>Ale nasz trening pokaza³ 
+<i>ale nasz trening pokaza³ 
 ciemn¹ stronê naszego ojca.</i>
 
 162
@@ -714,7 +713,7 @@ Tarrlok!
 163
 00:15:21,876 --> 00:15:26,356
 Skup siê nad kszta³tem, 
-albo bedziesz sta³ tutaj ca³¹ noc.
+albo bêdziesz sta³ tutaj ca³¹ noc.
 
 164
 00:15:26,356 --> 00:15:28,626
@@ -728,7 +727,7 @@ Twój brat nigdy nie by³ taki niechlujny.
 166
 00:15:31,136 --> 00:15:34,596
 Tato, urazi³eœ go.
-Potrzebuje poprostu czasu.
+Potrzebuje po prostu czasu.
 
 167
 00:15:34,596 --> 00:15:37,556
@@ -754,7 +753,7 @@ zabra³ mnie i brata</i>
 
 172
 00:15:53,806 --> 00:15:56,936
-<i>W przesz³oœci by³ znany jako Yakon, 
+<i>W przesz³oœci by³ znany jako Yakone, 
 najwiêkszy przestêpca Republic City.</i>
 
 173
@@ -773,7 +772,7 @@ forma magii, jaka istnieje.
 
 176
 00:16:07,946 --> 00:16:11,966
-Zosta³¹ zabroniona przez tego tchórza, Katarê.
+Zosta³a zabroniona przez tego tchórza, Katarê.
 
 177
 00:16:12,366 --> 00:16:16,216
@@ -829,7 +828,7 @@ zabiera³ nas na kolejne "polowanie",</i>
 
 189
 00:16:56,826 --> 00:17:00,026
-<i>gdzie w sekreci æwiczyliœmy magiê krwi.</i>
+<i>gdzie w sekrecie æwiczyliœmy magiê krwi.</i>
 
 190
 00:17:00,316 --> 00:17:03,096
@@ -852,8 +851,8 @@ Bardzo dobrze.
 
 194
 00:17:29,716 --> 00:17:32,976
-<i>Kilka lat pó¿niej ojciec nauczy³ nas 
-u¿ywaæ magii krwi w dowolym momencie,</i>
+<i>Kilka lat póŸniej ojciec nauczy³ nas 
+u¿ywaæ magii krwi w dowolnym momencie,</i>
 
 195
 00:17:33,076 --> 00:17:35,686
@@ -900,7 +899,7 @@ oczekiwañ i wymagañ Yakone'a.</i>
 
 204
 00:18:49,906 --> 00:18:52,966
-<i>W ciagu tych wszystkich lat 
+<i>W ci¹gu tych wszystkich lat 
 coœ siê w nim zmieni³o.</i>
 
 205
@@ -940,7 +939,7 @@ Nie zrobiê tego.
 
 213
 00:19:39,536 --> 00:19:41,916
-U¿yj magii krwii na swoim bracie, Tarrlok!
+U¿yj magii krwi na swoim bracie, Tarrlok!
 
 214
 00:19:41,916 --> 00:19:45,246
@@ -962,11 +961,11 @@ Nauczê ciê pokory.
 
 218
 00:19:56,516 --> 00:19:58,626
-Nie zbili¿aj siê od niego!
+Nie zbli¿aj siê od niego!
 
 219
 00:19:58,626 --> 00:20:02,216
-Jak œmiesz uzywaæ magii krwi na mnie!
+Jak œmiesz u¿ywaæ magii krwi na mnie!
 
 220
 00:20:02,516 --> 00:20:06,016
@@ -981,7 +980,7 @@ to najpotê¿niejsza rzecz na œwiecie.
 222
 00:20:12,396 --> 00:20:15,436
 To nieprawda.
-Avatar jest najpotê¿nieszy.
+Avatar jest najpotê¿niejszy.
 
 223
 00:20:15,896 --> 00:20:20,116
@@ -1047,7 +1046,7 @@ zemstê zmala³y do zera.</i>
 
 236
 00:21:19,966 --> 00:21:23,226
-<i>Kilka lat póŸniej umar³.</i>
+<i>Kilka lat póŸniej zmar³.</i>
 
 237
 00:21:30,016 --> 00:21:33,076
@@ -1065,7 +1064,7 @@ Chcia³em byæ lepszy ni¿ mój ojciec.
 
 240
 00:21:40,287 --> 00:21:42,576
-Ale jego duch ci¹gle ci¹¿y³ nade mn¹.
+Ale jego duch stale ci¹¿y³ nade mn¹.
 
 241
 00:21:42,766 --> 00:21:46,696
@@ -1204,7 +1203,7 @@ Myœlê, ¿e znaleŸliœmy to lotnisko.
 
 271
 00:23:39,651 --> 00:23:44,071
-Bolin, kiedy zejdziemy na dó³, bedziesz 
+Bolin, kiedy zejdziemy na dó³, bêdziesz 
 musia³ zniszczyæ pasy startowe.
 
 272
@@ -1471,7 +1470,7 @@ powstrzymaj w takim razie.
 
 330
 00:28:48,711 --> 00:28:52,041
-- Chce cie sprowokowaæ.
+- Chce ciê sprowokowaæ.
 - Nie obchodzi mnie to. Muszê ich uratowaæ.
 
 331
@@ -1683,7 +1682,7 @@ Przeznaczenie prowadzi³o nas przeciwko sobie.
 
 379
 00:38:56,318 --> 00:38:59,138
-Powinienem pujœæ z tob¹, gdy uciek³eœ.
+Powinienem pójœæ z tob¹, gdy uciek³eœ.
 
 380
 00:39:00,728 --> 00:39:01,988
@@ -1738,7 +1737,7 @@ zabawiaæ mojego brata.
 
 391
 00:40:06,628 --> 00:40:11,088
-Nasza dwójka znów razem.
+Nasza dwójka jest znów razem.
 Teraz mo¿emy wszystko.
 
 392
@@ -1779,7 +1778,7 @@ jestem w stanie zrobiæ.
 
 400
 00:41:24,126 --> 00:41:26,126
-Korra wci¹¿ moze u¿ywaæ magii powietrza,
+Korra wci¹¿ mo¿e u¿ywaæ magii powietrza,
 
 401
 00:41:26,126 --> 00:41:29,416
@@ -1842,7 +1841,7 @@ Uœwiadomi³em sobie,
 
 415
 00:42:32,796 --> 00:42:34,176
-¿e ciê kocha³, Korra.
+¿e ciê kocham, Korra.
 
 416
 00:42:36,258 --> 00:42:40,328
@@ -1856,7 +1855,7 @@ Musisz byæ cierpliwy.
 418
 00:42:49,846 --> 00:42:53,506
 Potrzeba czasu, 
-by zakceptowa³a to, co siê sta³o.
+by zaakceptowa³a to, co siê sta³o.
 
 419
 00:43:34,786 --> 00:43:38,266
