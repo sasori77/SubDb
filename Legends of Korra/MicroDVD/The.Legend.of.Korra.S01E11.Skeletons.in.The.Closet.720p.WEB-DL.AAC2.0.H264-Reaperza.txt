@@ -1,0 +1,267 @@
+{256}{302}Ziemia
+{314}{356}Ogieñ
+{368}{414}Powietrze
+{421}{473}Woda
+{482}{590}{Y:i}Tylko Avatar mo¿e opanowaæ|wszystkie cztery ¿ywio³y
+{591}{666}{Y:i}i zaprowadziæ równowagê na œwiecie.
+{837}{887}{Y:i}Equaliœci atakuj¹.
+{892}{984}{Y:i}Porucznik i jego blokerzy chi|zaatakowali wyspê Œwi¹tyni Powietrza,
+{984}{1051}{Y:i}zmuszaj¹c Tenzina|i jego rodzinê do ucieczki.
+{1051}{1176}{Y:i}W czasie zuchwa³ej ucieczki, Lin Beifong|poœwiêci³a siê, by ratowaæ magów powietrza.
+{1184}{1278}{Y:i}Zosta³a jednak schwytana przez popleczników|Amona, który odebra³ jej magiê.
+{1278}{1426}{Y:i}Teraz Dru¿yna Avatara ukrywa siê,|czekaj¹c na pomoc genera³a Iroh i Zjednoczonych Si³.
+{1443}{1550}Ksiêga pierwsza: Powietrze|Rozdzia³ 11: Trup w szafie
+{1592}{1705}To wielki dzieñ,|moi bracia i siostry.
+{1716}{1845}Amon obali³ tyraniê rz¹dz¹cych magów.
+{1854}{1951}Og³osi³, ¿e od tej pory magia jest zabroniona.
+{1970}{2088}Wygna³ te¿ z miasta Avatara.
+{2118}{2209}Nasz wielki lider ma wizjê przysz³oœci.
+{2214}{2316}Wkrótce magia przestanie istnieæ.
+{2316}{2427}A my bêdziemy ¿yli w œwiecie,|gdzie wszyscy s¹ równi!
+{2441}{2559}Zjednoczone Si³y p³yn¹ tutaj,|by zniszczyæ nasze marzenia.
+{2559}{2662}Ale to my zwyciê¿ymy!
+{3076}{3120}S³ysza³eœ Hiroshiego?
+{3120}{3210}"Wygna³ Avatara z miasta."|Nigdzie siê nie wybieram.
+{3223}{3316}Wróæmy tam i spuœæmy im ³omot.|Nie wiedz¹, z kim zadzieraj¹.
+{3316}{3442}Spokojnie. Genera³ Iroh|p³ynie tutaj z flot¹ statków.
+{3449}{3510}To Amon bêdzie musia³ uciekaæ.
+{3510}{3607}Nienawidzê ci¹gle s³yszeæ|"musisz byæ cierpliwa".
+{3780}{3824}Co wasza dwójka robi³a tyle czasu?
+{3824}{3897}Przeprowadzaliœmy rekonesans.
+{3903}{3933}Niewa¿ne.
+{3945}{3978}Witajcie.
+{3984}{4102}Mam nadziejê, ¿e jesteœcie g³odni,|bo za chwilê podajemy kolacjê.
+{4154}{4238}Dziêkujê, ¿e pozwalasz nam siê ukrywaæ tutaj.
+{4238}{4282}To dla mnie zaszczyt.
+{4282}{4435}Ja i moi towarzysze sprzeciwiamy siê|tej "polityce równoœci" Amona.
+{4441}{4537}Tutaj magowie i nie-magowie ¿yj¹ razem.
+{4537}{4623}Czy widzisz, ¿ebyœmy z sob¹ walczyli. Nie.
+{4623}{4713}Nauczyliœmy siê ¿yæ razem w pe³nej harmonii.
+{4713}{4783}Jesteœ naprawdê m¹dry i szlachetny.
+{4859}{4971}To najlepsze uliczne jedzenie,|jakie kiedykolwiek jad³em. Powaga.
+{4971}{5111}Przyrz¹dzi³em je z najlepszych odpadów,|jakie uda³o mi siê znaleŸæ.
+{5575}{5610}Nie mo¿esz spaæ?
+{5632}{5725}Nie mogê spaæ przez|to wszystko, co siê dzieje.
+{5731}{5779}Ja te¿.
+{5790}{5838}To jest naprawdê szalone.
+{5838}{5959}Kilka miesiêcy temu by³am na Biegunie Po³udniowym,|przygotowuj¹c siê do egzaminu z magii ognia.
+{5971}{6041}A teraz jestem w samym centrum wojny.
+{6057}{6143}Rozumiem. Nie pomyœla³bym wtedy|nawet, ¿e siê poznamy.
+{6143}{6270}A teraz nie wyobra¿am sobie ¿ycia bez ciebie.
+{6283}{6404}Jesteœ najbardziej lojaln¹, odwa¿n¹|i bezinteresown¹ osob¹, jak¹ znam.
+{6419}{6547}Ty te¿ jesteœ niesamowity...|ale myœlê, ¿e ju¿ o tym wiesz.
+{6675}{6732}Myœlê, ¿e powinnam siê przespaæ.
+{6756}{6823}Ja te¿. Dobranoc.
+{6877}{6912}Dobranoc.
+{7388}{7504}Zostaniesz teraz oczyszczony.
+{7741}{7780}Nastêpny.
+{8189}{8254}Wybrze¿e czyste.
+{8686}{8794}Gdy Zjednoczone Si³y przybêd¹,|musimy byæ gotowi pomóc im jak tylko mo¿emy.
+{8794}{8835}Ju¿ s¹.
+{9217}{9349}Amon musia³ wiedzieæ, ¿e nadchodzimy.|Dlaczego wiêc nie napotkaliœmy ¿adnego oporu?
+{9364}{9480}Chwileczkê. Nie widaæ nigdzie sterowców Equalistów.
+{9608}{9695}Nie ma te¿ tych mechów.
+{10055}{10105}Coœ tu nie gra.
+{10292}{10330}To pu³apka.
+{10683}{10758}Magowie wody i ziemi.|Zdetonowaæ te miny.
+{10848}{10903}Co to za dŸwiêk?
+{11215}{11250}Co to?
+{11529}{11670}Kiedy Hiroshi mia³ czas stworzyæ|te wszystkie diabelskie maszyny?
+{13128}{13172}Torpeda!
+{16463}{16516}Wszystko dobrze.|Mam ciê.
+{16565}{16624}Avatar Korra?
+{16656}{16748}Uratowa³aœ mi ¿ycie. Dziêkujê.
+{17004}{17081}By³em przygotowany|do walki z mechami Sato,
+{17081}{17142}ale by³em bezradny w starciu|z tymi nowymi, szybkimi maszynami.
+{17142}{17225}Wiem. Zawsze, gdy wydaje nam siê,|¿e mamy przewagê,
+{17225}{17270}Amon przechytrza nas.
+{17270}{17367}Nie wa¿ne, jaki plan mamy,|on zawsze jest krok przed nami.
+{17369}{17426}Póki co Amon jest gór¹.
+{17438}{17495}Ale ja nie zamierzam daæ za wygran¹.
+{17495}{17572}Podoba mi siê twoja pewnoœæ siebie.
+{17586}{17647}Wiêc jak mamy walczyæ z nim teraz?
+{17668}{17744}Druga fala posi³ków jest w drodze.
+{17746}{17851}Ale musimy ich ostrzec.|Da siê wys³aæ st¹d wiadomoœæ?
+{17854}{17903}Znam goœcia odpowiedniego do tej roboty.
+{17934}{18037}Do kogo mam wys³aæ tê tajn¹ wiadomoœæ?
+{18037}{18128}Komandor Bumi. Druga dywizja Zjednoczonych Si³.
+{18128}{18159}To brat Tenzina?
+{18159}{18290}Tak. Kawa³ z niego dzikusa, ale to najodwa¿niejszy|dowódca w ca³ych Zjednoczonych Si³ach.
+{18290}{18320}Jestem gotowy.
+{18320}{18415}Flota wpad³a w zasadzkê|i zosta³a zniszczona przez maszyny Equalistów.
+{18415}{18496}Wycofajcie siê do Wyspy Czerwonych Piasków|i czekajcie na mój sygna³.
+{18498}{18606}Nie zbli¿ajcie siê do miasta,|póki nie otrzymacie sygna³u.
+{18696}{18744}Pora na trudniejsz¹ czêœæ.
+{18752}{18905}Musimy uziemiæ te samoloty, inaczej flota Bumiego|nigdy nie bêdzie mog³a przej¹æ miasta.
+{18905}{18964}Nadlatywali z tego kierunku.
+{18968}{19050}Lotnisko musi byæ gdzieœ w tych górach.
+{19055}{19153}B¹dŸcie gotowi.|Ruszamy o œwicie.
+{19257}{19330}Pora uziemiæ mojego ojca.
+{19500}{19537}Czekajcie.
+{19563}{19653}Przykro mi, ale nie mogê iœæ jutro z wami.
+{19653}{19704}- Co?|- Dlaczego nie?
+{19704}{19813}Jestem zmêczona ci¹g³ym ukrywaniem siê przed Amonem.|Zmierzê siê z nim twarz¹ w twarz.
+{19817}{19908}To nie jest dobrzy pomys³.|Powinniœmy trzymaæ siê razem.
+{19908}{19977}Nie chcê czekaæ, a¿ mnie z³apie.
+{19979}{20056}Intuicja mówi mi,|¿e pora to zakoñczyæ.
+{20064}{20105}Na moich warunkach.
+{20114}{20205}Korra, nie powinnaœ siê|z nim mierzyæ sama.
+{20209}{20295}I nie bêdzie.|Idê razem z ni¹.
+{20327}{20444}- Nie musisz tego robiæ.|- Muszê.
+{20567}{20717}Mój dziadek szanowa³ intuicjê Avatara,|wiêc ja te¿ tak zrobiê.
+{20926}{21022}- Kocham ciê, braciszku.|- Ja ciebie te¿, bracie.
+{21155}{21279}Korra, Amon to z³y koleœ. B¹dŸ ostro¿na.
+{21279}{21377}- Bêdê.|- Powodzenia.
+{21393}{21484}Jeœli wybieracie siê w góry,|powinniœcie zabraæ ze sob¹ Nagê.
+{21484}{21552}Dbaj o Bolina.
+{21635}{21688}Asami.
+{21707}{21786}Przykro mi, ¿e sprawy miêdzy nami przybra³y taki obrót.
+{21786}{21919}Cokolwiek siê dzisiaj wydarzy,|wiedz, ¿e jesteœ dla mnie bardzo wa¿na.
+{21926}{21979}Ty te¿ jesteœ wa¿ny dla mnie.
+{22477}{22620}Powodzenia wam, dzielni bohaterowie.
+{23320}{23349}To Amon.
+{23414}{23527}Musimy dostaæ siê do œwi¹tyni.|A gdy powróci...
+{23527}{23591}Wpadnie w zasadzkê.
+{23715}{23784}Co wy tu robicie?
+{23816}{23876}Zostaliœmy przeniesieni tutaj.
+{23876}{23945}Wiêc zostaniecie przeniesieni znowu.
+{23945}{24038}Amon chce dodatkowej|ochrony na stadionie.
+{24038}{24102}Stadion?|Po co?
+{24102}{24198}Wiec. Powinniœcie byæ|o tym poinformowani.
+{24198}{24255}Bêdziemy tam!
+{24285}{24337}Znam inne wejœcie.
+{24684}{24750}Ukryjmy siê na strychu.
+{24893}{24942}Nie jesteœmy tutaj sami.
+{25000}{25042}Tarrlok?
+{25100}{25175}Nie s¹dzi³em, ¿e przyjdziecie mnie uratowaæ.
+{25175}{25261}Nie mieliœmy pojêcia, ¿e tu bêdziesz.
+{25261}{25315}Czy na wyspie s¹ jacyœ inni wiêŸniowie?
+{25315}{25395}Nie. Jestem sam.
+{25404}{25481}Wiêc dlaczego tylko ciebie tutaj trzyma?
+{25494}{25569}Bo jestem bratem Amona.
+{25814}{25956}Amon pochodzi z Pó³nocnego Plemienia Wody.|Jest magiem wody i magiem krwi.
+{25956}{25996}Tak jak ja.
+{25999}{26026}Co!?
+{26041}{26091}Wiedzia³eœ o tym ca³y czas?
+{26091}{26197}Nie. Domyœli³em sie tego, gdy mnie z³apa³.
+{26197}{26287}Jak twój brat sta³ siê Amonem?
+{26294}{26398}Wszystko zaczê³o siê od naszego ojca, Yakone'a.
+{26410}{26511}{Y:i}Jego gang pomóg³ mu uciec z wiêzienia.
+{26517}{26606}{Y:i}Nastêpnie podda³ siê operacji plastycznej,|by zmieniæ swój wygl¹d.
+{26629}{26755}{Y:i}Dziêki nowej to¿samoœci zacz¹³|nowe ¿ycie w Pó³nocnym Plemieniu Wody.
+{26785}{26952}{Y:i}Tam pozna³ moj¹ matkê,|ciep³¹, opiekuñcz¹ kobietê.
+{27043}{27127}{Y:i}Wkrótce za³o¿y³ z ni¹ rodzinê.
+{27167}{27261}{Y:i}Amon by³ jego pierworodnym synem|i nosi³ imiê Noatak.
+{27261}{27360}{Y:i}Ja urodzi³em siê trzy lata póŸniej.
+{27366}{27487}{Y:i}Noatak by³ dobrym dzieckiem,|zawsze opiekowa³ siê mn¹.
+{27493}{27551}{Y:i}To by³y dobre czasy...
+{27553}{27653}{Y:i}Dopóki nie odkryliœmy,|¿e jesteœmy magami wody.
+{27664}{27754}{Y:i}Pocz¹tkowo byliœmy zachwyceni|naszymi nowymi umiejêtnoœciami,
+{27764}{27853}{Y:i}ale nasz trening pokaza³|ciemn¹ stronê naszego ojca.
+{27853}{27889}Tarrlok!
+{27898}{28033}Skup siê nad kszta³tem,|albo bêdziesz sta³ tutaj ca³¹ noc.
+{28033}{28101}- Staram siê...|- Staraj siê mocniej!
+{28104}{28176}Twój brat nigdy nie by³ taki niechlujny.
+{28176}{28280}Tato, urazi³eœ go.|Potrzebuje po prostu czasu.
+{28280}{28368}Nie odzywaj siê do mnie w ten sposób. Nigdy!
+{28375}{28536}{Y:i}Ju¿ wtedy mój brat chcia³,|¿eby wszyscy byli traktowani równo.
+{28552}{28681}{Y:i}Gdy mia³em siedem lat, mój ojciec|zabra³ mnie i brata
+{28684}{28734}{Y:i}na polowanie z dala od domu.
+{28744}{28855}{Y:i}Zdradzi³ nam wtedy swoj¹ prawdziw¹ to¿samoœæ.
+{28855}{28949}{Y:i}W przesz³oœci by³ znany jako Yakone,|najwiêkszy przestêpca Republic City.
+{28956}{29070}{Y:i}Oraz to, ¿e posiada³ bardzo rzadk¹|umiejêtnoœæ - magiê krwi.
+{29070}{29138}Czym jest magia krwi?
+{29138}{29272}To najpotê¿niejsza i najstraszniejsza|forma magii, jaka istnieje.
+{29279}{29400}Zosta³a zabroniona przez tego tchórza, Katarê.
+{29412}{29527}Nasza rodzina posiada|najsilniejsz¹ liniê magii krwi w historii.
+{29540}{29691}Drzemie w was wielka si³a,|a ja nauczê was jej u¿ywaæ.
+{29701}{29768}Co siê sta³o z twoj¹ magi¹?
+{29782}{29865}Pozbawi³ mnie jej Avatar.
+{29882}{30001}Dlatego zabra³em was tutaj.|Chcê, byœcie poznali swoje przeznaczenie.
+{30001}{30100}Staniecie siê magami krwi najwy¿szej klasy.
+{30100}{30215}Kiedy nadejdzie czas, odbierzemy Republic City,
+{30218}{30283}a wy zniszczycie Avatara.
+{30291}{30370}Pomœcicie mnie!
+{30370}{30450}Taki jest cel waszego ¿ycia!
+{30450}{30542}{Y:i}Dobre czasy minê³y.
+{30605}{30744}{Y:i}Ka¿dej pe³ni ksiê¿yca ojciec|zabiera³ nas na kolejne "polowanie",
+{30744}{30840}{Y:i}gdzie w sekrecie æwiczyliœmy magiê krwi.
+{30849}{30932}{Y:i}Nasza matka o niczym nie wiedzia³a.
+{31170}{31235}Stój!|To go boli!
+{31235}{31364}B¹dŸ mê¿czyzn¹, Tarrlok.|To nie pora na sentymenty.
+{31534}{31637}Bardzo dobrze, synu.|Bardzo dobrze.
+{31730}{31827}{Y:i}Kilka lat póŸniej ojciec nauczy³ nas|u¿ywaæ magii krwi w dowolnym momencie,
+{31830}{31909}{Y:i}bez pe³ni ksiê¿yca.
+{31921}{32055}{Y:i}Ci¹gle æwiczyliœmy, a ja nienawidzi³em|ka¿dej minuty spêdzonej na tym.
+{32468}{32597}{Y:i}Nie mia³em serca manipulowaæ|tymi bezbronnymi zwierzêtami.
+{32600}{32721}{Y:i}Jednak mojemu bratu nowa|moc bardzo siê spodoba³a.
+{32847}{32939}{Y:i}By³ geniuszem, który opanowa³ sztukê
+{32939}{33032}{Y:i}u¿ywania magii krwi za pomoc¹|umys³u, gdy mia³ 14 lat.
+{33578}{33706}Tak to powinno wygl¹daæ.|Do tego masz d¹¿yæ.
+{33748}{33901}{Y:i}Noatak by³ ulubionym dzieckiem ojca,|ale to nie u³atwia³o mu ¿ycia.
+{33903}{34050}{Y:i}Musia³ znosiæ ciê¿ar wszystkich|oczekiwañ i wymagañ Yakone'a.
+{34133}{34225}{Y:i}W ci¹gu tych wszystkich lat|coœ siê w nim zmieni³o.
+{34225}{34381}{Y:i}Kochaj¹cy brat, jakiego zna³em,|sta³ siê zimny i niedostêpny.
+{34463}{34575}{Y:i}Nasz ojciec pchn¹³ nas ku skrajnoœci.
+{34587}{34684}{Y:i}Pewnego dnia kaza³ nam u¿ywaæ|magii krwi przeciwko sobie.
+{34702}{34760}Zaczynaj, Noatak.
+{35226}{35265}Doskonale.
+{35462}{35537}Tarrlok!|Twoja kolej.
+{35537}{35570}Nie.
+{35584}{35620}Nie zrobiê tego.
+{35620}{35692}U¿yj magii krwi na swoim bracie, Tarrlok!
+{35692}{35792}To jest okropne.|Nie u¿yjê tego przeciwko komukolwiek.
+{35792}{35854}Nie chcê u¿ywaæ magii krwi nigdy wiêcej.
+{35854}{35961}Jesteœ powodem do wstydu!|S³abeuszem!
+{35977}{36075}Nauczê ciê pokory.
+{36129}{36193}Nie zbli¿aj siê od niego!
+{36193}{36300}Jak œmiesz u¿ywaæ magii krwi na mnie!
+{36309}{36414}Co zamierzasz zrobiæ?|To ty jesteœ s³aby.
+{36497}{36591}Ci¹gle powtarza³eœ, ¿e magia krwi|to najpotê¿niejsza rzecz na œwiecie.
+{36605}{36696}To nieprawda.|Avatar jest najpotê¿niejszy.
+{36710}{36837}To on odebra³ ci twoje zdolnoœci.|Co mo¿e byæ od tego potê¿niejsze?
+{36837}{37004}To ja was stworzy³em!|Jesteœcie moi!
+{37004}{37120}Jesteœmy twoimi synami.|Nie narzêdziami zemsty.
+{37140}{37251}Idziemy. Mo¿emy uciec od niego.|Na zawsze.
+{37251}{37375}Uciec? A co z mam¹?|Nie zostawimy jej.
+{37381}{37497}Ojciec nie myli³ siê co do ciebie.|Jesteœ s³abeuszem.
+{37707}{37793}Noatak!|Nie odchodŸ! Proszê!
+{37809}{37860}Noatok!
+{38024}{38160}{Y:i}Przez wiele dni szukaliœmy z ojcem Noataka.|Nigdy nie znaleŸliœmy nawet jego œladu.
+{38172}{38245}{Y:i}Powiedzieliœmy, ¿e zagin¹³ w czasie burzy.
+{38245}{38364}{Y:i}Moja matka nie by³a t¹ sam¹ osob¹,|odk¹d mój brat odszed³.
+{38456}{38536}{Y:i}Mój ojciec przesta³ mnie szkoliæ.
+{38536}{38627}{Y:i}Bez Noataka jego szanse na|zemstê zmala³y do zera.
+{38630}{38728}{Y:i}Kilka lat póŸniej zmar³.
+{38932}{39023}To najsmutniejsza historia,|jak¹ kiedykolwiek s³ysza³am.
+{39037}{39171}Przykro mi za to wszystko,|co ci zrobi³em, Avatar Korro.
+{39171}{39239}Chcia³em byæ lepszy ni¿ mój ojciec.
+{39239}{39308}Ale jego duch stale ci¹¿y³ nade mn¹.
+{39314}{39431}Sta³em siê mœcicielem.|Takim, jakim chcia³ mój ojciec.
+{39448}{39517}I takim, jakim sta³ siê mój brat.
+{39527}{39621}Ca³a ta rewolucja mo¿e|i opiera siê o k³amstwo.
+{39628}{39713}Myœlê jednak, ¿e Amon naprawdê wierzy,|¿e magia jest przyczyn¹
+{39713}{39798}ca³ego z³a na tym œwiecie.
+{39803}{39871}Jak odkry³eœ, ¿e Amon to twój brat?
+{39871}{40002}Kiedy odebra³ mi moj¹ magiê,|poczu³em w nim coœ znajomego.
+{40024}{40124}PóŸniej zda³em sobie sprawê,|¿e to magia krwi mojego brata.
+{40140}{40275}Wiêc on u¿ywa magii krwi,|by odbieraæ zdolnoœci innym magom.
+{40275}{40341}Nie wiem, jak on to robi.
+{40347}{40443}Jednak nigdy nie spotka³em|tak potê¿nego maga jak Noatak.
+{40443}{40510}Wiêc jak mo¿emy go pokonaæ?
+{40510}{40545}Nie mo¿emy.
+{40555}{40645}Dziêki swojemu umys³owi|potrafi sparowaæ ka¿dy atak.
+{40651}{40717}Dlatego jest w stanie|walczyæ z ka¿dym magiem.
+{40717}{40831}Nasza zasadzka siê nie powiedzie.|Jeœli tu zostaniemy, ju¿ po nas.
+{40848}{40892}Ale jest inny sposób, by go pokonaæ.
+{40892}{40916}Jaki?
+{40926}{41026}Przez ca³y czas Amon by³ krok przed nami.
+{41026}{41156}Ale w koñcu mamy przewagê.|Znamy prawdê o nim.
+{41156}{41259}Je¿eli jego zwolennicy|na wiecu us³ysz¹, ¿e jest magiem.
+{41259}{41355}Odbierzemy mu jego prawdziw¹ moc.
+{41355}{41431}I podwa¿ymy ca³¹ tê rewolucjê.
+{41461}{41512}Dziêkujemy za pomoc.
+{41630}{41677}Nie mo¿emy go tutaj zostawiæ.
+{41677}{41709}IdŸcie.
+{41709}{41785}Amon nie mo¿e wiedzieæ,|¿e z kimkolwiek rozmawia³em.
+{41794}{41923}Pokonajcie go.|Zakoñczcie tê smutn¹ historiê.
